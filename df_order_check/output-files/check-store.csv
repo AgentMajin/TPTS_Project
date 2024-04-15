@@ -1,0 +1,9 @@
+,*Loc,Descr,Loc_Type,HIERARCHYLEVEL,UDC_ClusterDescr,UDC_ClusterID,UDC_CountryDescr,UDC_CountryID,UDC_Create_Dtetm,UDC_Level,UDC_RegionDescr,UDC_RegionID,UDC_Update_Dtetm,UDC_AreaID,UDC_AreaDescr,Type,UDC_Delete
+48,1181,CF P.Thiet Hai Thuong Lan Ong,6,STORE,CoopFood,CF,Vietnam,VN,,1,Mien Dong,MD,,S,PHAN THIET,1,False
+49,1182,CF Phan Thiet-Tu Van Tu,6,STORE,CoopFood,CF,Vietnam,VN,,1,Mien Dong,MD,,S,PHAN THIET,1,False
+50,1183,CF P.Thiet Vo Van Kiet,6,STORE,CoopFood,CF,Vietnam,VN,,1,Mien Dong,MD,,S,PHAN THIET,1,False
+103,1311,CF Vung Tau Plaza,6,STORE,CoopFood,CF,Vietnam,VN,,1,Mien Dong,MD,,S,VUNG TAU,1,False
+104,1312,CF Vung Tau Center,6,STORE,CoopFood,CF,Vietnam,VN,,1,Mien Dong,MD,,S,VUNG TAU,1,False
+106,1314,CF Vung Tau Phoenix,6,STORE,CoopFood,CF,Vietnam,VN,,1,Mien Dong,MD,,S,VUNG TAU,1,False
+624,4203,FLIFE SUPERMARKET SAIGON MIA,6,STORE,FINELIFE,FL,Vietnam,VN,,1,HO CHI MINH,HCMC,,B,Thanh Pho Ho Chi Minh,1,False
+650,525,Co.opMart Nam Dinh,6,STORE,CoopMart,CM,Vietnam,VN,,1,Mien Bac,MB,,B,Mien Bac,1,False

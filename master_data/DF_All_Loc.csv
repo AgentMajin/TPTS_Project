@@ -1,0 +1,967 @@
+*Loc,Descr,Loc_Type,HIERARCHYLEVEL,UDC_ClusterDescr,UDC_ClusterID,UDC_CountryDescr,UDC_CountryID,UDC_Create_Dtetm,UDC_Level,UDC_RegionDescr,UDC_RegionID,UDC_Update_Dtetm,UDC_AreaID,UDC_AreaDescr,Type,UDC_Delete
+ ,Blank Loc (system row - do not delete),1, , , , , ,,1, , ,, , ,1,FALSE
+10008,233-CTY Co phan TP A Chau,1, ,Vendor,VENDOR,Vietnam,VN,2/10/2020 14:40,1,VENDOR,VEND,6/9/2020 9:29, , ,1,FALSE
+10019,222-CTy CP VN Ky Nghe Suc San,1, ,Vendor,VENDOR,Vietnam,VN,2/10/2020 14:40,1,VENDOR,VEND,6/9/2020 9:29, , ,1,FALSE
+10023,111-Cty Ajinomoto Bien Hoa,1, ,vendor,VENDOR,Vietnam,VN,,1,VENDOR,VEND,, , ,1,FALSE
+10042,*233-Cty CP TP Vinh Thanh Dat,1, , , ,Vendor, ,2/28/2024 14:32,1, , ,2/28/2024 14:32, , ,1,FALSE
+10100,110-Cty CP TP Bich Chi,1, ,Vendor,VENDOR,Vietnam,VN,2/10/2020 14:40,1,VENDOR,VEND,6/9/2020 9:29, , ,1,FALSE
+10176,130-CTY CP TP Binh Tay,1, ,Vendor,VENDOR, , ,8/12/2021 15:44,1, , ,8/12/2021 15:44, , ,1,FALSE
+10253,110-Cty CP DV Phattrien TTruong C.L,1, ,vendor,VENDOR,Vietnam,VN,,1,VENDOR,VEND,, , ,1,FALSE
+10268,110-Cty Co Phan Tap Doan KIDO-NR,1, ,Vendor,VENDOR,Vietnam,VN,,1,VENDOR,VEND,, , ,1,FALSE
+10283,110-Cty CP Mondelez Kinh Do VN,1, ,Vendor,VENDOR,Vietnam,VN,2/10/2020 14:40,1,VENDOR,VEND,6/9/2020 9:29, , ,1,FALSE
+10324,100-Cty TNHH TM XNK Pham Gia Phat,1, , , , ,VENDOR,3/6/2024 3:57,1, , ,3/6/2024 3:57, , ,1,FALSE
+10325,233-CTy TNHH Di Dai Hung,1, , , , ,VENDOR,3/6/2024 3:57,1, , ,3/6/2024 3:57, , ,1,FALSE
+10326,233-CTY TNHH Nhua Duc Dat,1, , , , ,VENDOR,3/6/2024 3:57,1, , ,3/6/2024 3:57, , ,1,FALSE
+10327,100-Cty TNHH TP Khang Phuc-NR,1, ,Vendor,VENDOR,Vietnam,VN,,1,VENDOR,VEND,, , ,1,FALSE
+10328,233-Co so che bien Hoang Quan,1, , , , ,VENDOR,3/6/2024 3:57,1, , ,3/6/2024 3:57, , ,1,FALSE
+10329,100-Cty TNHH Nong trai xanh Long An,1, , , , ,VENDOR,3/6/2024 3:57,1, , ,3/6/2024 3:57, , ,1,FALSE
+10330,Pham Gia Phat,1, , , , ,VENDOR,3/6/2024 3:57,1, , ,3/6/2024 3:57, , ,1,FALSE
+10331,233-NKD-CT TNHHMTVDienGiaDungSunHan,1, , , , ,VENDOR,3/6/2024 3:57,1, , ,3/6/2024 3:57, , ,1,FALSE
+10464,130-CTY Co Phan VinaMit,1, ,Vendor,VENDOR,Vietnam,VN,2/10/2020 14:40,1,VENDOR,VEND,6/9/2020 9:29, , ,1,FALSE
+10673,100-CtyTNHHSXTMDVNSTPHatViet-NR,1, ,Vendor,VENDOR,Vietnam,VN,,1,VENDOR,VEND,, , ,1,FALSE
+10734,100-HKD Co so SX Ba Khanh,1, , , , ,VENDOR,3/6/2024 3:57,1, , ,3/6/2024 3:57, , ,1,FALSE
+10777,233-Cty TNHH Dau tu TMSX D&D-TPTS,1, , , ,Vendor, ,2/28/2024 14:32,1, , ,2/28/2024 14:32, , ,1,FALSE
+10869,110-Cty TNHH Hoa My Pham Thai Hoa,1, ,vendor,VENDOR,Vietnam,VN,,1,VENDOR,VEND,, , ,1,FALSE
+10930,222-CN 1-Cty TNHH DV TM Thanh Ngoc,1, ,Vendor,VENDOR,Vietnam,VN,2/10/2020 14:40,1,VENDOR,VEND,6/9/2020 9:29, , ,1,FALSE
+10949,233-Cty TNHH Dau tu SXTM Ngoc Thanh,1, , , ,Vendor, ,2/28/2024 14:32,1, , ,2/28/2024 14:32, , ,1,FALSE
+10985,100-Cty TM&PT Cong Nghe Kolend,1, ,Vendor,VENDOR, , ,8/12/2021 15:44,1, , ,8/12/2021 15:44, , ,1,FALSE
+11011,100-CT TNHH SX Do Gia DungElmich-NR,1, ,Vendor,VENDOR,Vietnam,VN,,1,VENDOR,VEND,, , ,1,FALSE
+11041,111-CN CTY TNHH Lavie,1, ,vendor,VENDOR,Vietnam,VN,,1,VENDOR,VEND,, , ,1,FALSE
+11119,110-Cty TNHH Lotte Viet Nam,1, ,vendor,VENDOR,Vietnam,VN,,1,VENDOR,VEND,, , ,1,FALSE
+11144,110-Cty CP CBTHS Lien Thanh,1, ,Vendor,VENDOR, , ,8/12/2021 15:44,1, , ,8/12/2021 15:44, , ,1,FALSE
+112,Co.opMart Quy Nhon,6,STORE,CoopMart,CM,Vietnam,VN,,1,Mien Trung,MTR,,B,Mien Trung,1,FALSE
+11266,110-Cty CP Tap Doan Muoi Mien Nam,1, ,Vendor,VENDOR, , ,8/12/2021 15:44,1, , ,8/12/2021 15:44, , ,1,FALSE
+11331,222-CTy Co Phan Quoc Te Minh Viet,1, ,Vendor,VENDOR,Vietnam,VN,2/10/2020 14:40,1,VENDOR,VEND,6/9/2020 9:29, , ,1,FALSE
+11337,233-Thach Minh Lan,1, , , ,Vendor, ,2/28/2024 14:32,1, , ,2/28/2024 14:32, , ,1,FALSE
+11354,233-Cty CP TP One One Mien Nam,1, ,Vendor,VENDOR,Vietnam,VN,,1,VENDOR,VEND,, , ,1,FALSE
+11380,110-CTY CP bot giat NET,1, ,vendor,VENDOR,Vietnam,VN,,1,VENDOR,VEND,, , ,1,FALSE
+114,Co.opMart My Tho,6,STORE,CoopMart,CM,Vietnam,VN,2/10/2020 14:40,1,Mien Tay,MT,6/9/2020 9:29,B,Mien Tay - Khu vuc 1,1,FALSE
+11460,100-Cty TNHH MTV TruongDatKieuTrang,1, , , , ,VENDOR,3/6/2024 3:57,1, , ,3/6/2024 3:57, , ,1,FALSE
+11659,100-Cty CPTP Richy Mien Nam-NR,1, ,Vendor,VENDOR,Vietnam,VN,,1,VENDOR,VEND,, , ,1,FALSE
+11681,110-CTY Co Phan P/S,1, ,vendor,VENDOR,Vietnam,VN,,1,VENDOR,VEND,, , ,1,FALSE
+11741,100-CTY TNHH TMBH Quang Anh,1, ,vendor,VENDOR,Vietnam,VN,,1,VENDOR,VEND,, , ,1,FALSE
+11773,110-CTy CP SX Nhua Duy Tan,1, ,Vendor,VENDOR, , ,8/12/2021 15:44,1, , ,8/12/2021 15:44, , ,1,FALSE
+11777,100-CT CP Nhua Rang Dong Long An-NR,1, ,Vendor,VENDOR,Vietnam,VN,,1,VENDOR,VEND,, , ,1,FALSE
+11778,110-CtyTNHH WilmarMar.CLV-D.an(MNam,1, ,Vendor,VENDOR,Vietnam,VN,2/10/2020 14:40,1,VENDOR,VEND,6/9/2020 9:29, , ,1,FALSE
+11779,001 CtyTNHH WilmarMar CLV D an MBac,1, ,Vendor,VENDOR,Vietnam,VN,,1, , ,, , ,1,FALSE
+11780,111-Cty TNHH Wilmar Mar.CLV-Bot mi,1, ,vendor,VENDOR,Vietnam,VN,,1,VENDOR,VEND,, , ,1,FALSE
+118,Co.opMart Phan Thiet,6,STORE,CoopMart,CM,Vietnam,VN,,1,Mien Dong,MD,,B,Mien Dong,1,FALSE
+11805,100-Cty Rehang,1, ,vendor,VENDOR,Vietnam,VN,,1,VENDOR,VEND,, , ,1,FALSE
+1181,CF P.Thiet Hai Thuong Lan Ong,6,STORE,CoopFood,CF,Vietnam,VN,,1,Mien Dong,MD,,S,PHAN THIET,1,FALSE
+1182,CF Phan Thiet-Tu Van Tu,6,STORE,CoopFood,CF,Vietnam,VN,,1,Mien Dong,MD,,S,PHAN THIET,1,FALSE
+1183,CF P.Thiet Vo Van Kiet,6,STORE,CoopFood,CF,Vietnam,VN,,1,Mien Dong,MD,,S,PHAN THIET,1,FALSE
+11841,130-Cty TNHH Saigon Ve Wong,1, ,Vendor,VENDOR, , ,8/12/2021 15:44,1, , ,8/12/2021 15:44, , ,1,FALSE
+11846,110-CTY Song Hang,1, ,vendor,VENDOR,Vietnam,VN,,1,VENDOR,VEND,, , ,1,FALSE
+119,Co.opMart Long Xuyen,6,STORE,CoopMart,CM,Vietnam,VN,,1,Mien Tay,MT,,B,Mien Tay,1,FALSE
+11903,223-Cty CP TMDV SX Hoang Gia An,1, ,Vendor,VENDOR,Vietnam,VN,,1,VENDOR,VEND,, , ,1,FALSE
+11920,110-CTY TNHH SX TM XNK Thuan An,1, ,vendor,VENDOR,Vietnam,VN,,1,VENDOR,VEND,, , ,1,FALSE
+11949,233-Cty CP CBTP Cao Bang,1, , , ,Vendor, ,2/28/2024 14:32,1, , ,2/28/2024 14:32, , ,1,FALSE
+120,Co.opMart Vinh Long,6,STORE,CoopMart,CM,Vietnam,VN,,1,Mien Tay,MT,,B,Mien Tay,1,FALSE
+12001,CH Co.opFood Ba Lang,6,STORE,CoopFood,CF,Vietnam,VN,1/7/2021 8:42,1,Mien Tay,MT,1/7/2021 8:42,S, ,1,FALSE
+12015,100-CTY TNHH TM&CBTP Tien Du,1, ,Vendor,VENDOR, , ,8/12/2021 15:44,1, , ,8/12/2021 15:44, , ,1,FALSE
+12051,*233-Cty CP Thuc pham BMQ,1, , , ,Vendor, ,2/28/2024 14:32,1, , ,2/28/2024 14:32, , ,1,FALSE
+121,Co.opMart Vi Thanh,6,STORE,CoopMart,CM,Vietnam,VN,,1,Mien Tay,MT,,B,Mien Tay,1,FALSE
+12162,233-CtyCP XNK CBTP Hoang T.Huong-TS,1, , , ,Vendor, ,2/28/2024 14:32,1, , ,2/28/2024 14:32, , ,1,FALSE
+122,Co.opMart Tuy Hoa,6,STORE,CoopMart,CM,Vietnam,VN,,1,Mien Trung,MTR,,B,Mien Trung,1,FALSE
+12201,CH Co.opFood PY Vo Thi Sau,6,STORE,CoopMart,CM,Vietnam,VN,1/7/2021 8:42,1,Trung Bo,MTR,1/7/2021 8:42,S, ,1,FALSE
+12202,CH Co.opFood PY Truong Chinh,6,STORE,CoopMart,CM,Vietnam,VN,4/26/2021 12:31,1,Trung Bo,MTR,4/26/2021 12:31,S, ,1,FALSE
+12203,CH Co.opFood PY Chi Thanh,6,STORE,CoopMart,CM,Vietnam,VN,4/26/2021 12:31,1,Trung Bo,MTR,4/26/2021 12:31,S, ,1,FALSE
+12204,CH Co.opFood PY Hoa Xuan Tay,6,STORE,CoopMart,CM,Vietnam,VN,4/26/2021 12:31,1,Trung Bo,MTR,4/26/2021 12:31,S, ,1,FALSE
+12205,CH Co.opFood PY Tran Phu,6,STORE,CoopMart,CM,Vietnam,VN,4/26/2021 12:31,1,Trung Bo,MTR,4/26/2021 12:31,S, ,1,FALSE
+12206,CH Co.opFood PY Nguyen Huu Tho,6,STORE,CoopMart,CM,Vietnam,VN,,1,Trung Bo,MTR,,S,PHU YEN,1,FALSE
+12207,CH Co.opFood PY Hoa Hiep Trung,6,STORE,CoopMart,CM,Vietnam,VN,,1,Trung Bo,MTR,,S,"TX.Dong Hoa, Phu Yen",1,FALSE
+12208,CH Co.opFood PY La Hai,6,STORE,CoopMart,CM,Vietnam,VN,,1,Trung Bo,MTR,,S,Phu Yen,1,FALSE
+12209,CH Co.opFood PY Song Cau,6,STORE,CoopMart,CM,Vietnam,VN,5/24/2023 16:37,1,Trung Bo,MTR,5/24/2023 16:37,S,Phu Yen,1,FALSE
+12210,CH Co.opFood PY Song Hinh,6,STORE,CoopMart,CM,Vietnam,VN,5/24/2023 16:37,1,Trung Bo,MTR,5/24/2023 16:37,S,Phu Yen,1,FALSE
+12211,CH Co.opFood PY Phu Thu,6,STORE,CoopMart,CM,Vietnam,VN,5/24/2023 16:37,1,Trung Bo,MTR,5/24/2023 16:37,S,Phu Yen,1,FALSE
+12212,CH Co.opFood PY Long Thuy,6,STORE,CoopMart,CM,Vietnam,VN,5/24/2023 16:37,1,Trung Bo,MTR,5/24/2023 16:37,S,Phu Yen,1,FALSE
+12213,CH Co.opFood PY Son Hoa,6,STORE,CoopMart,CM,Vietnam,VN,,1,Trung Bo,MTR,,S,Phu Yen,1,FALSE
+12214,CH Co.opFood PY Phu Lam,6,STORE,CoopMart,CM,Vietnam,VN,,1,Trung Bo,MTR,,S,Phu Yen,1,FALSE
+123,Co.opMart Pleiku,6,STORE,CoopMart,CM,Vietnam,VN,,1,Tay Nguyen,TN,,B,Tay Nguyen,1,FALSE
+12320,111-Cty TNHH TNI KING COFFEE,1, ,Vendor,VENDOR,Vietnam,VN,2/10/2020 14:40,1,VENDOR,VEND,6/9/2020 9:29, , ,1,FALSE
+12373,233-Cty TNHH Long Huy Phat,1, , , ,Vendor, ,2/28/2024 14:32,1, , ,2/28/2024 14:32, , ,1,FALSE
+124,Co.opMart Bien Hoa,6,STORE,CoopMart,CM,Vietnam,VN,,1,Mien Dong,MD,,B,Mien Dong,1,FALSE
+12472,233-CTY CP ASAHI BEVERAGES VN,1, ,Vendor,VENDOR,Vietnam,VN,2/10/2020 14:40,1,VENDOR,VEND,6/9/2020 9:29, , ,1,FALSE
+12483,110-Cty TNHH SXTM TyTy(HMP),1, ,vendor,VENDOR,Vietnam,VN,,1,VENDOR,VEND,, , ,1,FALSE
+12514,111-Cty CP HH Vedan Viet Nam,1, ,vendor,VENDOR,Vietnam,VN,,1,VENDOR,VEND,, , ,1,FALSE
+12532,100-Cty CP CNTP Luong Gia-NR,1, ,Vendor,VENDOR,Vietnam,VN,,1,VENDOR,VEND,, , ,1,FALSE
+12547,131-Cty CP Uniben,1, ,vendor,VENDOR,Vietnam,VN,,1,VENDOR,VEND,, , ,1,FALSE
+12565,130-CTY TNHH TP Van Kim,1, ,vendor,VENDOR,Vietnam,VN,,1,VENDOR,VEND,, , ,1,FALSE
+12698,233-Cty TNHH TP Quoc Te Tam Loi,1, , , ,Vendor, ,2/28/2024 14:32,1, , ,2/28/2024 14:32, , ,1,FALSE
+127,Co.opMart Dong Xoai,6,STORE,CoopMart,CM,Vietnam,VN,,1,Mien Dong,MD,,B,Mien Dong,1,FALSE
+12701,CH Co.opFood BP Nguyen Hue,6,STORE,CoopFood,CF,Vietnam,VN,1/7/2021 8:42,1,Dong Nam Bo,DNB,3/14/2022 0:00,S, ,1,TRUE
+12762,100-Cty TNHH Thuy Huong,1, ,vendor,VENDOR,Vietnam,VN,,1,VENDOR,VEND,, , ,1,FALSE
+12770,110-Cty CP Dau thuc vat Tan Binh,1, ,vendor,VENDOR,Vietnam,VN,,1,VENDOR,VEND,, , ,1,FALSE
+12773,112-CTY CP TP Quoc Te,1, ,Vendor,VENDOR,Vietnam,VN,2/10/2020 14:40,1,VENDOR,VEND,6/9/2020 9:29, , ,1,FALSE
+128,Co.opMart Da Nang,6,STORE,CoopMart,CM,Vietnam,VN,,1,Mien Trung,MTR,,B,Mien Trung,1,FALSE
+12868,233-Cty CP Thuc pham TNT,1, , , ,Vendor, ,2/28/2024 14:32,1, , ,2/28/2024 14:32, , ,1,FALSE
+12869,233-HKD Hong Loan,1, , , ,Vendor, ,2/28/2024 14:32,1, , ,2/28/2024 14:32, , ,1,FALSE
+12989,100-CTY TNHH SAMRAN,1, ,Vendor,VENDOR, , ,8/12/2021 15:44,1, , ,8/12/2021 15:44, , ,1,FALSE
+12995,100-CTy CP CB Go Duc Thanh-NR,1, ,Vendor,VENDOR,Vietnam,VN,,1,VENDOR,VEND,, , ,1,FALSE
+130,Co.opMart Rach Mieu,6,STORE,CoopMart,CM,Vietnam,VN,,1,HO CHI MINH,HCMC,,B,Thanh Pho Ho Chi Minh,1,FALSE
+13062,200-CN Cty CP VN KNSS-TTKDTP VISSAN,1, , , ,Vendor, ,2/28/2024 14:32,1, , ,2/28/2024 14:32, , ,1,FALSE
+13093,233-CTy TNHH TMai Thoai An-TPTS,1, , , ,Vendor, ,2/28/2024 14:32,1, , ,2/28/2024 14:32, , ,1,FALSE
+131,Co.opMart Vung Tau,6,STORE,CoopMart,CM,Vietnam,VN,,1,Mien Dong,MD,,B,Mien Dong,1,FALSE
+1311,CF Vung Tau Plaza,6,STORE,CoopFood,CF,Vietnam,VN,,1,Mien Dong,MD,,S,VUNG TAU,1,FALSE
+1312,CF Vung Tau Center,6,STORE,CoopFood,CF,Vietnam,VN,,1,Mien Dong,MD,,S,VUNG TAU,1,FALSE
+1313,NKD-CF Vung Tau 30/4,6,STORE,CoopFood,CF,Vietnam,VN,,1,VUNG TAU,VT,3/14/2022 0:00,S,VUNG TAU,1,TRUE
+1314,CF Vung Tau Phoenix,6,STORE,CoopFood,CF,Vietnam,VN,,1,Mien Dong,MD,,S,VUNG TAU,1,FALSE
+132,Co.opMart Tam Ky,6,STORE,CoopMart,CM,Vietnam,VN,,1,Mien Trung,MTR,,B,Mien Trung,1,FALSE
+133,Co.opMart Nhieu Loc,6,STORE,CoopMart,CM,Vietnam,VN,,1,HO CHI MINH,HCMC,,B,Thanh Pho Ho Chi Minh,1,FALSE
+13390,232-Cty TNHH Thien Luong,1, , , ,Vendor, ,2/28/2024 14:32,1, , ,2/28/2024 14:32, , ,1,FALSE
+134,Co.opMart Tuy Ly Vuong,6,STORE,CoopMart,CM,Vietnam,VN,,1,HO CHI MINH,HCMC,,B,Thanh Pho Ho Chi Minh,1,FALSE
+13468,100-CTY TNHH SAMRAN-NR,1, ,Vendor,VENDOR,Vietnam,VN,,1,VENDOR,VEND,, , ,1,FALSE
+135,Co.opMart 96 Hung Vuong,6,STORE,CoopMart,CM,Vietnam,VN,,1,HO CHI MINH,HCMC,,B,Thanh Pho Ho Chi Minh,1,FALSE
+136,Co.opMart Binh Tan,6,STORE,CoopMart,CM,Vietnam,VN,,1,HO CHI MINH,HCMC,,B,Thanh Pho Ho Chi Minh,1,FALSE
+137,Co.opMart Hue,6,STORE,CoopMart,CM,Vietnam,VN,,1,Mien Trung,MTR,,B,Mien Trung,1,FALSE
+138,Co.opMart Buon Ma Thuot,6,STORE,CoopMart,CM,Vietnam,VN,,1,Tay Nguyen,TN,,B,Tay Nguyen,1,FALSE
+13923,233-Cty TNHH SX banh keo My Ngoc,1, , , ,Vendor, ,2/28/2024 14:32,1, , ,2/28/2024 14:32, , ,1,FALSE
+13953,233-NGUYEN DUC THANG(HO NAI-BChung),1, , , ,Vendor, ,2/28/2024 14:32,1, , ,2/28/2024 14:32, , ,1,FALSE
+13978,233-Cty Co phan Thuc pham Cholimex,1, ,Vendor,VENDOR,Vietnam,VN,2/10/2020 14:40,1,VENDOR,VEND,6/9/2020 9:29, , ,1,FALSE
+13979,100-CTy TNHH Thuong Mai L.H,1, ,vendor,VENDOR,Vietnam,VN,,1,VENDOR,VEND,, , ,1,FALSE
+13995,110-Cty CP LTTP COLUSA MILIKET,1, ,Vendor,VENDOR,Vietnam,VN,2/10/2020 14:40,1,VENDOR,VEND,6/9/2020 9:29, , ,1,FALSE
+140,Co.opMart Nha Trang,6,STORE,CoopMart,CM,Vietnam,VN,,1,Mien Trung,MTR,,B,Mien Trung,1,FALSE
+14001,CH Co.opFood KH Vinh Thanh,6,STORE,CoopMart,CM,Vietnam,VN,4/26/2021 12:31,1,Trung Bo,MTR,4/26/2021 12:31,S, ,1,FALSE
+141,Co.opMart Nguyen Anh Thu,6,STORE,CoopMart,CM,Vietnam,VN,,1,HO CHI MINH,HCMC,,B,Thanh Pho Ho Chi Minh,1,FALSE
+142,Co.opMart Bac Lieu 2,6,STORE,CoopMart,CM,Vietnam,VN,,1,Mien Tay,MT,,B,Mien Tay,1,FALSE
+14201,CH CF BL Nguyen Thi Minh Khai,6,STORE,CoopFood,CF,Vietnam,VN,1/7/2021 8:42,1,Mien Tay,MT,1/7/2021 8:42,S, ,1,FALSE
+14202,CH Co.opFood BL Le Duan,6,STORE,CoopFood,CF,Vietnam,VN,1/7/2021 8:42,1,Mien Tay,MT,1/7/2021 8:42,S, ,1,FALSE
+14233,111-Cty TNHH Perfetti Van MelleVN,1, ,vendor,VENDOR,Vietnam,VN,,1,VENDOR,VEND,, , ,1,FALSE
+14337,130-Cty TNHH VINH TIEN,1, ,Vendor,VENDOR, , ,8/12/2021 15:44,1, , ,8/12/2021 15:44, , ,1,FALSE
+144,Co.opMart Kien Giang,6,STORE,CoopMart,CM,Vietnam,VN,,1,Mien Tay,MT,,B,Mien Tay,1,FALSE
+145,Co.opMart Quang Ngai,6,STORE,CoopMart,CM,Vietnam,VN,,1,Mien Trung,MTR,,B,Mien Trung,1,FALSE
+14508,233-DNTN DUY DIEP,1, , , ,Vendor, ,2/28/2024 14:32,1, , ,2/28/2024 14:32, , ,1,FALSE
+14530,110-Co so Nguyen Van Sau,1, ,vendor,VENDOR,Vietnam,VN,,1,VENDOR,VEND,, , ,1,FALSE
+14541,100-HTX Lang Nghe B.Trang PHDong-NR,1, ,Vendor,VENDOR,Vietnam,VN,,1,VENDOR,VEND,, , ,1,FALSE
+14649,233-Cty CP May Thien Ha,1, ,Vendor,VENDOR,Vietnam,VN,2/10/2020 14:40,1,VENDOR,VEND,6/9/2020 9:29, , ,1,FALSE
+14653,110-DNTN Dai Phat,1, ,vendor,VENDOR,Vietnam,VN,,1,VENDOR,VEND,, , ,1,FALSE
+147,Co.opMart Soc Trang,6,STORE,CoopMart,CM,Vietnam,VN,,1,Mien Tay,MT,,B,Mien Tay,1,FALSE
+14702,CH Co.opFood ST Tran De,6,STORE,CoopFood,CF,Vietnam,VN,4/26/2021 12:31,1,Mien Tay,MT,4/26/2021 12:31,S, ,1,FALSE
+1471,CH CFood 135 Truong Cong Dinh,6,STORE,CoopFood,CF,Vietnam,VN,,1,Mien Tay,MT,,S,Mien Tay,1,FALSE
+14736,233-DNTN THAI KIEN DAT,1, , , ,Vendor, ,2/28/2024 14:32,1, , ,2/28/2024 14:32, , ,1,FALSE
+14758,232-CT CP Ngoi nha AnhDuong MienNam,1, ,Vendor,VENDOR,Vietnam,VN,2/10/2020 14:40,1,VENDOR,VEND,6/9/2020 9:29, , ,1,FALSE
+148,Co.opMart Thanh Ha,6,STORE,CoopMart,CM,Vietnam,VN,,1,Mien Trung,MTR,,B,Mien Trung,1,FALSE
+150,Co.opMart Ha Tinh,6,STORE,CoopMart,CM,Vietnam,VN,,1,Mien Bac,MB,,B,Mien Bac,1,FALSE
+15001,CH CFood HT Hai Thuong Lan Ong,6,STORE,CoopFood,CF,Vietnam,VN,4/26/2021 12:31,1,Mien Bac,MB,4/26/2021 12:31,S, ,1,FALSE
+15002,CH Co.opFood HT Hong Linh,6,STORE,CoopFood,CF,Vietnam,VN,4/26/2021 12:31,1,Mien Bac,MB,4/26/2021 12:31,S, ,1,FALSE
+15003,CH Co.opFood HT Nguyen Bien,6,STORE,CoopFood,CF,Vietnam,VN,,1,Mien Bac,MB,,S,HA TINH,1,FALSE
+15004,CH Co.opFood HT Vu Quang,6,STORE,CoopFood,CF,Vietnam,VN,,1,Mien Bac,MB,,S,Ha Tinh,1,FALSE
+15005,CH Co.opFood HT Ha Huy Tap,6,STORE,CoopFood,CF,Vietnam,VN,,1,Mien Bac,MB,,S,"TP.HaTinh,tinhHaTinh",1,FALSE
+15006,CH Co.opFood HT Can Loc,6,STORE,CoopFood,CF,Vietnam,VN,5/24/2023 16:37,1,Mien Bac,MB,5/24/2023 16:37,S,"H.Can Loc, Ha Tinh",1,FALSE
+151,Co.opMart Cong Quynh,6,STORE,CoopMart,CM,Vietnam,VN,2/10/2020 14:40,1,HO CHI MINH,HCMC,6/9/2020 9:29,B,Thanh pho Ho Chi Minh - Khu vuc 1,1,FALSE
+152,Co.opMart Hoc Mon,6,STORE,CoopMart,CM,Vietnam,VN,,1,HO CHI MINH,HCMC,,B,Thanh Pho Ho Chi Minh,1,FALSE
+15208,100-CN CT CP GiaDung GOLDSUN(TP.HN),1, ,vendor,VENDOR,Vietnam,VN,,1,VENDOR,VEND,, , ,1,FALSE
+153,Co.opMart Hau Giang,6,STORE,CoopMart,CM,Vietnam,VN,2/10/2020 14:40,1,HO CHI MINH,HCMC,6/9/2020 9:29,B,Thanh pho Ho Chi Minh - Khu vuc 1,1,FALSE
+15333,100-CN CT CP B.den Ph.nuoc RangDong,1, ,vendor,VENDOR,Vietnam,VN,,1,VENDOR,VEND,, , ,1,FALSE
+15343,*233-Cty TNHH 1TV Thao Nguyen Phat,1, , , ,Vendor, ,2/28/2024 14:32,1, , ,2/28/2024 14:32, , ,1,FALSE
+15344,2-Lien hiep HTXTMTP.HCM-CBNC,1, ,Vendor,VENDOR,Vietnam,VN,,1,VENDOR,VEND,, , ,1,FALSE
+15348,130-CTY CP SX Tra Hung Phat,1, ,Vendor,VENDOR, , ,8/12/2021 15:44,1, , ,8/12/2021 15:44, , ,1,FALSE
+154,Co.opMart Phu Tho,6,STORE,CoopMart,CM,Vietnam,VN,,1,HO CHI MINH,HCMC,,B,Thanh Pho Ho Chi Minh,1,FALSE
+15443,233-Cty CP TMDVSX Van Thinh Phu,1, ,Vendor,VENDOR,Vietnam,VN,2/10/2020 14:40,1,VENDOR,VEND,6/9/2020 9:29, , ,1,FALSE
+155,Co.opMart Nguyen Dinh Chieu,6,STORE,CoopMart,CM,Vietnam,VN,,1,HO CHI MINH,HCMC,,B,Thanh Pho Ho Chi Minh,1,FALSE
+15504,111-Cty CP TP Bich Chi-NR,1, ,Vendor,VENDOR,Vietnam,VN,,1,VENDOR,VEND,, , ,1,FALSE
+15506,111-Cty Bot giat LIX-NR,1, ,Vendor,VENDOR,Vietnam,VN,,1,VENDOR,VEND,, , ,1,FALSE
+15509,24-CTY CP Sai Gon Food-NR,1, ,Vendor,VENDOR,Vietnam,VN,,1,VENDOR,VEND,, , ,1,FALSE
+15510,100-Cty TNHH N.U T.Khiet SAIGON-NR,1, ,Vendor,VENDOR,Vietnam,VN,,1,VENDOR,VEND,, , ,1,FALSE
+15512,100-Cty CP Uniben-NR,1, ,Vendor,VENDOR,Vietnam,VN,,1,VENDOR,VEND,, , ,1,FALSE
+15554,233-My Van,1, , , ,Vendor, ,2/28/2024 14:32,1, , ,2/28/2024 14:32, , ,1,FALSE
+15585,002 CN Cty CP QTe Minh Viet Ha Noi,1, ,Vendor,VENDOR,Vietnam,VN,,1, , ,, , ,1,FALSE
+156,NKD-Co.opMart Dinh Tien Hoang,6,STORE,CoopMart,CM,Vietnam,VN,1/17/2021 15:56,1,TP.HCM,0,10/15/2018 0:00,B,TP.HCM,1,TRUE
+15628,222 Cty CP Tap doan Sunhouse,1, ,Vendor,VENDOR,Vietnam,VN,,1, , ,, , ,1,FALSE
+15694,*232-Cty CP banh mut keo Bao Minh,1, , , ,Vendor, ,2/28/2024 14:32,1, , ,2/28/2024 14:32, , ,1,FALSE
+157,Co.opMart Phu Lam,6,STORE,CoopMart,CM,Vietnam,VN,,1,HO CHI MINH,HCMC,,B,Thanh Pho Ho Chi Minh,1,FALSE
+15747,100-Cty TNHH Dong Hwa,1, ,vendor,VENDOR,Vietnam,VN,,1,VENDOR,VEND,, , ,1,FALSE
+15790,110-CTy CP HMP My Hao,1, ,Vendor,VENDOR, , ,8/12/2021 15:44,1, , ,8/12/2021 15:44, , ,1,FALSE
+158,Co.opMart Thang Loi,6,STORE,CoopMart,CM,Vietnam,VN,,1,HO CHI MINH,HCMC,,B,Thanh Pho Ho Chi Minh,1,FALSE
+15800,110-Cty TNHH 1TV Tri Hoi,1, ,vendor,VENDOR,Vietnam,VN,,1,VENDOR,VEND,, , ,1,FALSE
+159,Co.opMart Huynh Tan Phat,6,STORE,CoopMart,CM,Vietnam,VN,,1,HO CHI MINH,HCMC,,B,Thanh Pho Ho Chi Minh,1,FALSE
+160,Co.opMart Nguyen Kiem,6,STORE,CoopMart,CM,Vietnam,VN,,1,HO CHI MINH,HCMC,,B,Thanh Pho Ho Chi Minh,1,FALSE
+16075,110-Cty CP CBTHS Lien Thanh-NR,1, ,Vendor,VENDOR,Vietnam,VN,,1,VENDOR,VEND,, , ,1,FALSE
+161,Co.opMart Xa Lo Ha Noi,6,STORE,CoopMart,CM,Vietnam,VN,,1,HO CHI MINH,HCMC,,B,Thanh Pho Ho Chi Minh,1,FALSE
+16108,222-Cty CP MARICO SOUTH EAST ASIA,1, ,Vendor,VENDOR,Vietnam,VN,2/10/2020 14:40,1,VENDOR,VEND,6/9/2020 9:29, , ,1,FALSE
+16153,200-Co so Quang Huy,1, , , ,Vendor, ,2/28/2024 14:32,1, , ,2/28/2024 14:32, , ,1,FALSE
+162,Co.opMart Phan Van Tri,6,STORE,CoopMart,CM,Vietnam,VN,,1,HO CHI MINH,HCMC,,B,Thanh Pho Ho Chi Minh,1,FALSE
+16289,110-Cty CP Thuc pham An Long,1, ,Vendor,VENDOR, , ,8/12/2021 15:44,1, , ,8/12/2021 15:44, , ,1,FALSE
+16323,111-CN CT TNHH Calofic-HiepPhuoc-NR,1, ,Vendor,VENDOR,Vietnam,VN,,1,VENDOR,VEND,, , ,1,FALSE
+16359,002 Cty CPVN KN Suc San HANOI,1, ,Vendor,VENDOR,Vietnam,VN,,1, , ,, , ,1,FALSE
+16377,233-Cty TNHH1TV SX TMDV Viet Sang,1, , , , ,VENDOR,3/6/2024 3:57,1, , ,3/6/2024 3:57, , ,1,FALSE
+164,Co.opMart Ha Noi,6,STORE,CoopMart,CM,Vietnam,VN,,1,Mien Bac,MB,,B,Mien Bac,1,FALSE
+16475,222-CTCP Hang Tieu Dung Provence,1, ,Vendor,VENDOR,Vietnam,VN,2/10/2020 14:40,1,VENDOR,VEND,6/9/2020 9:29, , ,1,FALSE
+16495,*233-Cty TNHH 1TV CBTP Tho Phat,1, , , ,Vendor, ,2/28/2024 14:32,1, , ,2/28/2024 14:32, , ,1,FALSE
+16506,110-CTyTNHHSXTMDVDaiPhuocThanh-NR,1, ,Vendor,VENDOR,Vietnam,VN,,1,VENDOR,VEND,, , ,1,FALSE
+16576,233-Cty CP DTPT & TMQT Viet An,1, ,Vendor,VENDOR,Vietnam,VN,2/10/2020 14:40,1,VENDOR,VEND,6/9/2020 9:29, , ,1,FALSE
+166,NKD-Co.opMart An Dong,6,STORE,CoopMart,CM,Vietnam,VN,1/17/2021 15:56,1,HO CHI MINH,HCMC,12/7/2020 0:00,B,TP.HCM,1,TRUE
+16613,233-Cty TNHH Dinh Duong 3A,1, ,Vendor,VENDOR,Vietnam,VN,2/10/2020 14:40,1,VENDOR,VEND,6/9/2020 9:29, , ,1,FALSE
+16614,233-Cty TNHH Dinh Duong 3A,1, ,Vendor,VENDOR,Vietnam,VN,2/10/2020 14:40,1,VENDOR,VEND,6/9/2020 9:29, , ,1,FALSE
+16615,233-Cty TNHH Dinh Duong 3A,1, ,Vendor,VENDOR,Vietnam,VN,2/10/2020 14:40,1,VENDOR,VEND,6/9/2020 9:29, , ,1,FALSE
+16616,233-Cty TNHH Dinh Duong 3A,1, ,Vendor,VENDOR,Vietnam,VN,2/10/2020 14:40,1,VENDOR,VEND,6/9/2020 9:29, , ,1,FALSE
+16617,233-Cty TNHH Dinh Duong 3A,1, ,Vendor,VENDOR,Vietnam,VN,2/10/2020 14:40,1,VENDOR,VEND,6/9/2020 9:29, , ,1,FALSE
+16618,233-Cty TNHH Dinh Duong 3A,1, ,Vendor,VENDOR,Vietnam,VN,2/10/2020 14:40,1,VENDOR,VEND,6/9/2020 9:29, , ,1,FALSE
+16619,233-Cty TNHH Dinh Duong 3A,1, ,Vendor,VENDOR,Vietnam,VN,2/10/2020 14:40,1,VENDOR,VEND,6/9/2020 9:29, , ,1,FALSE
+167,Co.opMart Dong Ha,6,STORE,CoopMart,CM,Vietnam,VN,,1,Mien Trung,MTR,,B,Mien Trung,1,FALSE
+16701,100-Cty CPTP Binh Tay-NR,1, ,Vendor,VENDOR,Vietnam,VN,,1,VENDOR,VEND,, , ,1,FALSE
+16760,110-Cua Hang Hue Lam,1, ,Vendor,VENDOR, , ,8/12/2021 15:44,1, , ,8/12/2021 15:44, , ,1,FALSE
+16869,101-Cty TNHH DGTP Dai Hung Thinh-NR,1, ,Vendor,VENDOR,Vietnam,VN,,1,VENDOR,VEND,, , ,1,FALSE
+16911,130-Cty TNHH Tribeco Binh Duong,1, ,vendor,VENDOR,Vietnam,VN,,1,VENDOR,VEND,, , ,1,FALSE
+16964,100-CTy TNHH Tan Hop Thanh,1, ,Vendor,VENDOR,Vietnam,VN,2/10/2020 14:40,1,VENDOR,VEND,6/9/2020 9:29, , ,1,FALSE
+170,Co.opMart Tra Vinh,6,STORE,CoopMart,CM,Vietnam,VN,,1,Mien Tay,MT,,B,Mien Tay - Khu vuc 1,1,FALSE
+171,Co.opMart Nga Bay Hau Giang,6,STORE,CoopMart,CM,Vietnam,VN,10/20/2020 8:05,1,Mien Tay,MT,10/20/2020 8:05,B, ,1,FALSE
+17160,100-CTy TNHH TM Toan Phat-NR,1, ,Vendor,VENDOR,Vietnam,VN,,1,VENDOR,VEND,, , ,1,FALSE
+17259,100-Cty TNHH Le Trung Thien-NR,1, ,Vendor,VENDOR,Vietnam,VN,,1,VENDOR,VEND,, , ,1,FALSE
+17270,*233-Cty CP TP Me Kong Xanh,1, , , ,Vendor, ,2/28/2024 14:32,1, , ,2/28/2024 14:32, , ,1,FALSE
+173,Co.opMart Bao Loc,6,STORE,CoopMart,CM,Vietnam,VN,10/19/2020 12:22,1,Tay Nguyen,TN,10/19/2020 12:22,B,Tay Nguyen,1,FALSE
+17316,100-Cty TNHH AUM-NR,1, ,Vendor,VENDOR,Vietnam,VN,,1,VENDOR,VEND,, , ,1,FALSE
+17317,100-Cty TNHH Ngoc Nhu Nguyen-NR,1, ,Vendor,VENDOR,Vietnam,VN,,1,VENDOR,VEND,, , ,1,FALSE
+17329,110-Cty TNHH Gao VinhPhat Wilmar-NR,1, ,Vendor,VENDOR,Vietnam,VN,,1,VENDOR,VEND,, , ,1,FALSE
+174,Co.opMart Cam Ranh,6,STORE,CoopMart,CM,Vietnam,VN,,1,Mien Trung,MTR,,B,Mien Trung,1,FALSE
+17413,100-HKD Sau Thanh,1, , , , ,VENDOR,3/6/2024 3:57,1, , ,3/6/2024 3:57, , ,1,FALSE
+17497,100-Cty TNHH Ong Mat Tracybee-NR,1, ,Vendor,VENDOR,Vietnam,VN,,1,VENDOR,VEND,, , ,1,FALSE
+175,Co.opMart Cu Chi,6,STORE,CoopMart,CM,Vietnam,VN,10/20/2020 8:05,1,HO CHI MINH,HCMC,10/20/2020 8:05,B, ,1,FALSE
+17505,110-Cty TNHH TPQT Nam Duong-NR,1, ,Vendor,VENDOR,Vietnam,VN,,1,VENDOR,VEND,, , ,1,FALSE
+17559,110-CONG TY TNHH NTPM(VIET NAM)-NR,1, ,Vendor,VENDOR,Vietnam,VN,,1,VENDOR,VEND,, , ,1,FALSE
+176,Co.opMart Tay Ninh,6,STORE,CoopMart,CM,Vietnam,VN,,1,Mien Dong,MD,,B,Mien Dong,1,FALSE
+17638,100-Cty CP TP Va Do Uong Vinatea-NR,1, ,Vendor,VENDOR,Vietnam,VN,,1,VENDOR,VEND,, , ,1,FALSE
+17639,100-Cty TNHH Eikodo Viet Nam-NR,1, ,Vendor,VENDOR,Vietnam,VN,,1,VENDOR,VEND,, , ,1,FALSE
+17666,100-Cty CP SXTM Tai Tai-NR,1, ,Vendor,VENDOR,Vietnam,VN,,1,VENDOR,VEND,, , ,1,FALSE
+17684,233-Cty CP Vinatea Kim Anh,1, ,Vendor,VENDOR,Vietnam,VN,2/10/2020 14:40,1,VENDOR,VEND,6/9/2020 9:29, , ,1,FALSE
+17704,100-Cty TNHH TP Sunrise-NR,1, ,Vendor,VENDOR,Vietnam,VN,,1,VENDOR,VEND,, , ,1,FALSE
+17732,100-Cty TNHH SX Thuc Pham RICO-NR,1, ,Vendor,VENDOR,Vietnam,VN,,1,VENDOR,VEND,, , ,1,FALSE
+17733,100-CTY TNHH SX& XD TMDVXNK VINA-NR,1, ,Vendor,VENDOR,Vietnam,VN,,1,VENDOR,VEND,, , ,1,FALSE
+178,Co.opMart Hoa Binh,6,STORE,CoopMart,CM,Vietnam,VN,,1,HO CHI MINH,HCMC,,B,Thanh Pho Ho Chi Minh,1,FALSE
+179,Co.opMart Vinh Phuc,6,STORE,CoopMart,CM,Vietnam,VN,,1,Mien Bac,MB,,B,Mien Bac,1,FALSE
+180,Co.opMart Can Gio,6,STORE,CoopMart,CM,Vietnam,VN,,1,HO CHI MINH,HCMC,,B,Thanh Pho Ho Chi Minh,1,FALSE
+181,NKD-Co.opMart Hoa Hao,6,STORE,CoopMart,CM,Vietnam,VN,,1,Thanh Pho Ho Chi Minh,HCMC,,B,Thanh Pho Ho Chi Minh,1,TRUE
+182,NKD-Co.opMart Nguyen Xi,6,STORE,CoopMart,CM,Vietnam,VN,1/17/2021 15:56,1,HO CHI MINH,HCMC,5/6/2019 0:00,B,TP.HCM,1,TRUE
+183,Co.opMart Hai Phong,6,STORE,CoopMart,CM,Vietnam,VN,,1,Mien Bac,MB,,B,Mien Bac,1,FALSE
+18301,CH Co.opFood HP Tran Hung Dao,6,STORE,CoopFood,CF,Vietnam,VN,1/7/2021 8:42,1,Mien Bac,MB,1/7/2021 8:42,S, ,1,FALSE
+184,Co.opMart Rach Gia,6,STORE,CoopMart,CM,Vietnam,VN,,1,Mien Tay,MT,,B,Mien Tay,1,FALSE
+185,Co.opMart Thanh Hoa,6,STORE,CoopMart,CM,Vietnam,VN,,1,Mien Bac,MB,,B,Mien Bac,1,FALSE
+18501,CH CF TH Chung cu Tecco Tower,6,STORE,CoopFood,CF,Vietnam,VN,1/7/2021 8:42,1,Mien Bac,MB,1/7/2021 8:42,S, ,1,FALSE
+18502,CH Co.opFood TH KDT Dong Son,6,STORE,CoopFood,CF,Vietnam,VN,1/7/2021 8:42,1,Mien Bac,MB,1/7/2021 8:42,S, ,1,FALSE
+18503,CH Co.opFood TH Sam Son,6,STORE,CoopFood,CF,Vietnam,VN,4/26/2021 12:31,1,Mien Bac,MB,4/26/2021 12:31,S, ,1,FALSE
+18504,CH CoopFood TH Duong Dinh Nghe,6,STORE,CoopFood,CF,Vietnam,VN,5/15/2021 10:32,1,Mien Bac,MB,5/15/2021 10:32,S, ,1,FALSE
+18505,CH Co.opFood TH Nam Ngan,6,STORE,CoopFood,CF,Vietnam,VN,,1,Mien Bac,MB,,S,Mien Bac,1,FALSE
+18506,CH Co.opfood TH Tan Thanh,6,STORE,CoopFood,CF,Vietnam,VN,,1,Mien Bac,MB,,S,Thanh Hoa,1,FALSE
+186,Co.opMart Binh Trieu,6,STORE,CoopMart,CM,Vietnam,VN,,1,HO CHI MINH,HCMC,,B,Thanh Pho Ho Chi Minh,1,FALSE
+187,Co.opMart Can Tho,6,STORE,CoopMart,CM,Vietnam,VN,2/10/2020 14:40,1,Mien Tay,MT,6/9/2020 9:29,B,Mien Tay - Khu vuc 2,1,FALSE
+1871,KSD-CF Can Tho-Tran Viet Chau,6,STORE,CoopFood,CF,Vietnam,VN,1/17/2021 15:56,1,unknown,0,7/30/2018 0:00,S,unknown,1,TRUE
+1872,KSD-CF Can Tho-Le Hong Phong,6,STORE,CoopFood,CF,Vietnam,VN,1/17/2021 15:56,1,unknown,0,7/30/2018 0:00,S,unknown,1,TRUE
+1873,KSD-CF Can Tho-Tay Do,6,STORE,CoopFood,CF,Vietnam,VN,1/17/2021 15:56,1,unknown,0,7/30/2018 0:00,S,unknown,1,TRUE
+1874,KSD-CF Can Tho-Mau Than,6,STORE,CoopFood,CF,Vietnam,VN,1/17/2021 15:56,1,unknown,0,7/30/2018 0:00,S,unknown,1,TRUE
+1875,KSD-CF CanTho-Tran Quang Dieu,6,STORE,CoopFood,CF,Vietnam,VN,1/17/2021 15:56,1,unknown,0,7/30/2018 0:00,S,unknown,1,TRUE
+1876,KSD-CF CanTho-Ng Van Cu noidai,6,STORE,CoopFood,CF,Vietnam,VN,1/17/2021 15:56,1,unknown,0,7/30/2018 0:00,S,unknown,1,TRUE
+18833,100-Cong ty CP TD Kim Duc -NR,1, ,Vendor,VENDOR,Vietnam,VN,,1,VENDOR,VEND,, , ,1,FALSE
+189,Co.opMart Trang Bang,6,STORE,CoopMart,CM,Vietnam,VN,,1,Mien Dong,MD,,B,Mien Dong,1,FALSE
+19028,110-Cty CP Vinamit-NR,1, ,Vendor,VENDOR,Vietnam,VN,,1,VENDOR,VEND,, , ,1,FALSE
+19053,233-Cty TNHH TP Sun Resources,1, ,Vendor,VENDOR,Vietnam,VN,2/10/2020 14:40,1,VENDOR,VEND,6/9/2020 9:29, , ,1,FALSE
+19060,222-Cty TNHH PP NGK Quoc Te,1, ,Vendor,VENDOR,Vietnam,VN,2/10/2020 14:40,1,VENDOR,VEND,6/9/2020 9:29, , ,1,FALSE
+19086,111-Cty LTTP Safoco-NR,1, ,Vendor,VENDOR,Vietnam,VN,,1,VENDOR,VEND,, , ,1,FALSE
+19219,130-Cty TNHH Nabati Viet Nam,1, ,Vendor,VENDOR,Vietnam,VN,2/10/2020 14:40,1,VENDOR,VEND,6/9/2020 9:29, , ,1,FALSE
+19224,233-Cty TNHH Dong Duong Sai Gon-NR,1, ,Vendor,VENDOR,Vietnam,VN,,1,VENDOR,VEND,, , ,1,FALSE
+19228,110-Cty CP Huu han Vedan VN-NR,1, ,Vendor,VENDOR,Vietnam,VN,,1,VENDOR,VEND,, , ,1,FALSE
+19263,233-Cty TNHH Dinh Duong 3A,1, ,Vendor,VENDOR,Vietnam,VN,2/10/2020 14:40,1,VENDOR,VEND,6/9/2020 9:29, , ,1,FALSE
+19491,100-Cty CP Phu Truong Quoc Te-NR,1, ,Vendor,VENDOR,Vietnam,VN,,1,VENDOR,VEND,, , ,1,FALSE
+19512,233-HKD Huong Sen,1, , , ,Vendor, ,2/28/2024 14:32,1, , ,2/28/2024 14:32, , ,1,FALSE
+19572,233-CtyTNHHSXTMLienThanhPhat-NR,1, ,Vendor,VENDOR,Vietnam,VN,,1,VENDOR,VEND,, , ,1,FALSE
+196,Co.opMart Foodcosa,6,STORE,CoopMart,CM,Vietnam,VN,,1,HO CHI MINH,HCMC,,B,Thanh Pho Ho Chi Minh,1,FALSE
+19627,233-Cty CP CNCPVN-NMCB thit-TPTS,1, , , ,Vendor, ,2/28/2024 14:32,1, , ,2/28/2024 14:32, , ,1,FALSE
+19628,9-NKD-CTy TNHH Dong Duong SG-SM,1, , , , ,VENDOR,3/6/2024 3:57,1, , ,3/6/2024 3:57, , ,1,FALSE
+19629,9-NKD-CTY TNHH Duoc MP IN NO PHA-SM,1, , , , ,VENDOR,3/6/2024 3:57,1, , ,3/6/2024 3:57, , ,1,FALSE
+19630,9-NKD-CTY TNHH CB Dua Luong Quoi-SM,1, , , ,Vendor, ,2/28/2024 14:32,1, , ,2/28/2024 14:32, , ,1,FALSE
+197,Co.opMart Cao Lanh,6,STORE,CoopMart,CM,Vietnam,VN,,1,Mien Tay,MT,,B,Mien Tay,1,FALSE
+19746,110-Cty CP Vifon CN TP.HCM-NR,1, ,Vendor,VENDOR,Vietnam,VN,,1,VENDOR,VEND,, , ,1,FALSE
+19880,100-Tong Cty Co Phan Phong Phu-NR,1, ,Vendor,VENDOR,Vietnam,VN,,1,VENDOR,VEND,, , ,1,FALSE
+199,Co.opMart Ben Tre,6,STORE,CoopMart,CM,Vietnam,VN,,1,Mien Tay,MT,,B,Mien Tay,1,FALSE
+19915,100-Cty CP CBTP Xuat Khau G.O.C-NR,1, ,Vendor,VENDOR,Vietnam,VN,,1,VENDOR,VEND,, , ,1,FALSE
+19939,100-Cty TNHH Muoi Thanh Phat-NR,1, ,Vendor,VENDOR,Vietnam,VN,,1,VENDOR,VEND,, , ,1,FALSE
+2000,NKD-CH Co.opFood Tay Lan,6,STORE,CoopFood,CF,Vietnam,VN,,1,Thanh pho Ho Chi Minh,HCMC,3/14/2022 0:00,S,Thanh pho Ho Chi Minh,1,TRUE
+2001,CH Co.opFood Tan Thanh Dong,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+2002,CH CFood An Duong Vuong 451,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+2003,CH Co.opFood Le Thi Ha 2,6,STORE,CoopFood,CF,Vietnam,VN,,1,Thanh pho Ho Chi Minh,HCMC,,S,Thanh pho Ho Chi Minh,1,TRUE
+2004,CH CFood Pham The Hien 2649,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+2005,CH Co.opFood Ho Van Long 70,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+2006,CH Co.opFood La Xuan Oai 138,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+2007,CH Co.opFood Tran Trong Cung65,6,STORE,CoopFood,CF,Vietnam,VN,2/10/2020 14:40,1,HO CHI MINH,HCMC,6/9/2020 9:29,S,Thanh pho Ho Chi Minh,1,FALSE
+2008,CH Co.opFood CC Hoang Quan,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+2009,CH Co.opFood Go Dua 112,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+2010,CH Co.opFood CC IDICO,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+2011,CH Co.opFood CC LACASA,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+2012,NKD-CH Co.opFood Binh Thoi,6,STORE,CoopFood,CF,Vietnam,VN,,1,Thanh pho Ho Chi Minh,HCMC,,S,Thanh pho Ho Chi Minh,1,TRUE
+2013,NKD-CH Co.opFood Duong So 6,6,STORE,CoopFood,CF,Vietnam,VN,1/17/2021 15:56,1,unknown,0,11/4/2019 0:00,S,unknown,1,TRUE
+2014,CH Co.opFood Kenh Tan Hoa,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+20142,111-Cty TNHH Wilmar Mar.CLV-Sua,1, ,vendor,VENDOR,Vietnam,VN,,1,VENDOR,VEND,, , ,1,FALSE
+2015,CH CFood Truong Phuoc Phan 169,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+2016,CH Co.opFood Ha Huy Giap 302,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+20160,001-CN Cty CP Uniben Hung Yen,1, ,vendor,VENDOR,Vietnam,VN,,1,VENDOR,VEND,, , ,1,FALSE
+2017,CH Co.opFood Tan Son Nhi 387,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+2018,CH Co.opFood Savimex,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+2019,CH Co.opFood Phan Van Hon 151,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+2020,CH Co.opFood Nguyen Van Kha198,6,STORE,CoopFood,CF,Vietnam,VN,,1,Thanh pho Ho Chi Minh,HCMC,4/10/2023 11:11,S,Thanh pho Ho Chi Minh,1,TRUE
+2021,CH Co.opFood CC 4S Linh Dong,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+2022,NKD-CH Co.opFood Tan Son,6,STORE,CoopFood,CF,Vietnam,VN,,1,unknown,0,9/14/2020 0:00,S,unknown,1,TRUE
+2023,CH Co.opFood DS2 Truong Tho,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+20230,110-Cty CP PHÂN PH?I HÀNG TIÊU DÙNG PAN,1, ,vendor,VENDOR,Vietnam,VN,,1,VENDOR,VEND,, , ,1,FALSE
+2024,NKD-CH Co.opFood Vuon Lai,6,STORE,CoopFood,CF,Vietnam,VN,1/17/2021 15:56,1,unknown,0,11/11/2019 0:00,S,unknown,1,TRUE
+2025,CH Co.opFood Tan Xuan,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+2026,NKD-CH CFood Phan Sao Nam 87,6,STORE,CoopFood,CF,Vietnam,VN,1/17/2021 15:56,1,unknown,0,11/11/2019 0:00,S,unknown,1,TRUE
+2027,CH Co.opFood Tang Nhon Phu 26,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+20277,233-CTy TNHH SX TM DV TP Dang Khoi,1, , , ,Vendor, ,2/28/2024 14:32,1, , ,2/28/2024 14:32, , ,1,FALSE
+2028,CH Co.opFood KDC Thanh Nien,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+20289,002 CN Cty TMDV SX Hoang Gia An HN,1, ,Vendor,VENDOR,Vietnam,VN,,1, , ,, , ,1,FALSE
+2029,CH Co.opFood CC Dat Gia,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+2030,CH CFood DS3 Hiep Binh Phuoc,6,STORE,CoopFood,CF,Vietnam,VN,2/10/2020 14:40,1,HO CHI MINH,HCMC,6/9/2020 9:29,S,Thanh pho Ho Chi Minh,1,FALSE
+2031,CH Co.opFood Tinh Lo 43,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+20310,100-HKD Mam Ba Hai I-NR,1, ,Vendor,VENDOR,Vietnam,VN,,1,VENDOR,VEND,, , ,1,FALSE
+2032,CH CoopFood Nguyen Thi Soc 153,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+2033,CH Co.opFood Ton Dan,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+2034,CH Co.opFood Hau Lan,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+20343,*233-Cty TNHH SX TM DV Batrafoco,1, , , ,Vendor, ,2/28/2024 14:32,1, , ,2/28/2024 14:32, , ,1,FALSE
+2035,CH Co.opFood Tran Van Danh 12,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+2036,NKD-CH Co.opFood CC Florita,6,STORE,CoopFood,CF,Vietnam,VN,,1,unknown,0,9/14/2020 0:00,S,unknown,1,TRUE
+2037,NKD-CH CFood Phan Van Tri 399,6,STORE,CoopFood,CF,Vietnam,VN,,1,Thanh pho Ho Chi Minh,HCMC,,S,Thanh pho Ho Chi Minh,1,TRUE
+2038,NKD-CH Co.opFood Phan Anh 173,6,STORE,CoopFood,CF,Vietnam,VN,,1,Thanh pho Ho Chi Minh,HCMC,,S,Thanh pho Ho Chi Minh,1,TRUE
+2039,CH CoopFood Nguyen Huu Tien 11,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+20396,110-Cty CP HangTieuDung Bien Hoa-NR,1, ,Vendor,VENDOR,Vietnam,VN,,1,VENDOR,VEND,, , ,1,FALSE
+2040,CH Co.opFood Ho Van Long 30,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+2041,CH Co.opFood Thanh Loc 17,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+2042,CH Co.opFood Nguyen Xi 247,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+2043,CH Co.opFood CC Belleza,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+2044,CH Co.opFood Tan Chanh Hiep 10,6,STORE,CoopFood,CF,Vietnam,VN,,1,Thanh pho Ho Chi Minh,HCMC,,S,Thanh pho Ho Chi Minh,1,TRUE
+20447,100-CTyTNHH DT SX TM An Nguyen Phat,1, , , , ,VENDOR,3/6/2024 3:57,1, , ,3/6/2024 3:57, , ,1,FALSE
+2045,CH Co.opFood DS12 Truong Tho,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+2046,CH Co.opFood CC Eastern,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+2047,CH Co.opFood CC Dragon Hill,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+2048,CH Co.opFood CC Him Lam Phu An,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+20484,100-CTYCP DUOC PHAM&SINH HOC YTE-NR,1, ,Vendor,VENDOR,Vietnam,VN,,1,VENDOR,VEND,, , ,1,FALSE
+2049,NKD-CH Co.opFood Tan Hoa Dong,6,STORE,CoopFood,CF,Vietnam,VN,1/17/2021 15:56,1,unknown,0,11/11/2019 0:00,S,unknown,1,TRUE
+2050,CH Co.opFood Duong Thi Muoi465,6,STORE,CoopFood,CF,Vietnam,VN,,1,Thanh pho Ho Chi Minh,HCMC,,S,Thanh pho Ho Chi Minh,1,TRUE
+2051,CH Co.opFood Binh An,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+2052,CH Co.opFood Phan Xich Long 37,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+2053,NKD-CH Co.opFood Man Thien 96,6,STORE,CoopFood,CF,Vietnam,VN,,1,Thanh pho Ho Chi Minh,HCMC,3/14/2022 0:00,S,Thanh pho Ho Chi Minh,1,TRUE
+20536,100-CTYTNHH THIET BI YTE HA TRAN-NR,1, ,Vendor,VENDOR,Vietnam,VN,,1,VENDOR,VEND,, , ,1,FALSE
+2054,NKD-CH CFood Tinh Lo 15-1034,6,STORE,CoopFood,CF,Vietnam,VN,,1,Thanh pho Ho Chi Minh,HCMC,3/14/2022 0:00,S,Thanh pho Ho Chi Minh,1,TRUE
+2055,CH Co.opFood Nguyen Anh Thu699,6,STORE,CoopFood,CF,Vietnam,VN,,1,Thanh pho Ho Chi Minh,HCMC,,S,Thanh pho Ho Chi Minh,1,TRUE
+20550,100-CtTNHH TMXNK TP Viet An Toan-NR,1, ,Vendor,VENDOR,Vietnam,VN,,1,VENDOR,VEND,, , ,1,FALSE
+2056,CH Co.opFood Vuon Lai 192,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+2057,CH CoopFood Nguyen Thi Dang367,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+2058,NKD-CH Co.opFood Le Van Chi 69,6,STORE,CoopFood,CF,Vietnam,VN,,1,Thanh pho Ho Chi Minh,HCMC,3/14/2022 0:00,S,Thanh pho Ho Chi Minh,1,TRUE
+2059,CH Co.opFood Tran Van Quang 86,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+2060,CH Co.opFood Tinh Lo 8-628,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+20609,100-Cty TNHH MTV TMDVSX C.V.C-NR,1, ,Vendor,VENDOR,Vietnam,VN,,1,VENDOR,VEND,, , ,1,FALSE
+2061,CH Co.opFood Cu Xa Phu Lam,6,STORE,CoopFood,CF,Vietnam,VN,,1,Thanh pho Ho Chi Minh,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+2062,NKD-CH CFood Pham Dang Giang73,6,STORE,CoopFood,CF,Vietnam,VN,,1,Thanh pho Ho Chi Minh,HCMC,,S,Thanh pho Ho Chi Minh,1,TRUE
+2063,CH Co.opFood Phan Van Han 182,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+2064,CH Co.opFood Van Kiep 31,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+2065,CH CoopFood Truong Van Thanh68,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+2066,CH Co.opFood Tam Ha 64,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+2067,NKD-CH CFood Bui Huu Nghia 121,6,STORE,CoopFood,CF,Vietnam,VN,,1,unknown,0,9/14/2020 0:00,S,unknown,1,TRUE
+2068,NKD-CH CFood NguyenThiDinh 556,6,STORE,CoopFood,CF,Vietnam,VN,,1,Thanh pho Ho Chi Minh,HCMC,3/14/2022 0:00,S,Thanh pho Ho Chi Minh,1,TRUE
+2069,CH Co.opFood Le Van Luong 1187,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+20695,233-HKD Cu Bakery,1, , , ,Vendor, ,2/28/2024 14:32,1, , ,2/28/2024 14:32, , ,1,FALSE
+2070,CH Co.opFood No Trang Long 235,6,STORE,CoopFood,CF,Vietnam,VN,,1,Thanh pho Ho Chi Minh,HCMC,4/10/2023 11:11,S,Thanh pho Ho Chi Minh,1,TRUE
+2071,NKD-CH Co.opFood Bau Cat 302,6,STORE,CoopFood,CF,Vietnam,VN,,1,unknown,0,9/14/2020 0:00,S,unknown,1,TRUE
+2072,CH CFood CC Hoang Kim The Gia,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+2073,CH Co.opFood Lien Khu 4-5,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+20734,100-Cty CP Dau Tu Hai Thien Minh-NR,1, ,Vendor,VENDOR,Vietnam,VN,,1,VENDOR,VEND,, , ,1,FALSE
+2074,CH Co.opFood Le Thi Hoa 240,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+2075,CH Co.opFood Do Xuan Hop 729,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+2076,CH Co.opFood Tran Thi Co 292,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+2077,CH Co.opFood Lam Van Ben 22,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+20779,111-CTyTNHH WILMAR MARKETING CLV-HP,1, ,vendor,VENDOR,Vietnam,VN,,1,VENDOR,VEND,, , ,1,FALSE
+2078,CH CFood Nguyen Thai Binh 349,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+2079,CH Co.opFood DS9 Linh Tay,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+2080,CH Co.opFood Tran Van Muoi 12,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+2081,NKD-CH CoopFood Le Thi Hong 40,6,STORE,CoopFood,CF,Vietnam,VN,,1,Thanh pho Ho Chi Minh,HCMC,3/14/2022 0:00,S,Thanh pho Ho Chi Minh,1,TRUE
+20812,100-Cty CP TP ThNhien King Green-NR,1, ,Vendor,VENDOR,Vietnam,VN,,1,VENDOR,VEND,, , ,1,FALSE
+2082,CH Co.opFood An Loc,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+2083,CH Co.opFood Le Van Khuong 551,6,STORE,CoopFood,CF,Vietnam,VN,,1,Thanh pho Ho Chi Minh,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+2084,CH Co.opFood Son Ky 1,6,STORE,CoopFood,CF,Vietnam,VN,,1,Thanh pho Ho Chi Minh,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+20842,*223-Cong Ty TNHH CPV Food-TPTS,1, , , ,Vendor, ,2/28/2024 14:32,1, , ,2/28/2024 14:32, , ,1,FALSE
+20846,111-Cty Co Phan Tap Doan KIDO,1, ,vendor,VENDOR,Vietnam,VN,,1,VENDOR,VEND,, , ,1,FALSE
+2085,CH Co.opFood Phan Van Hon 285,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+2086,CH Co.opFood Truong Chinh 22,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+2087,CH Co.opFood Vision,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+2088,CH Co.opFood Tam Phu,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+20888,100-Cty CP SX TM Nhua Hoang Chau-NR,1, ,Vendor,VENDOR,Vietnam,VN,,1,VENDOR,VEND,, , ,1,FALSE
+2089,CH Co.opFood Sunview,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+2090,CH Co.opFood Tan Son Nhi,6,STORE,CoopFood,CF,Vietnam,VN,,1,Thanh pho Ho Chi Minh,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+2091,CH Co.opFood Him Lam Cho Lon,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+2092,CH Co.opFood Dong Tang Long,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+2093,CH Co.opFood CC Linh Tay Tower,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+2094,CH Co.opFood 9 View,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+20944,111-Cty TNHH Luong Thuc Angimex-NR,1, ,Vendor,VENDOR,Vietnam,VN,,1,VENDOR,VEND,, , ,1,FALSE
+2095,CH Co.opFood Thu Thiem Garden,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+20953,101-Cty TNHH TM va Dich Vu MK-NR,1, ,Vendor,VENDOR,Vietnam,VN,,1,VENDOR,VEND,, , ,1,FALSE
+2096,CH CoopFood Tran Quoc Thao 171,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+20960,110-Cong ty TNHH Lua Gao VietNam-NR,1, ,Vendor,VENDOR,Vietnam,VN,,1,VENDOR,VEND,, , ,1,FALSE
+20968,233-CongTy TNHH Thuc Pham Sach Cana,1, , , ,Vendor, ,2/28/2024 14:32,1, , ,2/28/2024 14:32, , ,1,FALSE
+2097,CH Co.opFood Pham Van Hai 91,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+2098,CH Co.opFood The Garden Mall,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+2099,CH Co.opFood Nguyen Van Dau137,6,STORE,CoopFood,CF,Vietnam,VN,,1,Thanh pho Ho Chi Minh,HCMC,,S,Khu dân c?,1,FALSE
+20991,100-Cty TNHH Dong Duoc Vinh Xuan-NR,1, ,Vendor,VENDOR,Vietnam,VN,,1,VENDOR,VEND,, , ,1,FALSE
+2100,CH Co.opFood Le Van Luong 302,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+2101,CH Co.opFood Dat Moi 272,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+21018,100-Congty CP Phuc Long Heritage-NR,1, ,Vendor,VENDOR,Vietnam,VN,,1,VENDOR,VEND,, , ,1,FALSE
+2102,CH Co.opFood To Ngoc Van 478,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+2103,CH Co.opFood Phu Huu,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Khu dân c?,1,FALSE
+2104,CH Co.opFood Cay Tram,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Khu dân c?,1,FALSE
+2105,CH Co.opFood Tinh Lo 15-275,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+2106,CH Co.opFood CC Calla Garden,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+2107,CH Co.opFood Nguyen Kiem,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+21076,110-Cong Ty TNHH SALACOS -NR,1, ,Vendor,VENDOR,Vietnam,VN,,1,VENDOR,VEND,, , ,1,FALSE
+2108,CH Co.opFood Chung cu Ehome S,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Khu dân c?,1,FALSE
+2109,CH Co.opFood Le Duc Tho 269,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Khu dân c?,1,FALSE
+211,CH Co.opFood Phan Van Tri,6,STORE,CoopFood,CF,Vietnam,VN,2/10/2020 14:40,1,HO CHI MINH,HCMC,6/9/2020 9:29,S,Thanh pho Ho Chi Minh,1,FALSE
+2110,CH CFood Nguyen Thi Bup 101M,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+2111,CH Co.opFood Pham Nhu Tang 11,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+2112,CH CFood CC Lovera Khang Dien,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Khu dân c?,1,FALSE
+21124,100-Cty TNHH XNK Vinh Phuc An,1, , , , ,VENDOR,3/6/2024 3:57,1, , ,3/6/2024 3:57, , ,1,FALSE
+21129,110-Cong Ty TNHH Meizan CLV-NR,1, ,Vendor,VENDOR,Vietnam,VN,,1,VENDOR,VEND,, , ,1,FALSE
+2113,CH CFood Chung cu Saigon Co.op,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+2114,CH CFood CC Diamond Riverside,6,STORE,CoopFood,CF,Vietnam,VN,7/19/2021 8:16,1,HO CHI MINH,HCMC,7/19/2021 8:16,S, ,1,FALSE
+2115,CH Co.opFood Thanh Da,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Khu dân c?,1,FALSE
+21150,233-HKD Le Thi Cam Nhu,1, , , ,Vendor, ,2/28/2024 14:32,1, , ,2/28/2024 14:32, , ,1,FALSE
+2116,CH Co.opFood Tay Thanh,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Khu dân c?,1,FALSE
+2117,CH CoopFood Duong So 1 Ten Lua,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+2118,NKD-CH CFood Dong Bac 206-208,6,STORE,CoopFood,CF,Vietnam,VN,,1,Thanh pho Ho Chi Minh,HCMC,,S,Khu dân c?,1,TRUE
+2119,CH Co.opFood Lien Ap 2-6,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Khu dân c?,1,FALSE
+212,CH Co.opFood Pasteur,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,7/19/2021 0:00,S,Thanh pho Ho Chi Minh,1,FALSE
+2120,CH Co.opFood Nguyen Thong 1,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Khu dân c?,1,FALSE
+2121,CH Co.opFood Ba Dinh,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Khu dân c?,1,FALSE
+2122,CH Co.opFood Ma Lo,6,STORE,CoopFood,CF,Vietnam,VN,,1,Thanh pho Ho Chi Minh,HCMC,,S,Khu dân c?,1,FALSE
+2123,CH Co.opFood Binh Khanh,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Khu dân c?,1,FALSE
+2124,CH Co.opFood Thoai Ngoc Hau 1,6,STORE,CoopFood,CF,Vietnam,VN,1/7/2021 8:42,1,HO CHI MINH,HCMC,1/7/2021 8:42,S, ,1,FALSE
+2125,CH Co.opFood Vinh Vien 393,6,STORE,CoopFood,CF,Vietnam,VN,1/7/2021 8:42,1,HO CHI MINH,HCMC,1/7/2021 8:42,S, ,1,FALSE
+2126,CH Co.opFood CC Phu Gia,6,STORE,CoopFood,CF,Vietnam,VN,1/7/2021 8:42,1,HO CHI MINH,HCMC,1/7/2021 8:42,S, ,1,FALSE
+2127,CH Co.opFood Duong 339,6,STORE,CoopFood,CF,Vietnam,VN,1/7/2021 8:42,1, , ,1/7/2021 8:42,S, ,1,TRUE
+2128,CH CFood CC Safira Khang Dien,6,STORE,CoopFood,CF,Vietnam,VN,1/7/2021 8:42,1,HO CHI MINH,HCMC,1/7/2021 8:42,S, ,1,FALSE
+2129,CH Co.opFood Nguyen Van Tao,6,STORE,CoopFood,CF,Vietnam,VN,1/7/2021 8:42,1,HO CHI MINH,HCMC,1/7/2021 8:42,S, ,1,FALSE
+213,CH Co.opFood Tran Chanh Chieu,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+2130,CH Co.opFood Ho Van Tu,6,STORE,CoopFood,CF,Vietnam,VN,1/7/2021 8:42,1,HO CHI MINH,HCMC,1/7/2021 8:42,S, ,1,FALSE
+2131,CH Co.opFood Quach Dinh Bao,6,STORE,CoopFood,CF,Vietnam,VN,1/7/2021 8:42,1,HO CHI MINH,HCMC,1/7/2021 8:42,S, ,1,FALSE
+2132,CH Co.opFood Truong Quoc Dung,6,STORE,CoopFood,CF,Vietnam,VN,1/7/2021 8:42,1,HO CHI MINH,HCMC,1/7/2021 8:42,S, ,1,FALSE
+2133,CH Co.opFood 15 Duong so 1,6,STORE,CoopFood,CF,Vietnam,VN,1/7/2021 8:42,1, , ,1/7/2021 8:42,S, ,1,FALSE
+2134,CH Co.opFood CC Phu Hoang Anh,6,STORE,CoopFood,CF,Vietnam,VN,4/26/2021 12:31,1,HO CHI MINH,HCMC,4/26/2021 12:31,S, ,1,FALSE
+2135,CH Co.opFood Nguyen Van Dung,6,STORE,CoopFood,CF,Vietnam,VN,4/26/2021 12:31,1,HO CHI MINH,HCMC,4/26/2021 12:31,S, ,1,FALSE
+2136,CH Co.opFood Phu Dinh,6,STORE,CoopFood,CF,Vietnam,VN,4/26/2021 12:31,1,HO CHI MINH,HCMC,4/26/2021 12:31,S, ,1,FALSE
+2137,CH CF Nguyen Thai Hoc Premium,6,STORE,CoopFood,CF,Vietnam,VN,1/7/2021 8:42,1,HO CHI MINH,HCMC,1/7/2021 8:42,S, ,1,FALSE
+2138,CH CFood Duong so 8 Linh Trung,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+2139,CH Co.opFood CC Moscow Tower,6,STORE,CoopFood,CF,Vietnam,VN,,1,Thanh Pho Ho Chi Minh,HCMC,4/10/2023 11:11,S,Thanh pho Ho Chi Minh,1,TRUE
+214,CH Co.opFood Chu Van An,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+2141,CH Co.opFood Thoi Hoa,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+2142,CH Co.opFood Ky Dong,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+2143,CH Co.opFood Hoang Huu Nam,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+2145,CH Co.opFood Bong Sao,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+21459,111-Cty TNHH MTV TapDoan Bia SaiGon,1, ,vendor,VENDOR,Vietnam,VN,,1,VENDOR,VEND,, , ,1,FALSE
+2146,CH Co.opFood Lac Long Quan,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+2147,CH Co.opFood Ehome 3,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh Pho Ho Chi Minh,1,FALSE
+2148,CH Co.opFood Nguyen Sy Sach,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh Pho Ho Chi Minh,1,FALSE
+21489,*233-Cong Ty TNHH TC Food,1, , , ,Vendor, ,2/28/2024 14:32,1, , ,2/28/2024 14:32, , ,1,FALSE
+2149,CH Co.opFood Hoang Huu Nam 222,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+215,CH Co.opFood Dong Thanh,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+2150,CH Co.opFood Nguyen Van Dau 21,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,HCM,1,FALSE
+21500,110-Cty TNHH SXTM TyTy(HMP),1, ,vendor,VENDOR,Vietnam,VN,,1,VENDOR,VEND,, , ,1,FALSE
+2151,CH Co.opFood Duong D5 87,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+2152,CH Co.opFood Trung My Tay,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+21527,233-CTy TNHH Th.Pham Ngoc Tu Pearly,1, , , ,Vendor, ,2/28/2024 14:32,1, , ,2/28/2024 14:32, , ,1,FALSE
+2153,CH Co.opFood CC Akari City,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,HCM,1,FALSE
+2154,CH Co.opFood No Trang Long 17,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,HCM,1,FALSE
+2155,CH Co.opFood Cao Lo,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,HCM,1,FALSE
+2156,CH Co.opFood Phan Dinh Phung,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,HCM,1,FALSE
+21561,110-CongTyCP HTD Masan-CN BinhDuong,1, ,vendor,VENDOR,Vietnam,VN,,1,VENDOR,VEND,, , ,1,FALSE
+2157,CH Co.opFood CC Hoang Quan 2,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,HCM,1,FALSE
+2158,CH Co.opFood CC Lavita Charm,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,HCM,1,FALSE
+21581,233-Cong Ty TNHH Thuc Pham 6S-TPTS,1, , , ,Vendor, ,2/28/2024 14:32,1, , ,2/28/2024 14:32, , ,1,FALSE
+2159,CH Co.opFood Le Van Tho 561,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,HCM,1,FALSE
+216,NKD-CH Co.opFood Binh Chieu,6,STORE,CoopFood,CF,Vietnam,VN,1/17/2021 15:56,1,unknown,0,10/19/2020 0:00,S,unknown,1,TRUE
+2160,CF Dinh Phong Phu 88,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,HCM,1,FALSE
+2161,CH CFood CC SunriseRiverside,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+2162,CH CFood CC HoangAnh GoldHouse,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Mien Nam,1,FALSE
+2163,CF Ly Chieu Hoang 113,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,HCM,1,FALSE
+2164,CF CC Hausneo,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,HCM,1,FALSE
+2165,CH Co.opFod Tran Tan 70,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,HCM,1,FALSE
+2166,CH Co.opFood Duong 11 Linh Xuan,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,HCM,1,FALSE
+2167,CH Co.opFood Tay Hoa 149,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,HCM,1,FALSE
+2168,CH Co.opFood Binh Thoi 205,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,HCM,1,FALSE
+2169,CH Co.opFood Kha Van Can 557,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,HCM,1,FALSE
+21692,233-Cty TNHH Banh Chung Tran Gia-TS,1, , , ,Vendor, ,2/28/2024 14:32,1, , ,2/28/2024 14:32, , ,1,FALSE
+217,CH Co.opFood Le Van Sy,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+2170,CH Co.opFood Lac Long Quan 87,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Ho Chi Minh,1,FALSE
+21706,*233-CtyTNHH Thuc Pham Sai Gon Chay,1, , , ,Vendor, ,2/28/2024 14:32,1, , ,2/28/2024 14:32, , ,1,FALSE
+2171,CH Co.opFood Chung Cu Ha Do,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Ho Chi Minh,1,FALSE
+2172,CH CF CC Centum Wealth Complex,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Ho Chi Minh,1,FALSE
+2174,CH Co.opFood Chung Cu Cityland,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Ho Chi Minh,1,FALSE
+2175,CH Co.opFood Nguyen Hong,6,STORE,CoopFood,CF, , ,3/19/2024 14:30,1,HO CHI MINH,HCMC,3/19/2024 14:30, , ,1,FALSE
+2176,CH Co.opFood CC Sky 9,6,STORE,CoopFood,CF, , ,3/19/2024 14:30,1,HO CHI MINH,HCMC,3/19/2024 14:30, , ,1,FALSE
+2177,CH Co.opFood Luong The Vinh 30,6,STORE,CoopFood,CF, , ,3/19/2024 14:30,1,HO CHI MINH,HCMC,3/19/2024 14:30, , ,1,FALSE
+21773,233-CTY TNHH THUC PHAM CHAY BAO AN,1, , , , ,VENDOR,3/6/2024 3:57,1, , ,3/6/2024 3:57, , ,1,FALSE
+21776,*232-CONG TY CO PHAN RICHY GROUP,1, , , ,Vendor, ,2/28/2024 14:32,1, , ,2/28/2024 14:32, , ,1,FALSE
+2178,CH Co.opFood CC Rainbow S1.07,6,STORE,CoopFood,CF, , ,3/19/2024 14:30,1,HO CHI MINH,HCMC,3/19/2024 14:30, , ,1,FALSE
+2179,CH Co.opFood CC Rainbow S3.02,6,STORE,CoopFood,CF, , ,3/19/2024 14:30,1,HO CHI MINH,HCMC,3/19/2024 14:30, , ,1,FALSE
+218,CH Co.opFood Cho Lon,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+2180,CH Co.opFood CC Origami S10.03,6,STORE,CoopFood,CF, , ,3/19/2024 14:30,1,HO CHI MINH,HCMC,3/19/2024 14:30, , ,1,FALSE
+2181,CH Co.opFood CC Origami S10.07,6,STORE,CoopFood,CF, , ,3/19/2024 14:30,1,HO CHI MINH,HCMC,3/19/2024 14:30, , ,1,FALSE
+2182,CH Co.opFood CC Origami S8.01,6,STORE,CoopFood,CF, , ,3/19/2024 14:30,1,HO CHI MINH,HCMC,3/19/2024 14:30, , ,1,FALSE
+2183,CH Co.opFood CC Origami S7.03,6,STORE,CoopFood,CF, , ,3/19/2024 14:30,1,HO CHI MINH,HCMC,3/19/2024 14:30, , ,1,FALSE
+2184,CH Co.opFood CC Happy City,6,STORE,CoopFood,CF, , ,3/19/2024 14:30,1,HO CHI MINH,HCMC,3/19/2024 14:30, , ,1,FALSE
+21847,110-Cong ty TNHH Lua Gao VietNam-NR,1, ,Vendor,VENDOR,Vietnam,VN,,1,VENDOR,VEND,, , ,1,FALSE
+21879,233-Cong Ty TNHH Viet Fine Food,1, , , ,Vendor, ,2/28/2024 14:32,1, , ,2/28/2024 14:32, , ,1,FALSE
+21885,233-Cty TNHH SX TM DV TPham My My,1, , , ,Vendor, ,2/28/2024 14:32,1, , ,2/28/2024 14:32, , ,1,FALSE
+21894,233-CONG TY TNHH LC FOODS,1, , , ,Vendor, ,2/28/2024 14:32,1, , ,2/28/2024 14:32, , ,1,FALSE
+219,CH Co.opFood Hoang Van Thu,6,STORE,CoopFood,CF,Vietnam,VN,,1,Thanh pho Ho Chi Minh,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+21979,233-Cty TNHH TM SX An Tri Viet,1, , , ,Vendor, ,2/28/2024 14:32,1, , ,2/28/2024 14:32, , ,1,FALSE
+220,CH Co.opFood Bach Ma,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+22005,100-HKD Thuc Pham Cat Phuong,1, , , , ,VENDOR,3/6/2024 3:57,1, , ,3/6/2024 3:57, , ,1,FALSE
+22025,233-Cong Ty Co Phan Ho Phuc Khang,1, , , ,Vendor, ,2/28/2024 14:32,1, , ,2/28/2024 14:32, , ,1,FALSE
+221,CH Co.opFood Dang Van Bi,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+22135,233-Cong Ty TNHH TM DV Natha Ngon,1, , , ,Vendor, ,2/28/2024 14:32,1, , ,2/28/2024 14:32, , ,1,FALSE
+222,NKD-CH Co.opFood 3 Thang 2,6,STORE,CoopFood,CF,Vietnam,VN,,1,Thanh pho Ho Chi Minh,HCMC,,S,Thanh pho Ho Chi Minh,1,TRUE
+223,NKD-CH Co.opFood Cao Lo,6,STORE,CoopFood,CF,Vietnam,VN,1/17/2021 15:56,1,unknown,0,7/19/2021 0:00,S,unknown,1,TRUE
+224,NKD-CH Co.opFood Cau Kinh,6,STORE,CoopFood,CF,Vietnam,VN,,1,Thanh pho Ho Chi Minh,HCMC,,S,Thanh pho Ho Chi Minh,1,TRUE
+225,CH Co.opFood Tan Thoi Hiep,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+226,CH Co.opFood Phuc An Loc,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+227,CH Co.opFood Linh Trung,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+228,CH Co.opFood Nguyen Ba Tong,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+229,CH Co.opFood Le Duc Tho,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+230,CH Co.opFood Le Quang Dinh,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+231,NKD-CH Co.opFood Binh Hoa,6,STORE,CoopFood,CF,Vietnam,VN,1/17/2021 15:56,1,unknown,0,11/12/2018 0:00,S,unknown,1,TRUE
+232,NKD-CH Co.opFood Ba Chieu,6,STORE,CoopFood,CF,Vietnam,VN,,1,Thanh pho Ho Chi Minh,HCMC,,S,Thanh pho Ho Chi Minh,1,TRUE
+233,CH Co.opFood Nguyen Thi Dinh,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+234,CH Co.opFood Le Van Tho,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+235,NKD-CH Co.opFood Binh Tien,6,STORE,CoopFood,CF,Vietnam,VN,1/17/2021 15:56,1,unknown,0,9/9/2019 0:00,S,unknown,1,TRUE
+236,CH Co.opFood Thao Dien,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+237,CH Co.opFood Binh Trung,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+238,CH Co.opFood Hiep Binh,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+239,CH Co.opFood Phu Loi,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+240,CH Co.opFood Tran Quang Khai,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+242,CH Co.opFood Binh Trung Dong,6,STORE,CoopFood,CF,Vietnam,VN,,1,Thanh pho Ho Chi Minh,HCMC,,S,Thanh pho Ho Chi Minh,1,TRUE
+243,CH Co.opFood Nguyen Van Qua,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+244,CH Co.opFood Cho Cau,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+245,CH Co.opFood Nguyen Oanh,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+246,CH Co.opFood Nguyen Cuu Dam,6,STORE,CoopFood,CF,Vietnam,VN,2/10/2020 14:40,1,HO CHI MINH,HCMC,6/9/2020 9:29,S,Thanh pho Ho Chi Minh,1,FALSE
+247,CH Co.opFood Lam Van Ben,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+249,CH Co.opFood Tran Xuan Soan,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+250,NKD-CH Co.opFood CMT8,6,STORE,CoopFood,CF,Vietnam,VN,,1,unknown,0,12/21/2020 0:00,S,unknown,1,TRUE
+251,CH Co.opFood Do Xuan Hop,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+252,CH Co.opFood Binh Phu,6,STORE,CoopFood,CF,Vietnam,VN,,1,Thanh pho Ho Chi Minh,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+253,CH Co.opFood To Ngoc Van,6,STORE,CoopFood,CF,Vietnam,VN,,1,Thanh pho Ho Chi Minh,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+254,CH Co.opFood Vinh Hoi,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+255,CH Co.opFood Pham The Hien,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+256,CH Co.opFood Phu Xuan,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+257,CH Co.opFood Pham Van Chieu,6,STORE,CoopFood,CF,Vietnam,VN,,1,Thanh pho Ho Chi Minh,HCMC,,S,Thanh pho Ho Chi Minh,1,TRUE
+258,NKD-CH Co.opFood Pham Huu Lau,6,STORE,CoopFood,CF,Vietnam,VN,,1,Thanh pho Ho Chi Minh,HCMC,,S,Thanh pho Ho Chi Minh,1,TRUE
+259,CH Co.opFood Le Van Quoi,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+260,NKD-CH Co.opFood Tan Ky TanQuy,6,STORE,CoopFood,CF,Vietnam,VN,,1,Thanh pho Ho Chi Minh,HCMC,3/14/2022 0:00,S,Thanh pho Ho Chi Minh,1,TRUE
+261,CH Co.opFood Quang Trung,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+262,CH Co.opFood Huynh Tan Phat,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+263,CH Co.opFood Nha Be,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+264,NKD-CH Co.opFood Huong Lo 2,6,STORE,CoopFood,CF,Vietnam,VN,,1,Thanh pho Ho Chi Minh,HCMC,3/14/2022 0:00,S,Thanh pho Ho Chi Minh,1,TRUE
+265,CH Co.opFood Truong Tho,6,STORE,CoopFood,CF,Vietnam,VN,,1,Thanh pho Ho Chi Minh,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+266,CH Co.opFood Long Phuoc,6,STORE,CoopFood,CF,Vietnam,VN,,1,Thanh pho Ho Chi Minh,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+267,CH Co.opFood Kha Van Can,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+268,NKD-CH Co.opFood Binh Quoi,6,STORE,CoopFood,CF,Vietnam,VN,,1,Thanh pho Ho Chi Minh,HCMC,,S,Thanh pho Ho Chi Minh,1,TRUE
+269,CH Co.opFood Bach Dang,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+270,CH Co.opFood KCN Tan Thoi Hiep,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+271,NKD-CH Co.opFood KCN Tan Binh,6,STORE,CoopFood,CF,Vietnam,VN,1/17/2021 15:56,1,unknown,0,8/24/2020 0:00,S,unknown,1,TRUE
+272,CH Co.opFood KCN Hiep Phuoc,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+273,KSD-CH Co.opFood Long Hau,6,STORE,CoopFood,CF,Vietnam,VN,1/17/2021 15:56,1,unknown,0,11/16/2020 0:00,S,unknown,1,TRUE
+274,CH Co.opFood Le Van Viet,6,STORE,CoopFood,CF,Vietnam,VN,,1,Thanh pho Ho Chi Minh,HCMC,4/10/2023 11:11,S,Thanh pho Ho Chi Minh,1,TRUE
+275,CH Co.opFood KCN Vinh Loc,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+276,CH Co.opFood KCN Tay Bac,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+277,CH Co.opFood Truong Cong Dinh,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+278,CH Co.opFood Pham Van Bach,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+279,CH Co.opFood Ton That Thuyet,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+280,CH Co.opFood To Hien Thanh,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+281,CH Co.opFood Truong Dinh Hoi,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+282,CH Co.opFood Quoc Lo 50,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+283,NKD-CH Co.opFood Tay Thanh,6,STORE,CoopFood,CF,Vietnam,VN,1/17/2021 15:56,1,unknown,0,7/8/2019 0:00,S,unknown,1,TRUE
+284,CH Co.opFood Ung Van Khiem,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+285,CH Co.opFood Tinh Lo 10,6,STORE,CoopFood,CF,Vietnam,VN,,1,Thanh pho Ho Chi Minh,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+286,CH Co.opFood Thap Muoi,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+287,CH Co.opFood Go Xoai,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+288,NKD-CH Co.opFood To Ky,6,STORE,CoopFood,CF,Vietnam,VN,,1,Thanh pho Ho Chi Minh,HCMC,3/14/2022 0:00,S,Thanh pho Ho Chi Minh,1,TRUE
+289,CH Co.opFood Bui Dinh Tuy,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+290,CH Co.opFood Nguyen Van Tang,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+291,CH Co.opFood Le Van Khuong,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+292,NKD-CH Co.opFood Au Co,6,STORE,CoopFood,CF,Vietnam,VN,,1,Thanh pho Ho Chi Minh,HCMC,3/14/2022 0:00,S,Thanh pho Ho Chi Minh,1,TRUE
+293,CH Co.opFood Nguyen Duy Trinh,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+294,CH Co.opFood 53 Pham Van Chieu,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+295,CH Co.opFood 37 Phan Huy Ich,6,STORE,CoopFood,CF,Vietnam,VN,,1,Thanh pho Ho Chi Minh,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+296,Co.opFood 249 Luong Dinh Cua,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+297,NKD-CH Co.opFood Hang Xanh,6,STORE,CoopFood,CF,Vietnam,VN,,1,Thanh pho Ho Chi Minh,HCMC,,S,Thanh pho Ho Chi Minh,1,TRUE
+298,CH Co.opFood Hung Phu,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+301,Co-opXtra Linh Trung,6,STORE,CoopMart,CM,Vietnam,VN,,1,HO CHI MINH,HCMC,,B,Thanh Pho Ho Chi Minh,1,FALSE
+304,Co-opXtra Tan Phong,6,STORE,CoopMart,CM,Vietnam,VN,,1,HO CHI MINH,HCMC,,B,Thanh Pho Ho Chi Minh,1,FALSE
+305,Co-opXtra Su Van Hanh,6,STORE,CoopMart,CM,Vietnam,VN,,1,HO CHI MINH,HCMC,,B,Thanh Pho Ho Chi Minh,1,FALSE
+306,Co-opXtra Pham Van Dong,6,STORE,CoopMart,CM,Vietnam,VN,,1,HO CHI MINH,HCMC,,B,Thanh Pho Ho Chi Minh,1,FALSE
+39002,CD1 (Cua dong hanhlang Cho BT),6,STORE, , , , ,3/19/2024 14:54,1, , ,3/19/2024 14:54, , ,1,TRUE
+39003,CD2 (Cua dong hanhlang Cho BT),6,STORE, , , , ,3/19/2024 14:54,1, , ,3/19/2024 14:54, , ,1,TRUE
+39004,CD3 (Cua dong hanhlang Cho BT),6,STORE, , , , ,3/19/2024 14:54,1, , ,3/19/2024 14:54, , ,1,TRUE
+39005,CD4 (Cua dong hanhlang Cho BT),6,STORE, , , , ,3/19/2024 14:54,1, , ,3/19/2024 14:54, , ,1,TRUE
+39006,CD5 (Cua dong hanhlang Cho BT),6,STORE, , , , ,3/19/2024 14:54,1, , ,3/19/2024 14:54, , ,1,TRUE
+39007,CD6 (Cua dong hanhlang Cho BT),6,STORE, , , , ,3/19/2024 14:54,1, , ,3/19/2024 14:54, , ,1,TRUE
+39008,CD7 (Cua dong hanhlang Cho BT),6,STORE, , , , ,3/19/2024 14:54,1, , ,3/19/2024 14:54, , ,1,TRUE
+39009,CT1 (Cua tay hanh lang Cho BT),6,STORE, , , , ,3/19/2024 14:54,1, , ,3/19/2024 14:54, , ,1,TRUE
+39010,CT2 (Cua tay hanh lang Cho BT),6,STORE, , , , ,3/19/2024 14:54,1, , ,3/19/2024 14:54, , ,1,TRUE
+39011,CT3 (Cua tay hanh lang Cho BT),6,STORE, , , , ,3/19/2024 14:54,1, , ,3/19/2024 14:54, , ,1,TRUE
+39012,CT4 (Cua tay hanh lang Cho BT),6,STORE, , , , ,3/19/2024 14:54,1, , ,3/19/2024 14:54, , ,1,TRUE
+39013,CT5 (Cua tay hanh lang Cho BT),6,STORE, , , , ,3/19/2024 14:54,1, , ,3/19/2024 14:54, , ,1,TRUE
+39014,CT6 (Cua tay hanh lang Cho BT),6,STORE, , , , ,3/19/2024 14:54,1, , ,3/19/2024 14:54, , ,1,TRUE
+39015,Quay vai sieu thi Cong Quynh,6,STORE, , , , ,3/19/2024 14:54,1, , ,3/19/2024 14:54, , ,1,TRUE
+39016,Quay vai sieu thi XLHN,6,STORE, , , , ,3/19/2024 14:54,1, , ,3/19/2024 14:54, , ,1,TRUE
+399,FINELIFE SUPERMARKET URBANHILL,6,STORE,FINELIFE,FL,Vietnam,VN,4/26/2021 12:31,1,HO CHI MINH,HCMC,4/26/2021 12:31,B, ,1,FALSE
+400,CH CF 306 Nguyen Thai Son,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+401,CH Co.opFood Binh Gia,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+402,CH Co.opFood Thong Nhat,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+403,CH CoopFood 203 Vo Thanh Trang,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+404,CH Co.opFood Pham The Hien 2,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+405,CH Co.opFood 418 Tran Van Giau,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+406,CH Co.opFood 85 Nguyen Son,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+407,CH Co.opFood Phu Thuan,6,STORE,CoopFood,CF,Vietnam,VN,,1,Thanh pho Ho Chi Minh,HCMC,,S,Thanh pho Ho Chi Minh,1,TRUE
+408,NKD-CH Co.opFood Thai Son,6,STORE,CoopFood,CF,Vietnam,VN,,1,Thanh pho Ho Chi Minh,HCMC,3/14/2022 0:00,S,Thanh pho Ho Chi Minh,1,TRUE
+409,CH Co.opFood Hiep Binh Chanh,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+410,CH Co.opFood Cat Lai,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+4201,FINELIFE FOODSTORE HA DO,6,STORE,FINELIFE,FL,Vietnam,VN,,1,HO CHI MINH,HCMC,,B,Thanh Pho Ho Chi Minh,1,FALSE
+4202,FLIFE FOODSTORE RIVIERA POINT,6,STORE,FINELIFE,FL,Vietnam,VN,,1,HO CHI MINH,HCMC,,B,Thanh Pho Ho Chi Minh,1,FALSE
+4203,FLIFE SUPERMARKET SAIGON MIA,6,STORE,FINELIFE,FL,Vietnam,VN,,1,HO CHI MINH,HCMC,,B,Thanh Pho Ho Chi Minh,1,FALSE
+501,Co.opMart An Nhon,6,STORE,CoopMart,CM,Vietnam,VN,,1,Mien Trung,MTR,,B,Mien Trung,1,TRUE
+502,Co.opMart Bac Giang,6,STORE,CoopMart,CM,Vietnam,VN,,1,Mien Bac,MB,,B,Mien Bac,1,FALSE
+503,Co.opMart Binh Duong 2,6,STORE,CoopMart,CM,Vietnam,VN,,1,Mien Dong,MD,,B,Mien Dong,1,FALSE
+504,Co.opMart Dak Nong,6,STORE,CoopMart,CM,Vietnam,VN,,1,Tay Nguyen,TN,,B,Tay Nguyen,1,FALSE
+505,Co.opMart Ly Thuong Kiet,6,STORE,CoopMart,CM,Vietnam,VN,2/10/2020 14:40,1,HO CHI MINH,HCMC,6/9/2020 9:29,B,Thanh pho Ho Chi Minh - Khu vuc 2,1,FALSE
+506,Co.opMart Van Thanh,6,STORE,CoopMart,CM,Vietnam,VN,,1,HO CHI MINH,HCMC,,B,Thanh Pho Ho Chi Minh,1,FALSE
+507,Co.opMart La Gi,6,STORE,CoopMart,CM,Vietnam,VN,,1,Mien Dong,MD,,B,Mien Dong,1,FALSE
+508,Co.opMart Nguyen Binh,6,STORE,CoopMart,CM,Vietnam,VN,,1,HO CHI MINH,HCMC,,B,Thanh Pho Ho Chi Minh,1,FALSE
+509,Co.opMart Vinh Loc B,6,STORE,CoopMart,CM,Vietnam,VN,,1,HO CHI MINH,HCMC,,B,Thanh Pho Ho Chi Minh,1,FALSE
+510,Co.opMart Do Van Day,6,STORE,CoopMart,CM,Vietnam,VN,,1,HO CHI MINH,HCMC,,B,Thanh Pho Ho Chi Minh,1,FALSE
+511,Co.opMart Hiep Thanh,6,STORE,CoopMart,CM,Vietnam,VN,,1,HO CHI MINH,HCMC,,B,Thanh Pho Ho Chi Minh,1,FALSE
+512,Co.opMart Quang Binh,6,STORE,CoopMart,CM,Vietnam,VN,,1,Mien Trung,MTR,,B,Mien Trung,1,FALSE
+513,Co.opMart Ben Luc,6,STORE,CoopMart,CM,Vietnam,VN,,1,Mien Tay,MT,,B,Mien Tay,1,FALSE
+514,Co.opMart Tan An,6,STORE,CoopMart,CM,Vietnam,VN,,1,Mien Tay,MT,,B,Mien Tay,1,FALSE
+515,Co.opMart Ba Ria,6,STORE,CoopMart,CM,Vietnam,VN,2/10/2020 14:40,1,Mien Dong,MD,6/9/2020 9:29,B,Mien Dong,1,FALSE
+516,Co.opMart Binh Duong,6,STORE,CoopMart,CM,Vietnam,VN,,1,Mien Dong,MD,,B,Mien Dong,1,FALSE
+517,Co.opMart Sa Dec,6,STORE,CoopMart,CM,Vietnam,VN,,1,Mien Tay,MT,,B,Mien Tay,1,FALSE
+518,Co.opMart Go Cong,6,STORE,CoopMart,CM,Vietnam,VN,,1,Mien Tay,MT,,B,Mien Tay,1,FALSE
+519,Co.opMart Thot Not,6,STORE,CoopMart,CM,Vietnam,VN,,1,Mien Tay,MT,,B,Mien Tay,1,FALSE
+520,Co.opMart Chau Doc,6,STORE,CoopMart,CM,Vietnam,VN,,1,Mien Tay,MT,,B,Mien Tay,1,FALSE
+521,Co.opMart Duc Pho,6,STORE,CoopMart,CM,Vietnam,VN,,1,Mien Trung,MTR,,B,Mien Trung,1,TRUE
+522,Co.opMart Ca Mau,6,STORE,CoopMart,CM,Vietnam,VN,,1,Mien Tay,MT,,B,Mien Tay,1,FALSE
+52201,CH Co.opFood CM Ngo Quyen,6,STORE,CoopFood,CF,Vietnam,VN,1/7/2021 8:42,1,Mien Tay,MT,1/7/2021 8:42,S, ,1,FALSE
+523,Co.opMart Buon Ho,6,STORE,CoopMart,CM,Vietnam,VN,,1,Tay Nguyen,TN,,B,Tay Nguyen,1,FALSE
+524,Co.opMart Dong Van Cong,6,STORE,CoopMart,CM,Vietnam,VN,,1,HO CHI MINH,HCMC,,B,Thanh Pho Ho Chi Minh,1,FALSE
+525,Co.opMart Nam Dinh,6,STORE,CoopMart,CM,Vietnam,VN,,1,Mien Bac,MB,,B,Mien Bac,1,FALSE
+526,Co.opMart Tan Chau,6,STORE,CoopMart,CM,Vietnam,VN,,1,Mien Dong,MD,,B,Mien Dong,1,FALSE
+527,Co.opMart Chu Se,6,STORE,CoopMart,CM,Vietnam,VN,,1,Tay Nguyen,TN,,B,Tay Nguyen,1,FALSE
+528,Co.opMart Kon Tum,6,STORE,CoopMart,CM,Vietnam,VN,,1,Tay Nguyen,TN,,B,Tay Nguyen,1,FALSE
+529,Co.opMart Tan Thanh,6,STORE,CoopMart,CM,Vietnam,VN,,1,Mien Dong,MD,,B,Mien Dong,1,FALSE
+530,Co.opMart Chu Van An,6,STORE,CoopMart,CM,Vietnam,VN,,1,HO CHI MINH,HCMC,,B,Thanh Pho Ho Chi Minh,1,FALSE
+531,Co.opMart Ha Tien,6,STORE,CoopMart,CM,Vietnam,VN,,1,Mien Tay,MT,,B,Mien Tay,1,FALSE
+532,Co.opMart Cai Lay,6,STORE,CoopMart,CM,Vietnam,VN,,1,Mien Tay,MT,,B,Mien Tay,1,FALSE
+533,Co.opMart Hong Ngu,6,STORE,CoopMart,CM,Vietnam,VN,,1,Mien Tay,MT,,B,Mien Tay,1,FALSE
+534,Co.opMart Go Dau,6,STORE,CoopMart,CM,Vietnam,VN,,1,Mien Dong,MD,,B,Mien Dong,1,FALSE
+535,Co.opMart Tan Chau An Giang,6,STORE,CoopMart,CM,Vietnam,VN,,1,Mien Tay,MT,,B,Mien Tay,1,FALSE
+536,Co.opMart Duyen Hai,6,STORE,CoopMart,CM,Vietnam,VN,,1,Mien Tay,MT,,B,Mien Tay,1,FALSE
+537,Co.opMart Viet Tri,6,STORE,CoopMart,CM,Vietnam,VN,,1,Mien Bac,MB,,B,Mien Bac,1,FALSE
+53701,CH Co.opFood PTH Tu Xa,6,STORE,CoopFood,CF,Vietnam,VN,,1,Mien Bac,MB,,S,Mien Bac,1,FALSE
+538,Co.opMart Phuoc Dong,6,STORE,CoopMart,CM,Vietnam,VN,,1,Mien Dong,MD,,B,Mien Dong,1,FALSE
+539,Co.opMart Phan Ri Cua,6,STORE,CoopMart,CM,Vietnam,VN,,1,Mien Dong,MD,,B,Mien Dong,1,FALSE
+540,Co.opMart Can Giuoc,6,STORE,CoopMart,CM,Vietnam,VN,,1,Mien Tay,MT,,B,Mien Tay,1,FALSE
+541,Co.opMart Binh Tan 2,6,STORE,CoopMart,CM,Vietnam,VN,,1,HO CHI MINH,HCMC,,B,Thanh Pho Ho Chi Minh,1,FALSE
+542,Co.opMart Binh Thuy,6,STORE,CoopMart,CM,Vietnam,VN,,1,Mien Tay,MT,,B,Mien Tay,1,FALSE
+543,Co.opMart Chau Thanh Tay Ninh,6,STORE,CoopMart,CM,Vietnam,VN,,1,Mien Dong,MD,,B,Mien Dong,1,FALSE
+545,Co.opMart Tieu Can,6,STORE,CoopMart,CM,Vietnam,VN,,1,Mien Tay,MT,,B,Mien Tay,1,FALSE
+546,Co.opMart Dong Phu,6,STORE,CoopMart,CM,Vietnam,VN,,1,Mien Dong,MD,,B,Mien Dong,1,FALSE
+547,Co.opMart Son Tra,6,STORE,CoopMart,CM,Vietnam,VN,,1,Mien Trung,MTR,,B,Mien Trung,1,FALSE
+54701,CH Co.opFood DN Dinh Chau,6,STORE,CoopMart,CM,Vietnam,VN,1/7/2021 8:42,1,Trung Bo,MTR,1/7/2021 8:42,S, ,1,FALSE
+548,Co.opXtra Premium,6,STORE,CoopMart,CM,Vietnam,VN,,1,HO CHI MINH,HCMC,,B,Thanh Pho Ho Chi Minh,1,TRUE
+549,Co.opMart Hoang Van Thu,6,STORE,CoopMart,CM,Vietnam,VN,,1,HO CHI MINH,HCMC,,B,Thanh Pho Ho Chi Minh,1,FALSE
+552,Co.opMart SCA - VICTORIA,6,STORE,CoopMart,CM,Vietnam,VN,,1,Mien Bac,MB,,B,Mien Bac,1,FALSE
+553,Co.opMart SCA - GOLDSILK,6,STORE,CoopMart,CM,Vietnam,VN,,1,Mien Bac,MB,,B,Mien Bac,1,FALSE
+554,Co.opMart SCA - GOLDENSILK,6,STORE,CoopMart,CM,Vietnam,VN,,1,Mien Bac,MB,,B,Mien Bac,1,FALSE
+555,Co.opMart SCA - LONG BIEN,6,STORE,CoopMart,CM,Vietnam,VN,,1,Mien Bac,MB,,B,Mien Bac,1,FALSE
+556,Co.opMart To Ky,6,STORE,CoopMart,CM,Vietnam,VN,,1,HO CHI MINH,HCMC,,B,Thanh Pho Ho Chi Minh,1,FALSE
+557,Co.opMart SCA - Tay Ninh,6,STORE,CoopMart,CM,Vietnam,VN,,1,Mien Dong,MD,,B,Mien Dong,1,FALSE
+559,Co.opMart SCA - Au Co,6,STORE,CoopMart,CM,Vietnam,VN,,1,HO CHI MINH,HCMC,,B,Thanh Pho Ho Chi Minh,1,TRUE
+560,Co.opMart SCA - Pham Van Chieu,6,STORE,CoopMart,CM,Vietnam,VN,,1,HO CHI MINH,HCMC,4/10/2023 11:11,B,Thanh Pho Ho Chi Minh,1,TRUE
+561,Co.opMart SCA - Cao Thang,6,STORE,CoopMart,CM,Vietnam,VN,,1,HO CHI MINH,HCMC,,B,Thanh Pho Ho Chi Minh,1,FALSE
+562,Co.opMart Thoai Son,6,STORE,CoopMart,CM,Vietnam,VN,,1,Mien Tay,MT,,B,Mien Tay,1,FALSE
+56201,CH CFood 16-18Nguyen Truong To,6,STORE,CoopFood,CF,Vietnam,VN,1/7/2021 8:42,1,Mien Tay,MT,1/7/2021 8:42,S, ,1,FALSE
+56202,CH Co.opFood AG Tran Hung Dao,6,STORE,CoopFood,CF,Vietnam,VN,4/26/2021 12:31,1,Mien Tay,MT,3/14/2022 0:00,S, ,1,TRUE
+563,Co.opMart Tan Bien Tay Ninh,6,STORE,CoopMart,CM,Vietnam,VN,,1,Mien Dong,MD,,B,Mien Dong,1,FALSE
+564,Co.opMart Duong Minh Chau,6,STORE,CoopMart,CM,Vietnam,VN,,1,Mien Dong,MD,,B,Mien Dong,1,FALSE
+565,Co.opMart Tam Binh,6,STORE,CoopMart,CM,Vietnam,VN,,1,HO CHI MINH,HCMC,,B,Thanh Pho Ho Chi Minh,1,FALSE
+566,Co.opMart Cu M'gar,6,STORE,CoopMart,CM,Vietnam,VN,,1,Tay Nguyen,TN,,B,Tay Nguyen,1,FALSE
+567,Co.opMart Ha Dong,6,STORE,CoopMart,CM,Vietnam,VN,,1,Mien Bac,MB,,B,Mien Bac,1,FALSE
+569,Co.opMart Thap Muoi,6,STORE,CoopMart,CM,Vietnam,VN,4/26/2021 12:31,1,Mien Tay,MT,4/26/2021 12:31,B, ,1,FALSE
+570,Co.opMart ThangLoi-TruongChinh,6,STORE,CoopMart,CM,Vietnam,VN,7/19/2021 8:16,1,HO CHI MINH,HCMC,7/19/2021 8:16,B, ,1,FALSE
+571,Co.op Mart An Nhon,6,STORE,CoopMart,CM,Vietnam,VN,,1,Mien Trung,MTR,,B,Binh Dinh,1,FALSE
+572,Co.opMart Duc Pho,6,STORE,CoopMart,CM,Vietnam,VN,,1,Mien Trung,MTR,,B,Quang Ngai,1,FALSE
+573,Co.opMart Cai Be,6,STORE,CoopMart,CM, , ,3/19/2024 14:30,1,Mien Tay,MT,3/19/2024 14:30, , ,1,FALSE
+574,Co.opMart Cho Moi,6,STORE,CoopMart,CM, , ,3/19/2024 14:30,1,Mien Tay,MT,3/19/2024 14:30, , ,1,FALSE
+601,CTY TNHH Truyen Thong SGCO.OP,6,STORE,CoopMart,CM,Vietnam,VN,1/17/2021 15:56,1,TP.HCM,0,7/26/2021 0:00,B,TP.HCM,1,TRUE
+625,CH Co.opFood Conic,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+626,CH Co.opFood CC Binh Phu 1,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+627,CH Co.opFood 06 Truong Gia Mo,6,STORE,CoopFood,CF,Vietnam,VN,,1,Thanh pho Ho Chi Minh,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+629,CH Co.opFood 7 Le Thi Ha,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+630,CH Co.opFood CC Petroland,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+631,CH Co.opFood 239Duong Dinh Hoi,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+632,CH Co.opFood CC Carina,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+633,CH Co.opFood 397 Phan Huy Ich,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+634,CH Co.opFood 13 Le Van Thinh,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+635,CH Co.opFood Hoang Dieu 2,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+636,CH Co.opFood Flora,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+637,CH Co.opFood An Khang,6,STORE,CoopFood,CF,Vietnam,VN,2/10/2020 14:40,1,HO CHI MINH,HCMC,6/9/2020 9:29,S,Thanh pho Ho Chi Minh,1,FALSE
+638,CH Co.opFood Nguyen Luong Bang,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+639,CH Co.opFood Green Hills,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+640,CH Co.opFood CC Son Ky,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+641,CH Co.opFood Saigon Town,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+642,CH Co.opFood 372 No Trang Long,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+643,CH Co.opFood D20 Vo Van Van,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+644,CH Co.opFood 174 Phan Van Hon,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+645,CH Co.opFood Long Truong,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+646,NKD-CH Co.opFood Chung Cu 8X,6,STORE,CoopFood,CF,Vietnam,VN,,1,Thanh pho Ho Chi Minh,HCMC,3/14/2022 0:00,S,Thanh pho Ho Chi Minh,1,TRUE
+647,CH Co.opFood Conic Sky,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+648,CH Co.opFood Tam Binh,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+649,NKD-CH Co.opFood Phong Phu,6,STORE,CoopFood,CF,Vietnam,VN,,1,Thanh pho Ho Chi Minh,HCMC,3/14/2022 0:00,S,Thanh pho Ho Chi Minh,1,TRUE
+650,NKD-CH Co.opFood Tan Tru,6,STORE,CoopFood,CF,Vietnam,VN,,1,Thanh pho Ho Chi Minh,HCMC,3/14/2022 0:00,S,Thanh pho Ho Chi Minh,1,TRUE
+651,NKD-CH Co.opFood Cho Thu Duc,6,STORE,CoopFood,CF,Vietnam,VN,,1,Thanh pho Ho Chi Minh,HCMC,,S,Thanh pho Ho Chi Minh,1,TRUE
+652,CH Co.opFood Linh Chieu,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+653,CH Co.opFood Bui The My 31,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+654,CH Co.opFood Krista,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+655,CH Co.opFood Lang Tang Phu,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+656,CH Co.opFood Gia Phu,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+657,CH Co.opFood Vanh Dai,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+658,CH Co.opFood Man Thien 280,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+659,CH Co.opFood Linh Dong,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+661,CH Co.opFood Dinh Bo Linh 81,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+662,NKD-CH Co.opFood Vinh Loc B,6,STORE,CoopFood,CF,Vietnam,VN,1/17/2021 15:56,1,unknown,0,11/11/2019 0:00,S,unknown,1,TRUE
+663,CH Co.opFood Le Dinh Can 191A,6,STORE,CoopFood,CF,Vietnam,VN,,1,Thanh pho Ho Chi Minh,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+664,NKD-CH CFood Tinh Lo 10-1226,6,STORE,CoopFood,CF,Vietnam,VN,1/17/2021 15:56,1,unknown,0,11/11/2019 0:00,S,unknown,1,TRUE
+665,CH Co.opFood Tinh Lo 15-1031,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+666,NKD-CH Co.opFood 29 Duong 457,6,STORE,CoopFood,CF,Vietnam,VN,1/17/2021 15:56,1,unknown,0,3/25/2019 0:00,S,unknown,1,TRUE
+667,NKD-CH Co.opFood Thach Lam 177,6,STORE,CoopFood,CF,Vietnam,VN,1/17/2021 15:56,1,unknown,0,11/4/2019 0:00,S,unknown,1,TRUE
+668,NKD-CH CoopFood Huong Lo 2-515,6,STORE,CoopFood,CF,Vietnam,VN,,1,Thanh pho Ho Chi Minh,HCMC,,S,Thanh pho Ho Chi Minh,1,TRUE
+669,CH Co.opFood Phuoc Kien,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+671,CH Co.opFood Quoc Lo 22-726,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+672,NKD-CH Co.opFood Tan Thong Hoi,6,STORE,CoopFood,CF,Vietnam,VN,1/17/2021 15:56,1,unknown,0,11/11/2019 0:00,S,unknown,1,TRUE
+673,NKD-CH CFood Duong Dinh Hoi 64,6,STORE,CoopFood,CF,Vietnam,VN,,1,Thanh pho Ho Chi Minh,HCMC,3/14/2022 0:00,S,Thanh pho Ho Chi Minh,1,TRUE
+674,CH Co.opFood Man Thien 126A,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+675,NKD-CH CFood Dinh Phong Phu 37,6,STORE,CoopFood,CF,Vietnam,VN,1/17/2021 15:56,1,unknown,0,11/11/2019 0:00,S,unknown,1,TRUE
+676,CH Co.opFood Ba Diem,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+677,NKD-CH CFood Huynh Tan Phat591,6,STORE,CoopFood,CF,Vietnam,VN,,1,Thanh pho Ho Chi Minh,HCMC,,S,Thanh pho Ho Chi Minh,1,TRUE
+678,CH Co.opFood Dong Bac,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+679,NKD-CH CFood Le Trong Tan 47A,6,STORE,CoopFood,CF,Vietnam,VN,,1,Thanh pho Ho Chi Minh,HCMC,3/14/2022 0:00,S,Thanh pho Ho Chi Minh,1,TRUE
+680,CH Co.opFood Nguyen Cuu Phu 21,6,STORE,CoopFood,CF,Vietnam,VN,,1,Thanh pho Ho Chi Minh,HCMC,,S,Thanh pho Ho Chi Minh,1,TRUE
+68001,CH DTM Test,6,STORE,CoopFood,CF, , ,3/19/2024 14:54,1,HO CHI MINH,HCMC,3/19/2024 14:54, , ,1,TRUE
+681,NKD-CH Co.opFood Khanh Hoi,6,STORE,CoopFood,CF,Vietnam,VN,,1,Thanh pho Ho Chi Minh,HCMC,,S,Thanh pho Ho Chi Minh,1,TRUE
+682,NKD-CH CFood Phan Huy Ich 105,6,STORE,CoopFood,CF,Vietnam,VN,,1,Thanh pho Ho Chi Minh,HCMC,3/14/2022 0:00,S,Thanh pho Ho Chi Minh,1,TRUE
+683,CH Co.opFood Xuan Hiep,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+684,CH Co.opFood Tan Quy Tay,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+685,CH Co.opFood An Lac,6,STORE,CoopFood,CF,Vietnam,VN,2/10/2020 14:40,1,HO CHI MINH,HCMC,6/9/2020 9:29,S,Thanh pho Ho Chi Minh,1,FALSE
+687,CH CFood Tran Van Giau 5C13,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+688,CH CFood Nguyen Duy Trinh 192,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+689,CH Co.opFood Minh Duc,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+690,CH Co.opFood Xom Chieu,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+69002,CH NQ Nguyen Khoai,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh Pho Ho Chi Minh,1,TRUE
+69003,CH NQ Nguyen Luong Bang,6,STORE,CoopFood,CF, , ,3/19/2024 14:54,1,HO CHI MINH,HCMC,3/19/2024 14:54, , ,1,TRUE
+69004,CH NQ Do Dac,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh Pho Ho Chi Minh,1,TRUE
+69005,CH NQ Chung Cu Dao Duy Tu,6,STORE,CoopFood,CF, , ,3/19/2024 14:54,1,HO CHI MINH,HCMC,3/19/2024 14:54, , ,1,TRUE
+69006,CH NQ Ngo Quyen,6,STORE,CoopFood,CF, , ,3/19/2024 14:54,1,HO CHI MINH,HCMC,3/19/2024 14:54, , ,1,TRUE
+69008,CH NQ Tay Hoa,6,STORE,CoopFood,CF, , ,3/19/2024 14:54,1,HO CHI MINH,HCMC,3/19/2024 14:54, , ,1,TRUE
+69010,CH NQ Nguyen Van Cong,6,STORE,CoopFood,CF, , ,3/19/2024 14:54,1,HO CHI MINH,HCMC,3/19/2024 14:54, , ,1,TRUE
+69011,CH NQ Ca Mau-TTMS Hoang Gia,6,STORE,CoopFood,CF, , ,3/19/2024 14:54,1,HO CHI MINH,HCMC,3/19/2024 14:54, , ,1,TRUE
+69013,CH NQ Binh Hung,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh Pho Ho Chi Minh,1,TRUE
+69014,CH NQ Linh Xuan,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh Pho Ho Chi Minh,1,TRUE
+69016,CH NQ Duong Quang Ham,6,STORE,CoopFood,CF, , ,3/19/2024 14:54,1,HO CHI MINH,HCMC,3/19/2024 14:54, , ,1,TRUE
+69017,CH NQ Pham Viet Chanh,6,STORE,CoopFood,CF, , ,3/19/2024 14:54,1,HO CHI MINH,HCMC,3/19/2024 14:54, , ,1,TRUE
+69019,CH NQ 134A Nguyen Thai Son,6,STORE,CoopFood,CF, , ,3/19/2024 14:54,1,HO CHI MINH,HCMC,3/19/2024 14:54, , ,1,TRUE
+69020,CH CoopFood NQ QN Tang Bat Ho,6,STORE,CoopMart,CM, , ,3/19/2024 14:54,1,Mien Trung,MTR,3/19/2024 14:54, , ,1,TRUE
+69021,CH NQ Au Duong Lan,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh Pho Ho Chi Minh,1,TRUE
+69022,CH NQ Mai Van Vinh,6,STORE,CoopFood,CF, , ,3/19/2024 14:54,1,HO CHI MINH,HCMC,3/19/2024 14:54, , ,1,TRUE
+69023,CH NQ Nguyen Cong Tru,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh Pho Ho Chi Minh,1,TRUE
+69024,CH NQ Binh Loi,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+69025,CH NQ Thanh Thai,6,STORE,CoopFood,CF, , ,3/19/2024 14:54,1,HO CHI MINH,HCMC,3/19/2024 14:54, , ,1,TRUE
+69026,CH NQ Pho Quang,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+69027,CH NQ Binh Duong,6,STORE,CoopFood,CF, , ,3/19/2024 14:54,1,HO CHI MINH,HCMC,3/19/2024 14:54, , ,1,TRUE
+69029,CH NQ Dream Home,6,STORE,CoopFood,CF, , ,3/19/2024 14:54,1,HO CHI MINH,HCMC,3/19/2024 14:54, , ,1,TRUE
+69031,CH NQ Nguyen Van Dau,6,STORE,CoopFood,CF, , ,3/19/2024 14:54,1,HO CHI MINH,HCMC,3/19/2024 14:54, , ,1,TRUE
+69032,CH NQ Sky 9,6,STORE,CoopFood,CF, , ,3/19/2024 14:54,1,HO CHI MINH,HCMC,3/19/2024 14:54, , ,1,TRUE
+69038,CH NQ Phuoc Binh,6,STORE,CoopFood,CF, , ,3/19/2024 14:54,1,HO CHI MINH,HCMC,3/19/2024 14:54, , ,1,TRUE
+69039,CH NQ Tang Long,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh Pho Ho Chi Minh,1,TRUE
+69040,CH NQ Dong Tang Long,6,STORE,CoopFood,CF, , ,3/19/2024 14:54,1,HO CHI MINH,HCMC,3/19/2024 14:54, , ,1,TRUE
+69041,CH NQ Binh Hoa,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh Pho Ho Chi Minh,1,TRUE
+69043,CH NQ Song Huong,6,STORE,CoopFood,CF, , ,3/19/2024 14:54,1,HO CHI MINH,HCMC,3/19/2024 14:54, , ,1,TRUE
+69045,"CH NQ Duong 48, Thu Duc",6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh Pho Ho Chi Minh,1,TRUE
+69048,CH NQ Dinh Tien Hoang 45,6,STORE,CoopFood,CF, , ,3/19/2024 14:54,1,HO CHI MINH,HCMC,3/19/2024 14:54, , ,1,TRUE
+69051,CH NQ Dang Thuy Tram,6,STORE,CoopFood,CF, , ,3/19/2024 14:54,1,HO CHI MINH,HCMC,3/19/2024 14:54, , ,1,TRUE
+69053,CH NQ Citi Gate,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh Pho Ho Chi Minh,1,TRUE
+69056,CH NQ Topaz City,6,STORE,CoopFood,CF, , ,3/19/2024 14:54,1,HO CHI MINH,HCMC,3/19/2024 14:54, , ,1,TRUE
+69058,CH NQ Khu Dan Cu Dai Phuc,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh Pho Ho Chi Minh,1,TRUE
+69060,CH NQ Trung Tuyen City,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh Pho Ho Chi Minh,1,TRUE
+69061,CH NQ Fuji Gia Binh,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh Pho Ho Chi Minh,1,TRUE
+69062,CH NQ Ben Hai,6,STORE,CoopFood,CF, , ,3/19/2024 14:54,1,HO CHI MINH,HCMC,3/19/2024 14:54, , ,1,TRUE
+69064,CH NQ The Pegasuite PhuongViet,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh Pho Ho Chi Minh,1,TRUE
+69066,CH NQ Trung Son,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+69068,CH NQ Pho Dong,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+69069,CH NQ Bong Sao,6,STORE,CoopFood,CF, , ,3/19/2024 14:54,1,HO CHI MINH,HCMC,3/19/2024 14:54, , ,1,TRUE
+69070,CH NQ Gia Hoa,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh Pho Ho Chi Minh,1,TRUE
+69071,CF NQ Stown Tower,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh Pho Ho Chi Minh,1,TRUE
+69072,CF NQ Thu Thiem,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh Pho Ho Chi Minh,1,TRUE
+69073,CH NQ Ben Hai,6,STORE,CoopFood,CF, , ,3/19/2024 14:54,1,HO CHI MINH,HCMC,3/19/2024 14:54, , ,1,TRUE
+69074,CH NQ Sky 9,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh Pho Ho Chi Minh,1,TRUE
+691,CH Co.opFood Tan Quy,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+692,CH Co.opFood Lien Khu 5-6,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+693,CH Co.opFood Tam Binh 196,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+694,CH Co.opFood Thang Long 31,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+695,CH Co.opFood Le Loi 60,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+696,CH CFood Hoang Anh Thanh Binh,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+697,CH CoopFood Trinh Dinh Thao 31,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+698,CH Co.opFood Tan Huong 262,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Thanh pho Ho Chi Minh,1,FALSE
+699,CoopFood Nhuong Quyen,6,STORE,CoopFood,CF, , ,3/19/2024 14:54,1,HO CHI MINH,HCMC,3/19/2024 14:54, , ,1,TRUE
+801,Trung tam phan phoi Song Than,3, ,DC,DC,Vietnam,VN,2/10/2020 14:40,1, , ,6/9/2020 9:29,B, ,1,FALSE
+802,Trung tam phan phoi Mien Tay,3, ,DC,DC,Vietnam,VN,2/10/2020 14:40,1, , ,6/9/2020 9:29,B, ,1,FALSE
+803,Trung Tam Phan Phoi Mien Bac,3, ,DC,DC,Vietnam,VN,10/20/2020 8:05,1, , ,10/20/2020 8:05,B, ,1,FALSE
+804,Kho Ve Tinh Binh Duong,6,STORE,CoopMart,CM,Vietnam,VN,,1, , ,,B, ,1,FALSE
+805,TTPP Saigonco.op-Kho hang U&I,3, ,DC,DC,Vietnam,VN,8/12/2021 7:43,1, , ,8/12/2021 7:43,B, ,1,FALSE
+808,Kho TPTS-Song Than,3, ,DC,DC, , ,,1, , ,,B, ,1,FALSE
+810,Kho Ve Tinh Binh Duong,6, ,CoopMart,CM,Vietnam,VN,,1, , ,,B, ,1,FALSE
+9102,Co.opFood Mien Bac,6,STORE,CoopFood,CF,Vietnam,VN,,1,Mien Bac,MB,,S,Mien Bac,1,FALSE
+9103,CH Co.opFood HN Bac Ha C14,6,STORE,CoopFood,CF,Vietnam,VN,,1,Mien Bac,MB,,S,Mien Bac,1,FALSE
+9104,CH Co.opFood HN Trieu Khuc,6,STORE,CoopFood,CF,Vietnam,VN,,1,Mien Bac,MB,,S,Mien Bac,1,FALSE
+9105,CH Co.opFood HN Bac Ha Tower,6,STORE,CoopFood,CF,Vietnam,VN,,1,Mien Bac,MB,,S,Mien Bac,1,FALSE
+9106,CH Co.opFood HN Khuong Trung,6,STORE,CoopFood,CF,Vietnam,VN,,1,Mien Bac,MB,4/10/2023 11:11,S,Mien Bac,1,TRUE
+9107,CH Co.opFood HN Phung Khoang,6,STORE,CoopFood,CF,Vietnam,VN,,1,Mien Bac,MB,,S,Mien Bac,1,FALSE
+9108,CH Co.opFood HN Van Khe,6,STORE,CoopFood,CF,Vietnam,VN,,1,Mien Bac,MB,,S,Mien Bac,1,FALSE
+9109,CH Co.opFood HN The Vesta,6,STORE,CoopFood,CF,Vietnam,VN,,1,Mien Bac,MB,,S,Mien Bac,1,FALSE
+9110,CH Co.opFood HN Green Stars,6,STORE,CoopFood,CF,Vietnam,VN,,1,Mien Bac,MB,,S,Mien Bac,1,TRUE
+9111,NKD-CH CFood HN Vinata Tower,6,STORE,CoopFood,CF,Vietnam,VN,1/17/2021 15:56,1,unknown,0,2/17/2020 0:00,S,unknown,1,TRUE
+9112,NKD-CH Co.opFood HN Gemek,6,STORE,CoopFood,CF,Vietnam,VN,,1,unknown,0,9/7/2020 0:00,S,unknown,1,TRUE
+9113,NKD-CH CFood HN Nguyen DucCanh,6,STORE,CoopFood,CF,Vietnam,VN,,1,Mien Bac,MB,,S,Mien Bac,1,TRUE
+9114,CH Co.opFood HN Anland,6,STORE,CoopFood,CF,Vietnam,VN,,1,Mien Bac,MB,,S,Mien Bac,1,FALSE
+9115,CH Co.opFood HN Ecohome,6,STORE,CoopFood,CF,Vietnam,VN,,1,Mien Bac,MB,,S,Mien Bac,1,TRUE
+9116,CH Co.opFood HN Nghia Do,6,STORE,CoopFood,CF,Vietnam,VN,,1,Mien Bac,MB,,S,Mien Bac,1,TRUE
+9117,NKD-CH CoopFood HN Vinaconex 3,6,STORE,CoopFood,CF,Vietnam,VN,,1,Mien Bac,MB,,S,Mien Bac,1,TRUE
+9118,NKD-CH Co.opFood HN OCT5,6,STORE,CoopFood,CF,Vietnam,VN,,1,Mien Bac,MB,,S,Mien Bac,1,TRUE
+9119,NKD-CH CFood HN FLC Pham Hung,6,STORE,CoopFood,CF,Vietnam,VN,,1,Mien Bac,MB,,S,Mien Bac,1,TRUE
+9120,CH Co.opFood HN VP2 Linh Dam,6,STORE,CoopFood,CF,Vietnam,VN,,1,Mien Bac,MB,,S,Mien Bac,1,FALSE
+9121,NKD-CH CFood HN Tu Hiep Plaza,6,STORE,CoopFood,CF,Vietnam,VN,,1,Mien Bac,MB,3/14/2022 0:00,S,Mien Bac,1,TRUE
+9122,NKD-CH CFood HN C2 Xuan Dinh,6,STORE,CoopFood,CF,Vietnam,VN,,1,Mien Bac,MB,,S,Mien Bac,1,TRUE
+9123,NKD-CH Co.opFood HN Valencia,6,STORE,CoopFood,CF,Vietnam,VN,1/17/2021 15:56,1,unknown,0,12/2/2019 0:00,S,unknown,1,TRUE
+9124,CH Co.opFood HN The K-Park,6,STORE,CoopFood,CF,Vietnam,VN,,1,Mien Bac,MB,,S,Mien Bac,1,FALSE
+9125,NKD-CH CF HN Thang LongVictory,6,STORE,CoopFood,CF,Vietnam,VN,,1,Mien Bac,MB,,S,Mien Bac,1,TRUE
+9126,CH Co.opFood HN Kim Van Kim Lu,6,STORE,CoopFood,CF,Vietnam,VN,,1,Mien Bac,MB,,S,Mien Bac,1,FALSE
+9127,NKD-CH CFood HN An Binh City,6,STORE,CoopFood,CF,Vietnam,VN,,1,unknown,0,9/7/2020 0:00,S,unknown,1,TRUE
+9128,NKD-CH Co.opFood HN Dai Thanh,6,STORE,CoopFood,CF,Vietnam,VN,,1,Mien Bac,MB,,S,Mien Bac,1,TRUE
+9129,NKD-CH CFood HN Hong KongTower,6,STORE,CoopFood,CF,Vietnam,VN,,1,Mien Bac,MB,,S,Mien Bac,1,TRUE
+9130,CH Co.opFood HN Athena Complex,6,STORE,CoopFood,CF,Vietnam,VN,,1,Mien Bac,MB,,S,Mien Bac,1,FALSE
+9131,CH CFood HN Thanh Ha CIENCO 5,6,STORE,CoopFood,CF,Vietnam,VN,,1,Mien Bac,MB,,S,Mien Bac,1,TRUE
+9132,NKD-CH Co.opFood HN Dinh Cong,6,STORE,CoopFood,CF,Vietnam,VN,1/17/2021 15:56,1,unknown,0,2/17/2020 0:00,S,unknown,1,TRUE
+9133,NKD-CH CFood HN Ngoai GiaoDoan,6,STORE,CoopFood,CF,Vietnam,VN,,1,Mien Bac,MB,,S,Mien Bac,1,TRUE
+9134,CH CFood HN Xuan Mai Duong Noi,6,STORE,CoopFood,CF,Vietnam,VN,,1,Mien Bac,MB,,S,Mien Bac,1,FALSE
+9135,NKD-CH Co.opFood HN Dich Vong,6,STORE,CoopFood,CF,Vietnam,VN,,1,Mien Bac,MB,,S,Mien Bac,1,TRUE
+9136,NKD-CH CFood HN 89 Phung Hung,6,STORE,CoopFood,CF,Vietnam,VN,,1,unknown,0,9/7/2020 0:00,S,unknown,1,TRUE
+9137,NKD-CH CFood HN South Building,6,STORE,CoopFood,CF,Vietnam,VN,,1,Mien Bac,MB,,S,Mien Bac,1,TRUE
+9138,CH Co.opFood HN Thai Ha CT4,6,STORE,CoopFood,CF,Vietnam,VN,,1,Mien Bac,MB,,S,Mien Bac,1,FALSE
+9139,CH Co.opFood HN Thai Ha HH,6,STORE,CoopFood,CF,Vietnam,VN,,1,Mien Bac,MB,,S,Mien Bac,1,FALSE
+9140,NKD-CH CFood HN Nguyen Van Cu,6,STORE,CoopFood,CF,Vietnam,VN,,1,Mien Bac,MB,3/14/2022 0:00,S,Mien Bac,1,TRUE
+9141,CH Co.opFood HN Mandarin,6,STORE,CoopFood,CF,Vietnam,VN,,1,Mien Bac,MB,,S,Mien Bac,1,FALSE
+9142,NKD-CH CFood HN Nguyen Khuyen,6,STORE,CoopFood,CF,Vietnam,VN,,1,Mien Bac,MB,,S,Mien Bac,1,TRUE
+9143,CH Co.opFood HN VP6 Linh Dam,6,STORE,CoopFood,CF,Vietnam,VN,,1,Mien Bac,MB,,S,Mien Bac,1,FALSE
+9144,CH Co.opFood HN Sakura,6,STORE,CoopFood,CF,Vietnam,VN,,1,Mien Bac,MB,,S,Mien Bac,1,FALSE
+9145,NKD-CH Co.opFood HN Vu Thanh,6,STORE,CoopFood,CF,Vietnam,VN,,1,Mien Bac,MB,3/14/2022 0:00,S,Mien Bac,1,TRUE
+9146,CH Co.opFood HN V7 The Vesta,6,STORE,CoopFood,CF,Vietnam,VN,,1,Mien Bac,MB,,S,Mien Bac,1,FALSE
+9147,NKD-CH Co.opFood HN Duong Buoi,6,STORE,CoopFood,CF,Vietnam,VN,,1,Mien Bac,MB,,S,Mien Bac,1,TRUE
+9148,CH Co.opFood HN Tecco Skyville,6,STORE,CoopFood,CF,Vietnam,VN,,1,Mien Bac,MB,,S,Mien Bac,1,FALSE
+9149,CH Co.opFood HN Hateco,6,STORE,CoopFood,CF,Vietnam,VN,,1,Mien Bac,MB,,S,Mien Bac,1,FALSE
+9150,CH Co.opFood HN Lucky House,6,STORE,CoopFood,CF,Vietnam,VN,,1,Mien Bac,MB,,S,Mien Bac,1,TRUE
+9151,CH Co.opFood HN Dai Dong,6,STORE,CoopFood,CF,Vietnam,VN,,1,Mien Bac,MB,,S,Mien Bac,1,FALSE
+9152,CH Co.opFood HN Ho Tung Mau,6,STORE,CoopFood,CF,Vietnam,VN,,1,Mien Bac,MB,,S,Mien Bac,1,FALSE
+9153,CH Co.opFood HN Nhan Chinh,6,STORE,CoopFood,CF,Vietnam,VN,,1,Mien Bac,MB,,S,Mien Bac,1,FALSE
+9154,CH CFood HN Ngoai Giao Doan 1,6,STORE,CoopFood,CF,Vietnam,VN,,1,Mien Bac,MB,,S,Mien Bac,1,FALSE
+9155,NKD-CH Co.opFood HN Thanh Ha 1,6,STORE,CoopFood,CF,Vietnam,VN,,1,Mien Bac,MB,3/14/2022 0:00,S,Mien Bac,1,TRUE
+9156,NKD-CH Co.opFood HN Thanh Ha 2,6,STORE,CoopFood,CF,Vietnam,VN,,1,Mien Bac,MB,,S,Mien Bac,1,TRUE
+9157,NKD-CH Co.opFood HN Thanh Ha 3,6,STORE,CoopFood,CF,Vietnam,VN,,1,Mien Bac,MB,3/14/2022 0:00,S,Mien Bac,1,TRUE
+9158,CH Co.opFood HN Vinh Hung,6,STORE,CoopFood,CF,Vietnam,VN,,1,Mien Bac,MB,,S,Mien Bac,1,FALSE
+9159,CH Co.opFood HN New Horizon,6,STORE,CoopFood,CF,Vietnam,VN,,1,Mien Bac,MB,,S,Mien Bac,1,TRUE
+9160,CH Co.opFood HN Roman Plaza,6,STORE,CoopFood,CF,Vietnam,VN,,1,Mien Bac,MB,,S,Mien Bac,1,FALSE
+9161,CH Co.opFood HN Eurowindow,6,STORE,CoopFood,CF,Vietnam,VN,,1,Mien Bac,MB,,S,Mien Bac,1,FALSE
+9162,NKD-CH Co.opFood HN Homeland,6,STORE,CoopFood,CF,Vietnam,VN,,1,Mien Bac,MB,,S,Mien Bac,1,TRUE
+9163,NKD-CHCF HYEcoparkCentralLake2,6,STORE,CoopFood,CF,Vietnam,VN,,1,Mien Bac,MB,,S,Mien Bac,1,TRUE
+9164,NKD-CH CF HY EcoparkGrandPark2,6,STORE,CoopFood,CF,Vietnam,VN,,1,Mien Bac,MB,3/14/2022 0:00,S,Mien Bac,1,TRUE
+9165,CH Co.opFood HN Eco Dream,6,STORE,CoopFood,CF,Vietnam,VN,,1,Mien Bac,MB,,S,Mien Bac,1,FALSE
+9202,NKD-Co.opFood Khu Vuc Dong Nai,6,STORE,CoopFood,CF,Vietnam,VN,,1,Dong Nam Bo,DNB,,S,Dong Nam Bo,1,TRUE
+9203,NKD-CH CFood Pham Van Thuan123,6,STORE,CoopFood,CF,Vietnam,VN,,1,Dong Nam Bo,DNB,3/14/2022 0:00,S,Dong Nam Bo,1,TRUE
+9204,NKD-CH CFood Nguyen Ai Quoc 17,6,STORE,CoopFood,CF,Vietnam,VN,,1,Dong Nam Bo,DNB,,S,Dong Nam Bo,1,TRUE
+9205,CH CFood BH Nguyen Van Tien,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Dong Nam Bo,1,FALSE
+9206,CH Co.opFood BH Ho Hoa,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Dong Nam Bo,1,FALSE
+9207,NKD-CH Co.opFood BH Ly Van Sam,6,STORE,CoopFood,CF,Vietnam,VN,,1,Dong Nam Bo,DNB,3/14/2022 0:00,S,Dong Nam Bo,1,TRUE
+9208,CH Co.opFood BH Tran Thi Hoa,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Dong Nam Bo,1,FALSE
+9209,NKD-CH CF BH Hoang Ba Bich 113,6,STORE,CoopFood,CF,Vietnam,VN,1/17/2021 15:56,1,unknown,0,2/10/2020 0:00,S,unknown,1,TRUE
+9210,CH CFood BH Huynh Van Nghe 17,6,STORE,CoopFood,CF,Vietnam,VN,2/10/2020 14:40,1,HO CHI MINH,HCMC,6/9/2020 9:29,S,Mien Dong,1,FALSE
+9211,NKD-CH CFood BH Dong Khoi 98,6,STORE,CoopFood,CF,Vietnam,VN,,1,Dong Nam Bo,DNB,,S,Dong Nam Bo,1,TRUE
+9212,NKD-CH Co.opFood BH Phuc Lam,6,STORE,CoopFood,CF,Vietnam,VN,,1,unknown,0,9/14/2020 0:00,S,unknown,1,TRUE
+9213,NKD-CH CF BH Hoang Ba Bich 373,6,STORE,CoopFood,CF,Vietnam,VN,1/17/2021 15:56,1,unknown,0,8/5/2019 0:00,S,unknown,1,TRUE
+9214,CH CFood BH Quyet Thang,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,"TP Bien Hoa,Dong Nai",1,FALSE
+9215,CH CFood BH Van Hoa Villas,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,"TP Bien Hoa,Dong Nai",1,FALSE
+9302,CH Co.opFood Thu Khoa Huan 437,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Dong Nam Bo,1,FALSE
+9303,CH Co.opFood Le Hong Phong,6,STORE,CoopFood,CF,Vietnam,VN,2/10/2020 14:40,1,HO CHI MINH,HCMC,6/9/2020 9:29,S,Mien Dong,1,FALSE
+9304,NKD-CH Co.opFood BD An Binh,6,STORE,CoopFood,CF,Vietnam,VN,,1,Dong Nam Bo,DNB,3/14/2022 0:00,S,Dong Nam Bo,1,TRUE
+9305,NKD-CH Co.opFood BD Phu Loi,6,STORE,CoopFood,CF,Vietnam,VN,1/17/2021 15:56,1,unknown,0,11/11/2019 0:00,S,unknown,1,TRUE
+9306,NKD-CH Co.opFood BD CMT8,6,STORE,CoopFood,CF,Vietnam,VN,,1,Dong Nam Bo,DNB,,S,Dong Nam Bo,1,TRUE
+9307,NKD-CH CF BD Nguyen Tri Phuong,6,STORE,CoopFood,CF,Vietnam,VN,,1,Dong Nam Bo,DNB,3/14/2022 0:00,S,Dong Nam Bo,1,TRUE
+9308,NKD-CH CFood BD Le Van Tach154,6,STORE,CoopFood,CF,Vietnam,VN,,1,Dong Nam Bo,DNB,,S,Dong Nam Bo,1,TRUE
+9309,CH Co.opFood BD Vinh Phu 41,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Dong Nam Bo,1,FALSE
+9310,NKD-CH CFood BD Be Van Dan 44,6,STORE,CoopFood,CF,Vietnam,VN,,1,Dong Nam Bo,DNB,3/14/2022 0:00,S,Dong Nam Bo,1,TRUE
+9311,CH Co.opFood BD Xuyen A 209,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Dong Nam Bo,1,FALSE
+9312,NKD-CH CFood BD Nguyen Trai 87,6,STORE,CoopFood,CF,Vietnam,VN,,1,Dong Nam Bo,DNB,3/14/2022 0:00,S,Dong Nam Bo,1,TRUE
+9313,CH CFood BD Tran Hung Dao 325,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Dong Nam Bo,1,FALSE
+9314,CH Co.opFood BD Ngo Thi Nham82,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Dong Nam Bo,1,FALSE
+9315,CH Co.opFood BD KDC Viet Sing,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Dong Nam Bo,1,FALSE
+9316,NKD-CH Co.opFood BD Nhi Dong,6,STORE,CoopFood,CF,Vietnam,VN,,1,unknown,0,9/14/2020 0:00,S,unknown,1,TRUE
+9317,NKD-CH CF BD Thu Khoa Huan 106,6,STORE,CoopFood,CF,Vietnam,VN,,1,Dong Nam Bo,DNB,3/14/2022 0:00,S,Dong Nam Bo,1,TRUE
+9318,CH Co.opFood BD Tan Lap 55,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Dong Nam Bo,1,FALSE
+9319,CH CFood BD KDC Hiep Thanh III,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Dong Nam Bo,1,FALSE
+9320,NKD-CH Co.opFood BD Nguyen Du,6,STORE,CoopFood,CF,Vietnam,VN,,1,Dong Nam Bo,DNB,3/14/2022 0:00,S,Dong Nam Bo,1,TRUE
+9321,NKD-CH CF BD NguyenThai Hoc139,6,STORE,CoopFood,CF,Vietnam,VN,,1,Dong Nam Bo,DNB,3/14/2022 0:00,S,Dong Nam Bo,1,TRUE
+9322,CH CF BD CC Samsora Riverside,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Dong Nam Bo,1,FALSE
+9323,NKD-CH CF BD KDC Viet Sing DA6,6,STORE,CoopFood,CF,Vietnam,VN,4/26/2021 12:31,1, , ,4/26/2021 12:31,S, ,1,TRUE
+9324,CH Co.opFood BD Binh Duong,6,STORE,CoopFood,CF,Vietnam,VN,5/15/2021 10:32,1,HO CHI MINH,HCMC,5/15/2021 10:32,S, ,1,FALSE
+9325,CF BD Bình Chuan,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Binh Duong,1,FALSE
+9326,CF BD CC Charm Sapphire,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,"TP Di An, Binh Duong",1,FALSE
+9327,CH CF BD Quang Phuc Plaza,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,"TP Di An, Binh Duong",1,FALSE
+9328,CH Co.opFood CC Opal Boulevard,6,STORE,CoopFood,CF, , ,3/19/2024 14:30,1,HO CHI MINH,HCMC,3/19/2024 14:30, , ,1,FALSE
+9329,CH CF BD CC Phuc Dat Connect 2,6,STORE,CoopFood,CF, , ,3/19/2024 14:30,1,HO CHI MINH,HCMC,3/19/2024 14:30, , ,1,FALSE
+9330,CH CF BD CC Bcons Garden,6,STORE,CoopFood,CF, , ,3/19/2024 14:30,1,HO CHI MINH,HCMC,3/19/2024 14:30, , ,1,FALSE
+9331,CH CF BD CC Bcons Green View,6,STORE,CoopFood,CF, , ,3/19/2024 14:30,1,HO CHI MINH,HCMC,3/19/2024 14:30, , ,1,FALSE
+9402,CH Co.opFood Khu Vuc Can Tho,6,STORE,CoopFood,CF,Vietnam,VN,2/10/2020 14:40,1,Mien Tay,MT,6/9/2020 9:29,S,Mien Tay,1,FALSE
+9403,NKD-CHCF CT Ng Thi Minh Khai07,6,STORE,CoopFood,CF,Vietnam,VN,,1,Mien Tay,MT,3/14/2022 0:00,S,Can Tho,1,TRUE
+9404,NKD-CH CFood CT Pham Hung 171,6,STORE,CoopFood,CF,Vietnam,VN,2/10/2020 14:40,1,Mien Tay,MT,6/9/2020 9:29,S,Mien Tay,1,TRUE
+9405,CH Co.opFood CT Tran Viet Chau,6,STORE,CoopFood,CF,Vietnam,VN,,1,Mien Tay,MT,,S,Can Tho,1,FALSE
+9406,CH CF CT Nguyen Van Cu Noi Dai,6,STORE,CoopFood,CF,Vietnam,VN,,1,Mien Tay,MT,,S,Can Tho,1,FALSE
+9407,NKD-CH Co.opFood CT Mau Than,6,STORE,CoopFood,CF,Vietnam,VN,1/17/2021 15:56,1,unknown,0,4/20/2020 0:00,S,unknown,1,TRUE
+9408,CH Co.opFood CT Tay Do,6,STORE,CoopFood,CF,Vietnam,VN,,1,Mien Tay,MT,,S,Can Tho,1,FALSE
+9409,CH Co.opFood CT Le Hong Phong,6,STORE,CoopFood,CF,Vietnam,VN,,1,Mien Tay,MT,,S,Can Tho,1,FALSE
+9410,NKD-CHCFood CT Tran Quang Dieu,6,STORE,CoopFood,CF,Vietnam,VN,,1,Mien Tay,MT,,S,Can Tho,1,TRUE
+9411,CH CFood CT Tran Hoang Na 151,6,STORE,CoopFood,CF,Vietnam,VN,,1,Mien Tay,MT,,S,Can Tho,1,TRUE
+9412,NKD-CH CFood CT CC Tay Nguyen,6,STORE,CoopFood,CF,Vietnam,VN,,1,Mien Tay,MT,,S,Can Tho,1,TRUE
+9413,CH CFood CT Nguyen Van Cu 227,6,STORE,CoopFood,CF,Vietnam,VN,,1,Mien Tay,MT,,S,Can Tho,1,FALSE
+9414,CH Co.opFood CT Tran Vinh Kiet,6,STORE,CoopFood,CF,Vietnam,VN,,1,Mien Tay,MT,,S,Can Tho,1,FALSE
+9415,NKD-CH CF CT Bui Quang TrinhG8,6,STORE,CoopFood,CF,Vietnam,VN,,1,Mien Tay,MT,3/14/2022 0:00,S,Can Tho,1,TRUE
+9416,CH Co.opFood CT Vo Truong Toan,6,STORE,CoopFood,CF,Vietnam,VN,,1,Mien Tay,MT,,S,Can Tho,1,TRUE
+9417,NKD-CH Co.opFood CT CMT8 133,6,STORE,CoopFood,CF,Vietnam,VN,,1,Mien Tay,MT,3/14/2022 0:00,S,Can Tho,1,TRUE
+9418,CH Co.opFood CT Tran Nam Phu,6,STORE,CoopFood,CF,Vietnam,VN,,1,Mien Tay,MT,,S,Can Tho,1,TRUE
+9419,CH Co.opFood CT Tran Phu 71,6,STORE,CoopFood,CF,Vietnam,VN,,1,Mien Tay,MT,,S,Can Tho,1,FALSE
+9420,CH CFood CT Tran Hung Dao 474,6,STORE,CoopFood,CF,Vietnam,VN,,1,Mien Tay,MT,,S,Can Tho,1,TRUE
+9421,CH Co.opFood CT Thoi Thuan,6,STORE,CoopFood,CF,Vietnam,VN,4/26/2021 12:31,1,Mien Tay,MT,4/26/2021 12:31,S, ,1,FALSE
+9422,CH Co.opFood CT KDC 91B,6,STORE,CoopFood,CF, , ,3/19/2024 14:30,1,Mien Tay,MT,3/19/2024 14:30, , ,1,FALSE
+9502,CH Co.opFood LA Tan Kim,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Can Tho,1,FALSE
+9503,CH Co.opFood Long Hau,6,STORE,CoopFood,CF,Vietnam,VN,,1,HO CHI MINH,HCMC,,S,Can Tho,1,FALSE
+9504,NKD-CH CFood LA Lanh Binh Thai,6,STORE,CoopFood,CF,Vietnam,VN,1/7/2021 8:42,1, , ,1/7/2021 8:42,S, ,1,TRUE
+99902,Sai Gon Coop-Khong P.Phoi tap trung,1, ,Vendor,VENDOR,Vietnam,VN,2/18/2020 16:00,1, , ,2/18/2020 16:00, , ,1,FALSE
+99903,KHO TTPP THUC PHAM TUOI SONG,1, , , ,Vendor, ,2/28/2024 14:32,1, , ,2/28/2024 14:32, , ,1,FALSE
+ALL,All Stores,6,ALL-STORE,All Stores,ALL,Viet Nam,VN,2/10/2020 0:00,5,3 Mien,3M,2/10/2020 0:00,All,Tat ca khu vuc,0,FALSE
+ALL-CF,All CoopFood Stores,6,ALL-STORE,All CoopFood Stores,ALL-CF,Viet Nam,VN,2/10/2020 0:00,5,3 Mien,3M,2/10/2020 0:00,All,Tat ca khu vuc,0,FALSE
+ALL-CM,All CoopMart Stores,6,ALL-STORE,All CoopMart Stores,ALL-CM,Viet Nam,VN,2/10/2020 0:00,5,3 Mien,3M,2/10/2020 0:00,All,Tat ca khu vuc,0,FALSE
+ALL-CX,All CoopXtra Stores,6,ALL-STORE,All CoopXtra Stores,ALL-CX,Viet Nam,VN,2/10/2020 0:00,5,3 Mien,3M,2/10/2020 0:00,All,Tat ca khu vuc,0,FALSE
+ALL-FL,All FineLine Stores,6,ALL-STORE,All FineLine Stores,ALL-FL,Viet Nam,VN,2/10/2020 0:00,5,3 Mien,3M,2/10/2020 0:00,All,Tat ca khu vuc,0,FALSE
+ALL-SCA,All SCA Stores,6,ALL-STORE,All SCA Stores,ALL-SCA,Viet Nam,VN,2/10/2020 0:00,5,3 Mien,3M,2/10/2020 0:00,All,Tat ca khu vuc,0,FALSE

@@ -1,0 +1,442 @@
+*Item,Descr,UDC_SEQ_ITEM,UDC_ARTT2,UnitPrice,UDC_ARTT1,UDC_CF_G1,UDC_CF_G2,UDC_CF_G3,UDC_CF_G4,UDC_CF_G5
+3499508,Banh trong vi khoai mon 75g,192,CBNC,"6,182.000",,,,,,
+3499509,Banh trong vi gac 75g,193,CBNC,"6,182.000",,,,,,
+3499510,Banh trong vi ngo 75g,194,CBNC,"6,182.000",,,,,,
+3499511,Banh trong vi la dua 75g,195,CBNC,"6,182.000",,,,,,
+3515409,Xuc xich ca hai san 500g-TA,398,CBNC,"45,000.000",,,,,,
+3515410,Xuc xich ca pho mai 500g-TA,399,CBNC,"53,900.000",,,,,,
+3529168,Hat macca say nut kg,420,CBNC,"217,800.000",,,,,,
+3552253,Xuc xich 300g-TNP,242,CBNC,"48,000.000",,,,,,
+3552255,Bo vien gan 300g-TNP,244,CBNC,"87,500.000",,,,,,
+3557670,Kho muc rim nuoc dua 150g-DD,302,CBNC,"73,500.000",,,,,,
+3563151,Vit tam muoi vi thai 500g-CP,414,CBNC,"54,630.000",,,,,,
+3563152,Vit tam chao 500g-CP,415,CBNC,"54,630.000",1,,,,,
+3563153,Vit tam chien me 500g-CP,416,CBNC,"55,556.000",1,,,,,
+3563154,Vit kho gung 500g-CP,,CBNC,"55,556.000",,,,,,
+3569618,Tau hu tuoi CO HAI 180g-ATV,413,CBNC,"12,000.000",,,,,,
+3570195,Banh hoi 1kg-BK,42,CBNC,"25,500.000",,,,,,
+3571173,Com chay chabong k.cay 100g-CP,116,CBNC,"23,000.000",,,,,,
+3571174,Com chay chabong cayvua100g-CP,117,CBNC,"23,000.000",,,,,,
+3571847,Banh lava 2 vi 71g,94,CBNC,"20,000.000",,,,,,
+3571898,Tuong cham goi cuon 180g-NT,152,CBNC,"13,000.000",,,,,,
+3573562,Thach an thuc duong 480g-CB,309,CBNC,"26,000.000",,,,,,
+3573563,Thach an thuc duong 230g-CB,310,CBNC,"16,000.000",,,,,,
+3573564,Thach tien thao loc 4x128g-CB,311,CBNC,"27,200.000",,,,,,
+3575160,Tac trai say mat ong 100g-PGP,95,CBNC,"32,500.000",,,,,,
+3575161,Thanh long say dua non 80g-PGP,96,CBNC,"22,000.000",,,,,,
+3575162,Xoai say muoi ot 100g-PGP,97,CBNC,"30,500.000",,,,,,
+3575163,Thom say muoi ot 80g-PGP,98,CBNC,"30,500.000",,,,,,
+3575164,Gung non say deo 100g-PGP,99,CBNC,"30,500.000",,,,,,
+3575166,Mi vang dau 100g-PGP,101,CBNC,"32,500.000",,,,,,
+3576371,Mam ruoc thitbam chay 200g-VPA,110,CBNC,"21,450.000",,,,,,
+3576372,Mam kho quet chay 200g-VPA,111,CBNC,"16,250.000",,,,,,
+3576373,Tuong kho quet chay 200g_VPA,112,CBNC,"17,550.000",,,,,,
+3576374,Suon nuong chay 500g-VPA,113,CBNC,"55,000.000",,,,,,
+3576375,Suon bi cha chay 200g-VPA,114,CBNC,"26,000.000",,,,,,
+3576376,Lau thai chay 500g-VPA,115,CBNC,"38,350.000",,,,,,
+3576803,Soi mi quang nghe 500g-BaKhanh,43,CBNC,"9,900.000",,,,,,
+3576804,Banh lava tra sua thai 143g,102,CBNC,"33,000.000",,,,,,
+3577456,Kho bo chay An Nhien 200g-PGP,103,CBNC,"44,500.000",,,,,,
+3577457,Banh phomai An Nhien 50g-PGP,104,CBNC,"11,000.000",,,,,,
+3577458,Banh tra xanh An Nhien 50g-PGP,105,CBNC,"11,000.000",,,,,,
+3577459,Banh Tiramisu An Nhien 50g-PGP,106,CBNC,"11,000.000",,,,,,
+3577460,Banh nhan kem vi schua 66g-PGP,107,CBNC,"16,000.000",,,,,,
+3577461,Banh nhan kem vi p.mai 66g-PGP,108,CBNC,"16,000.000",,,,,,
+3577462,Banh in duanon AnNhien 65g-PGP,109,CBNC,"15,500.000",,,,,,
+3577876,Com chay mam hanh 100g-NTN,,CBNC,"15,295.000",,,,,,
+3577966,Mia tuoi 400g-VINHPHUCAN,,CBNC,"17,000.000",,,,,,
+3578752,Cot let chay an lien 225g-BA,438,CBNC,"40,000.000",1,,,,,
+3578753,Dau nanh canh sen vang 225g-BA,439,CBNC,"17,000.000",1,,,,,
+3578754,Thit nac kho tieu chay 225g-BA,440,CBNC,"27,000.000",1,,,,,
+3578775,Da ca vi trung muoi 40g-HPK,421,CBNC,"19,500.000",1,,,,,
+3578776,Da ca vi rong bien 30g-HPK,422,CBNC,"15,800.000",1,,,,,
+3001460,Banh gai lon,204,CBNC,"4,400.000",,G1,G2,G3,G4,G5_NQ
+3001463,Banh chung HO NAI 1kg-DT,215,CBNC,"62,000.000",,,,,,G5_NQ
+3001465,Banh chung HO NAI 1.5kg-DT,216,CBNC,"90,000.000",,,,,,G5_NQ
+3001467,Banh chung HO NAI 500g-DT,217,CBNC,"31,000.000",,,,,,G5_NQ
+3001608,Kim chi kieu Han Quoc kg,45,CBNC,"73,000.000",,,,G3,G4,G5_NQ
+3001614,Dua mon kg,44,CBNC,"144,000.000",,,,,,G5_NQ
+3054545,Banh it 80g-QH,220,CBNC,"5,000.000",,,,,,G5_NQ
+3063444,Banh phuc linh MyVan hop370g,180,CBNC,"32,000.000",,,,,,G5_NQ
+3063446,Banh phuc linh MyVan hop170g,179,CBNC,"16,000.000",,,,,,G5_NQ
+3063583,Thit dui heo quay kg,155,CBNC,"254,000.000",,,,,,G5_NQ
+3063584,Ba roi quay kg,156,CBNC,"260,000.000",,,,,,G5_NQ
+3065918,Cot let chay kg-PGP,71,CBNC,"244,200.000",,,,G3,G4,G5_NQ
+3065920,Suon non chay kg,46,CBNC,"244,200.000",,,G2,G3,G4,G5_NQ
+3077470,Banh bia ThienLuong so7-400g,370,CBNC,"56,000.000",,,,,,G5_NQ
+3088786,Xa xiu quay kg,157,CBNC,"254,000.000",,,,,,G5_NQ
+3104955,Banh pia  MYNGOC c.c C2 500g,357,CBNC,"69,500.000",,G1,G2,G3,G4,G5_NQ
+3109095,B.pia T.Luong t.hang so9-500g,371,CBNC,"72,000.000",,,,,,G5_NQ
+3111086,Rau cau trai dua 500g-TKD,158,CBNC,"21,000.000",,,,G3,G4,G5_NQ
+3111087,Rau cau dua ly 150g-TKD,159,CBNC,"6,000.000",,,,G3,G4,G5_NQ
+3118370,Banh chung 600g RCK - TranGia,207,CBNC,"36,500.000",,G1,G2,G3,G4,G5_NQ
+3119303,Banh chung 1kg RCK - TranGia,206,CBNC,"60,500.000",,,,,,G5_NQ
+3134889,Banh tet TranGia RCK 600g,208,CBNC,"43,000.000",,,,,,G5_NQ
+3137744,Ca com say gion D.Diep kg,290,CBNC,"298,410.000",,,,,,G5_NQ
+3137746,Ca com kho cay D.Diep kg,281,CBNC,"261,870.000",,,,,,G5_NQ
+3139409,Banh chung 1kg RCK - QH,223,CBNC,"60,000.000",,,,,,G5_NQ
+3139410,Banh chung 1.5kg RCK - QH,224,CBNC,"72,000.000",,,,,,G5_NQ
+3141834,Ca com say gion D.Diep hu 200g,288,CBNC,"58,269.000",,,,,,G5_NQ
+3141835,Ca com say gion 100g-DD,289,CBNC,"34,104.000",,,,,,G5_NQ
+3141838,Ca com kho cay D.Diep hu 200g,279,CBNC,"61,509.000",,,,,,G5_NQ
+3141839,Ca com kho cay 100g-DD,280,CBNC,"31,668.000",,,,,,G5_NQ
+3141840,Ca chi vang sot vi 100g-DD,278,CBNC,"29,925.000",,,,,,G5_NQ
+3141841,Ca hong tam cay 100g-DD,286,CBNC,"36,400.000",,,,,,G5_NQ
+3142368,Banh gio,219,CBNC,"8,300.000",,,,,,G5_NQ
+3176166,Rau cau T.M.LAN hop 700g,162,CBNC,"23,500.000",,,G2,G3,G4,G5_NQ
+3176167,Rau cau dua T.M.LAN 160g,160,CBNC,"6,000.000",,,G2,G3,G4,G5_NQ
+3176168,Rau cau cafe T.M.LAN 160g,163,CBNC,"6,000.000",,,G2,G3,G4,G5_NQ
+3176169,Rau cau n.dua T.M.LAN 160g,161,CBNC,"7,000.000",,,G2,G3,G4,G5_NQ
+3195119,Banh gai loc 5cai,205,CBNC,"22,000.000",,,,,,G5_NQ
+3212294,Ghe say chua ngot DD kg,284,CBNC,"215,250.000",,,,,,G5_NQ
+3213806,Banh chung 500g RCK-QH,222,CBNC,"30,000.000",,,,,,G5_NQ
+3218520,Banh com dxanh BM 75g,186,CBNC,"6,182.000",,G1,G2,G3,G4,G5_NQ
+3225133,Banh com BM hg 85g,183,CBNC,"6,545.000",,,,,,G5_NQ
+3238846,Ca com say ngu coc kg,283,CBNC,"255,780.000",,,,,,G5_NQ
+3238849,Ghe say chua ngot DDiep hu200g,285,CBNC,"50,400.000",,,,,,G5_NQ
+3238851,Ghe say ngu coc D.Diep hu 150g,287,CBNC,"40,950.000",,,,,,G5_NQ
+3238854,Ca com say ngucoc DDiep hu150g,282,CBNC,"45,066.000",,,,,,G5_NQ
+3256115,Rau cau hinh hoa(16cai/h 600g),164,CBNC,"27,500.000",,,G2,G3,G4,G5_NQ
+3274919,Cha bong heo kg-TNP,234,CBNC,"471,400.000",,,,G3,G4,G5_NQ
+3301037,Banh com BM hop 6x65g,184,CBNC,"25,455.000",,G1,G2,G3,G4,G5_NQ
+3301038,Banh com BM hop 65g,185,CBNC,"5,093.000",,,,G3,G4,G5_NQ
+3301465,Banh chung chay 1 kg-TranGia,210,CBNC,"60,500.000",,,,,,G5_NQ
+3301557,Banh chung chay 600g-TranGia,209,CBNC,"36,500.000",,,,G3,G4,G5_NQ
+3318531,Bun bo kg-KTRANG,21,CBNC,"12,800.000",,,,,,G5_NQ
+3318532,Bun tuoi kg-KTRANG,20,CBNC,"12,800.000",,,,,,G5_NQ
+3322308,Banh dau xanh 7cai/hop-HSEN,181,CBNC,"22,000.000",,G1,G2,G3,G4,G5_NQ
+3322309,Banh dau xanh 14cai/hop-HSEN,182,CBNC,"23,100.000",,G1,G2,G3,G4,G5_NQ
+3324516,Banh canh gao kg-KTRANG,26,CBNC,"14,300.000",,,,,,G5_NQ
+3324517,Banh canh kg-KTRANG,22,CBNC,"14,300.000",,,,,,G5_NQ
+3347199,Banh tet hot vitmuoi 500g-TNP,229,CBNC,"59,000.000",,,,,,G5_NQ
+3347201,Banh tet thap cam 500g-TNP,230,CBNC,"62,000.000",,,,,,G5_NQ
+3348831,Banh tet nuoccot dua 500g-TNP,227,CBNC,"45,500.000",,,,,,G5_NQ
+3348832,Banh tet chuoi 500g-TNP,228,CBNC,"42,500.000",,,,,,G5_NQ
+3350668,Thit heo saygion ChaCha kg-TNP,233,CBNC,"531,000.000",,,,,,G5_NQ
+3353439,Banh Pia chay T.LUONG 400g,372,CBNC,"46,000.000",,,,,,G5_NQ
+3355161,Trung ga ta tiem(2T/goi)-VTD,267,CBNC,"8,000.000",,G1,G2,G3,G4,G5_NQ
+3355162,Trung vit kho(2T/goi)-VTD,268,CBNC,"5,530.000",,,G2,G3,G4,G5_NQ
+3355163,Trung ga tiem(2T/goi)-VTD,269,CBNC,"5,460.000",,G1,G2,G3,G4,G5_NQ
+3355164,Trung cut pha lau (6T/goi)-VTD,270,CBNC,"7,800.000",,G1,G2,G3,G4,G5_NQ
+3366458,Ca chi vang sot vi 200g-DD,291,CBNC,"48,825.000",,,,,,G5_NQ
+3366463,Ca mai sotch.ngot DDiep hu200g,293,CBNC,"46,000.000",,,,,,G5_NQ
+3366466,Ca chi vang sot vi kg,292,CBNC,"215,250.000",,,,,,G5_NQ
+3366468,Ca mai sot chua kg,294,CBNC,"206,000.000",,,,,,G5_NQ
+3368994,Rau cau dua H.LOAN hu 160g,315,CBNC,"8,300.000",,,,,,G5_NQ
+3369504,Bun tuoi kg-BAKHANH,34,CBNC,"13,000.000",,,,G3,G4,G5_NQ
+3369505,Bun bo kg-BAKHANH,35,CBNC,"13,600.000",,,,,,G5_NQ
+3369506,Banh canh kg-BAKHANH,36,CBNC,"14,300.000",,,,,,G5_NQ
+3369507,Banh pho kg-BAKHANH,37,CBNC,"14,300.000",,,,,,G5_NQ
+3370365,Tau hu ky (cay) 200g-D&D,261,CBNC,"32,000.000",,,G2,G3,G4,G5_NQ
+3370366,Tau hu ky (la)200g-D&D,259,CBNC,"42,460.000",,,G2,G3,G4,G5_NQ
+3370367,Tau hu ky non 200g-D&D,266,CBNC,"20,350.000",,,,G3,G4,G5_NQ
+3371474,Bun tuoi 500g-BAKHANH,28,CBNC,"7,300.000",,G1,G2,G3,G4,G5_NQ
+3371475,Bun bo 500g-BAKHANH,31,CBNC,"8,200.000",,G1,G2,G3,G4,G5_NQ
+3371476,Banh canh 500g-BAKHANH,32,CBNC,"8,200.000",,G1,G2,G3,G4,G5_NQ
+3371477,Banh pho 500g-BAKHANH,33,CBNC,"8,200.000",,G1,G2,G3,G4,G5_NQ
+3371966,Heo lat chay kg,47,CBNC,"192,600.000",,,G2,G3,G4,G5_NQ
+3371967,Bo lat chay kg,48,CBNC,"244,200.000",,,,,,G5_NQ
+3371968,Ga lat chay kg,49,CBNC,"214,000.000",,,,,,G5_NQ
+3371969,Bong ca chay kg,50,CBNC,"214,000.000",,,,,,G5_NQ
+3372140,B.pia t.hang 1trung T2 MN460g,358,CBNC,"80,500.000",,G1,G2,G3,G4,G5_NQ
+3372141,B.pia c.c C2 MY NGOC 460g,359,CBNC,"69,300.000",,G1,G2,G3,G4,G5_NQ
+3372461,Banh piaMYNGOC 1trungD1-400g,360,CBNC,"61,500.000",,,G2,G3,G4,G5_NQ
+3377144,Hanh phi 100g,121,CBNC,"21,000.000",,G1,G2,G3,G4,G5_NQ
+3377145,Hanh phi kg,122,CBNC,"171,000.000",,,,,,G5_NQ
+3377146,Toi phi 100g,123,CBNC,"19,000.000",,,,G3,G4,G5_NQ
+3377147,Toi phi kg,124,CBNC,"145,000.000",,,,,,G5_NQ
+3377148,Cha ca thu hap 300g-NT,148,CBNC,"53,000.000",,,,G3,G4,G5_NQ
+3377150,Cha ca thu chien 300g-NT,149,CBNC,"53,000.000",,,,G3,G4,G5_NQ
+3377953,B.pia mini mon saurieng130g-NT,142,CBNC,"22,000.000",,,G2,G3,G4,G5_NQ
+3379197,Cha bong ga kg,231,CBNC,"415,800.000",,,,,,G5_NQ
+3379920,Trung vit muoi an lien-V.food,271,CBNC,"5,500.000",,G1,G2,G3,G4,G5_NQ
+3380388,Dphong rang toi ot 100g,125,CBNC,"17,000.000",,,,,,G5_NQ
+3380390,Dphong rang toi ot kg,126,CBNC,"165,000.000",,,,,,G5_NQ
+3386246,Rau cau dua ly 140g-TNT,178,CBNC,"6,800.000",,,G2,G3,G4,G5_NQ
+3386250,Che buoi 140g-TNT,175,CBNC,"6,300.000",,,G2,G3,G4,G5_NQ
+3390212,Cha chay 200g-D&D,260,CBNC,"30,700.000",,,G2,G3,G4,G5_NQ
+3393554,Banh uot kg-KIEUTRANG,23,CBNC,"13,900.000",,,,,,G5_NQ
+3393555,Banh hoi kg-KIEU TRANG,24,CBNC,"20,000.000",,,,,,G5_NQ
+3393556,Banh pho kg-KIEUTRANG,25,CBNC,"13,900.000",,,,,,G5_NQ
+3397141,Bi heo thai soi 170g-D&D,264,CBNC,"34,500.000",,,,,,G5_NQ
+3397142,Bi heo thai soi 300g-D&D,265,CBNC,"44,000.000",,,,,,G5_NQ
+3398962,B.pia BAOMINH 300g,201,CBNC,"41,818.000",,,G2,G3,G4,G5_NQ
+3398963,B.pia chay BAOMINH 300g,202,CBNC,"35,455.000",,,G2,G3,G4,G5_NQ
+3402212,Che bap 140g-TNT,176,CBNC,"6,800.000",,,G2,G3,G4,G5_NQ
+3404638,Banh gai Ho Nai,218,CBNC,"4,500.000",,,,,,G5_NQ
+3405496,Thach den 480g-Cao Bang,304,CBNC,"27,800.000",,G1,G2,G3,G4,G5_NQ
+3407903,Banh mi que nhan Pate-BMQ,153,CBNC,"6,500.000",,,,,,G5_NQ
+3408468,B.pia T.LUONG t.cam400g,373,CBNC,"62,000.000",,,,,,G5_NQ
+3409280,Dua cai chua kg-TNP,235,CBNC,"64,000.000",,G1,G2,G3,G4,G5_NQ
+3409281,Dua chua thap cam kg-TNP,236,CBNC,"62,000.000",,,,,,G5_NQ
+3410199,Bun tuoi 100g-BA KHANH,30,CBNC,"2,500.000",,,,,,G5_NQ
+3410200,Bun tuoi 300g-BA KHANH,29,CBNC,"5,500.000",,,,G3,G4,G5_NQ
+3411926,Che khoai mon 140g-TNT,177,CBNC,"6,300.000",,,G2,G3,G4,G5_NQ
+3412572,Ca com hoa chuoi kho chay kg,51,CBNC,"197,000.000",,,,G3,G4,G5_NQ
+3413318,Mam thai chay kg-PGP,53,CBNC,"117,000.000",,,,,,G5_NQ
+3413319,Dua mam chay kg-PGP,55,CBNC,"99,000.000",,,,,,G5_NQ
+3413866,Ga say la chanh TNP kg,232,CBNC,"325,040.000",,,,,,G5_NQ
+3414826,Thach den 230g-CaoBang,305,CBNC,"46,000.000",,G1,G2,G3,G4,G5_NQ
+3414827,Banh trang tron 50g,120,CBNC,"12,000.000",,G1,G2,G3,G4,G5_NQ
+3415114,Banh chuoi hap 200g-LHP,380,CBNC,"10,200.000",,,,,,G5_NQ
+3415117,Xoi vi 100g-LHP,381,CBNC,"8,500.000",,,,,,G5_NQ
+3415120,Banh quy 100g-LHP,382,CBNC,"8,500.000",,,,,,G5_NQ
+3415122,Banh tet dau xanh 400g-LHP,387,CBNC,"21,000.000",,,,,,G5_NQ
+3415124,Banh tet chuoi 400g-LHP,388,CBNC,"21,000.000",,,,,,G5_NQ
+3416353,Kho quet chay kg-PGP,52,CBNC,"170,000.000",,,,,,G5_NQ
+3416899,Banh com d.xanh s.rieng BM 75g,187,CBNC,"6,545.000",,G1,G2,G3,G4,G5_NQ
+3418307,Bun tuoi 500g-KTRANG,12,CBNC,"7,100.000",,,,,,G5_NQ
+3418309,Bun bo 500g-KTRANG,13,CBNC,"7,100.000",,,,,,G5_NQ
+3418310,Banh canh 500g-KTRANG,14,CBNC,"8,000.000",,,,,,G5_NQ
+3418312,Banh uot 500g-KTRANG,15,CBNC,"7,900.000",,,,,,G5_NQ
+3418313,Banh hoi 500g-KTRANG,16,CBNC,"10,500.000",,,,,,G5_NQ
+3418315,Banh pho 500g-KTRANG,17,CBNC,"7,900.000",,,,,,G5_NQ
+3419460,Rau cau 3 mau ly 120g-HTH,174,CBNC,"8,500.000",,,,,,G5_NQ
+3419725,Pate heo kg-BMQ,154,CBNC,"140,000.000",,,,G3,G4,G5_NQ
+3419728,Xoi cuon ga xe 500g-TG,211,CBNC,"52,500.000",,,,,,G5_NQ
+3421977,Tom kho kg,118,CBNC,"570,000.000",,,,,,G5_NQ
+3422273,Tuong hot xao sa ot 110g,127,CBNC,"9,000.000",,,,G3,G4,G5_NQ
+3425642,Banh chung 300g RCK-QH,221,CBNC,"19,000.000",,,,,,G5_NQ
+3425643,Com ruou HONG LOAN hu 140g,312,CBNC,"9,000.000",,,,,,G5_NQ
+3425644,Com ruou H.LOAN nepthan hu140g,313,CBNC,"9,500.000",,,,,,G5_NQ
+3425645,Che dxanh HONG LOAN hu 160g,314,CBNC,"8,300.000",,,,,,G5_NQ
+3426463,Kim chi rong sun bien kg,54,CBNC,"136,400.000",,,,,,G5_NQ
+3426465,Banh canh gao 500g-KTRANG,18,CBNC,"8,200.000",,,,,,G5_NQ
+3426466,Mi quang 500g-KTRANG,19,CBNC,"7,800.000",,,,,,G5_NQ
+3426468,Mi quang kg-KTRANG,27,CBNC,"13,900.000",,,,,,G5_NQ
+3430907,Nem chay VIET SANG 100g,327,CBNC,"16,500.000",,,,,,G5_NQ
+3431058,Ga say chua cay TNP kg,237,CBNC,"410,900.000",,,,,,G5_NQ
+3433708,Chuoi say mat ong 110g-NT,128,CBNC,"15,000.000",,,,G3,G4,G5_NQ
+3435319,Sua chua phomai HTH 100ml,165,CBNC,"9,500.000",,,G2,G3,G4,G5_NQ
+3435320,Sua chua nep cam HTH 100ml,166,CBNC,"9,500.000",,,G2,G3,G4,G5_NQ
+3441593,Mu trom nha dam chai 330ml-MK,316,CBNC,"8,800.000",,G1,G2,G3,G4,G5_NQ
+3441594,Sua gao lut chai 280ml-MK,317,CBNC,"10,800.000",,,G2,G3,G4,G5_NQ
+3441595,Tra sua tranchau ciao 270ml-MK,318,CBNC,"13,500.000",,G1,G2,G3,G4,G5_NQ
+3441596,Matcha trasua trchau ciao270ml,319,CBNC,"10,500.000",,,G2,G3,G4,G5_NQ
+3444591,B.pia yen mach MY NGOC 420g,361,CBNC,"78,300.000",,G1,G2,G3,G4,G5_NQ
+3445655,Tau hu ky sen hong 300g-D&D,262,CBNC,"62,000.000",,,,G3,G4,G5_NQ
+3445656,Tau hu ky cuon r.bien250g-D&D,263,CBNC,"58,000.000",,,G2,G3,G4,G5_NQ
+3445658,Sua chua hat chia 100ml-HTH,168,CBNC,"8,250.000",,,,,,G5_NQ
+3445825,Sua chua tra xanh 100ml-HTH,169,CBNC,"8,250.000",,,,,,G5_NQ
+3446984,Hu tieu tuoi SAU THANH 250g,1,CBNC,"8,500.000",,G1,G2,G3,G4,G5_NQ
+3448140,Bun tuoi 500g-SAUTHANH,2,CBNC,"7,300.000",,,,G3,G4,G5_NQ
+3448291,Bun tuoi soi trung500g-BAKHANH,38,CBNC,"7,300.000",,G1,G2,G3,G4,G5_NQ
+3448292,Banh uot gao 500g-BAKHANH,39,CBNC,"9,500.000",,G1,G2,G3,G4,G5_NQ
+3449069,Sua bap nep chai 330ml-MKX,320,CBNC,"11,500.000",,G1,G2,G3,G4,G5_NQ
+3449070,Sua hat sen chai 280ml-MKX,321,CBNC,"10,800.000",,G1,G2,G3,G4,G5_NQ
+3453554,Lap xuong tuoi TNP kg,241,CBNC,"194,000.000",,,,,,G5_NQ
+3454386,Rong bien say toi ot 40g-NT,129,CBNC,"22,000.000",,,,,,G5_NQ
+3455045,Sua chua yen 100ml-HTH,170,CBNC,"13,200.000",,,G2,G3,G4,G5_NQ
+3456048,Banh tam bi 500g-SAUTHANH,5,CBNC,"8,800.000",,,,G3,G4,G5_NQ
+3456049,Ga say r.bien vi toi ot kg-TNP,238,CBNC,"419,000.000",,,,,,G5_NQ
+3457604,Banh d.do H.KIM T.Luong hg150g,374,CBNC,"33,000.000",,,,,,G5_NQ
+3457682,Hu tieu tuoi kg-STHANH,6,CBNC,"25,000.000",,,,,,G5_NQ
+3458651,Ot say kho 50g-NT,130,CBNC,"10,000.000",,,,,,G5_NQ
+3458652,Nghe bot 50g-NT,131,CBNC,"11,000.000",,,,,,G5_NQ
+3458655,Hat dieu kho 50g-NT,132,CBNC,"10,000.000",,,,,,G5_NQ
+3460395,SANDOCHI nhans.chua20g(tui10c),188,CBNC,"40,000.000",,G1,G2,G3,G4,G5_NQ
+3460396,SANDOCH nhan phomai20g(tui10c),189,CBNC,"40,000.000",,G1,G2,G3,G4,G5_NQ
+3464310,Che bo luong 250g-LHP,391,CBNC,"13,500.000",,,,,,G5_NQ
+3464311,Banh da lon 100g-LHP,383,CBNC,"7,600.000",,,,,,G5_NQ
+3464312,Banh bo 200g-LHP,384,CBNC,"10,200.000",,,,,,G5_NQ
+3464313,Banh khoai mi nuong 100g-LHP,385,CBNC,"8,500.000",,,,,,G5_NQ
+3464314,Banh quy nhan dua 100g-LHP,389,CBNC,"12,000.000",,,,,,G5_NQ
+3464315,Banh dau xanh nuong 100g-LHP,386,CBNC,"8,500.000",,,,,,G5_NQ
+3473360,Rau mop chua kg TNP,249,CBNC,"79,000.000",,,,,,G5_NQ
+3473364,Cu cai muoi 200g-NT,133,CBNC,"22,000.000",,G1,G2,G3,G4,G5_NQ
+3474088,Banh pia Kim Sa dau-mon TL480g,375,CBNC,"84,000.000",,,,,,G5_NQ
+3478343,B.trang nuong tom sieu cay 80g,56,CBNC,"15,150.000",,,,,,G5_NQ
+3478344,B.trang nuong dua sua 60g,57,CBNC,"15,150.000",,,,,,G5_NQ
+3478345,B.trang nuong tom cay 80g,58,CBNC,"15,150.000",,,,,,G5_NQ
+3478346,B.trang me nuong 120g,59,CBNC,"15,150.000",,,,,,G5_NQ
+3478347,Song khoai ngu vi 40g,60,CBNC,"16,400.000",,,,,,G5_NQ
+3481115,Cha muc hap 200g-NT,150,CBNC,"53,000.000",,,,G3,G4,G5_NQ
+3486348,Lap xuong trung muoi TNP kg,239,CBNC,"250,000.000",,,,,,G5_NQ
+3492931,Sua gao lut OHSAWA 568ml,322,CBNC,"18,500.000",,,,G3,G4,G5_NQ
+3493375,Sua hat sen Dang Khoi 330ml,328,CBNC,"13,800.000",,,G2,G3,G4,G5_NQ
+3493376,Sua bap Dang Khoi 330ml,329,CBNC,"12,500.000",,,G2,G3,G4,G5_NQ
+3493938,Bun tuoi TNP 500g,246,CBNC,"7,500.000",,,,,,G5_NQ
+3494711,Trung ga xong khoi(2T/hop)-VTD,272,CBNC,"9,500.000",,,,G3,G4,G5_NQ
+3495869,Kho ca bo tam D.Diep hu 150g,295,CBNC,"63,500.000",,,,,,G5_NQ
+3495870,Kho muc tam cay D.Diep hu 150g,296,CBNC,"73,500.000",,,,,,G5_NQ
+3498912,Sua dau nanh SOYA 568ml,324,CBNC,"18,500.000",,,,,,G5_NQ
+3498913,BanhKaro trungtuoi chbong6x26g,331,CBNC,"24,000.000",,G1,G2,G3,G4,G5_NQ
+3499491,Che duong nhan 330ml-HTH,173,CBNC,"18,000.000",,,G2,G3,G4,G5_NQ
+3499492,Suon chay say me 100g,61,CBNC,"31,500.000",,,,,,G5_NQ
+3499493,Kho bo chay sa ot 50g,62,CBNC,"37,950.000",,,,G3,G4,G5_NQ
+3499512,Banh trong vi la gai 75g,196,CBNC,"6,182.000",,,,,,G5_NQ
+3503428,Ruoc kho kg-ANP,119,CBNC,"253,000.000",,,,,,G5_NQ
+3503826,Bun tuoi xoan oc 400g-SAUTHANH,7,CBNC,"8,500.000",,,,G3,G4,G5_NQ
+3504846,Cu cai muoi 500g-NT,134,CBNC,"45,000.000",,,,,,G5_NQ
+3504847,Sua dau tr.chau ciao 270ml-MKX,323,CBNC,"14,000.000",,,,,,G5_NQ
+3504848,Ca khoai say tam me 100g-DD,297,CBNC,"37,800.000",,,,,,G5_NQ
+3504849,Ca lu du say toi 100g-DD,298,CBNC,"37,800.000",,,,,,G5_NQ
+3504850,Ca mai sot chanh 100g-DD,299,CBNC,"46,200.000",,,,,,G5_NQ
+3504851,Ca com sua 100g-DD,300,CBNC,"43,848.000",,,,,,G5_NQ
+3506740,TPDD vi mat ong 250g-PGP,63,CBNC,"110,000.000",,,,,,G5_NQ
+3506741,TPDD vi tra xanh 250g-PGP,64,CBNC,"110,000.000",,,,,,G5_NQ
+3506742,TPDD vi chocolate 250g-PGP,65,CBNC,"110,000.000",,,,,,G5_NQ
+3507279,Banh dau xanh tuoi 210g-BM,197,CBNC,"23,148.000",,,G2,G3,G4,G5_NQ
+3507734,Banh d.do H.KIM TL s.rieng300g,376,CBNC,"60,000.000",,,,,,G5_NQ
+3508922,Tau hu t.chau d.den 200g-HTH,171,CBNC,"14,300.000",,,,,,G5_NQ
+3508923,Banh pia k.sa thanhlong160g-NT,135,CBNC,"29,000.000",,,,,,G5_NQ
+3508924,Banh pia k.sa me den 160g-NT,136,CBNC,"29,000.000",,,,,,G5_NQ
+3508925,Banh pia k.sa dau xanh 160g-NT,137,CBNC,"29,000.000",,,,,,G5_NQ
+3508926,Banh pia k.sa la dua 160g-NT,138,CBNC,"29,000.000",,,,,,G5_NQ
+3508927,Banh pia mini chay 130g-NT,139,CBNC,"20,000.000",,G1,G2,G3,G4,G5_NQ
+3508928,Banh pia mini 1trung 130g-NT,140,CBNC,"22,000.000",,G1,G2,G3,G4,G5_NQ
+3510207,Banh mi hoa cuc 330g,347,CBNC,"45,000.000",,G1,G2,G3,G4,G5_NQ
+3510996,B.pia s.rieng hh mini TL12x40g,377,CBNC,"84,000.000",,,,,,G5_NQ
+3511670,Trung cut luoc(20trung)-VTD,273,CBNC,"16,000.000",,,G2,G3,G4,G5_NQ
+3511671,Trung ga tiem vicay(2T/goi)VTD,274,CBNC,"8,800.000",,G1,G2,G3,G4,G5_NQ
+3516279,Banh t.tuoi cb karo PM.HK6x26g,332,CBNC,"24,000.000",,G1,G2,G3,G4,G5_NQ
+3516619,Hanh nhan dinh duong 250g-PGP,66,CBNC,"110,000.000",,,,,,G5_NQ
+3519570,Mia thanh diu Dang Khoi 500g,330,CBNC,"20,000.000",,,G2,G3,G4,G5_NQ
+3521830,Banh tai heo bo cay 200g-PGP,67,CBNC,"23,500.000",,,,G3,G4,G5_NQ
+3523246,Com chay cha bong chay100g-DD,301,CBNC,"26,250.000",,,,,,G5_NQ
+3523247,Dua leo rung chua ngot200g-TNP,257,CBNC,"15,000.000",,,,,,G5_NQ
+3523248,Lap xuong pho mai kg-TNP,240,CBNC,"270,000.000",,,,,,G5_NQ
+3523249,S.sam s.sao hatchia 300g-CANA,349,CBNC,"11,600.000",,G1,G2,G3,G4,G5_NQ
+3523250,Suong sao hatchia 300g-CANA,350,CBNC,"11,600.000",,G1,G2,G3,G4,G5_NQ
+3523251,Suong sam hatchia 300g-CANA,351,CBNC,"11,600.000",,G1,G2,G3,G4,G5_NQ
+3525338,Suon non chay lua mach kg-PGP,68,CBNC,"268,000.000",,,,G3,G4,G5_NQ
+3525339,Suon ong chay lua mach kg-PGP,69,CBNC,"268,000.000",,,,,,G5_NQ
+3525340,Ga vien chay kg-PGP,70,CBNC,"244,200.000",,,,,,G5_NQ
+3525341,Bo nuong chay kg-PGP,72,CBNC,"244,200.000",,,,,,G5_NQ
+3526680,Banh mi hoa cuc 125g,348,CBNC,"17,000.000",,G1,G2,G3,G4,G5_NQ
+3526681,Banh gio nhan thit 150g-TP,352,CBNC,"7,848.000",,G1,G2,G3,G4,G5_NQ
+3527557,Banh flan tran chau 150g-HTH,172,CBNC,"12,000.000",,,,,,G5_NQ
+3527558,R.cau flan PM ca phe 300g-HTH,167,CBNC,"28,000.000",,,G2,G3,G4,G5_NQ
+3527559,Hop qua tet banh dinhduong-PGP,73,CBNC,"235,000.000",,,,,,G5_NQ
+3528816,Siro Thach An 200ml,306,CBNC,"9,300.000",,G1,G2,G3,G4,G5_NQ
+3531079,Ho lo xien cay 60g-PGP,74,CBNC,"21,150.000",,,,,,G5_NQ
+3531080,Banh quay bo cay 90g-PGP,75,CBNC,"23,500.000",,,,,,G5_NQ
+3531081,Banh ca hanh gion 135g-PGP,76,CBNC,"23,500.000",,,,,,G5_NQ
+3531082,Banh dui ga chanh sa 135g-PGP,77,CBNC,"23,500.000",,,,,,G5_NQ
+3531084,Banh gio nhan ga 150g-TP,353,CBNC,"9,592.000",,G1,G2,G3,G4,G5_NQ
+3533143,Thao moc say NGOC THANH 70g,141,CBNC,"37,000.000",,,,,,G5_NQ
+3533144,Nem nuong 300g-TNP,247,CBNC,"88,000.000",,,,,,G5_NQ
+3533145,Doi sa 300g-TNP,248,CBNC,"71,500.000",,,,,,G5_NQ
+3533146,Thom deo quan 80g-PGP,78,CBNC,"33,000.000",,,,,,G5_NQ
+3533147,Cu sen nhan thom deo 80g-PGP,79,CBNC,"45,000.000",,,,,,G5_NQ
+3535590,BanhSALAnhan thnuong phomai70g,198,CBNC,"7,500.000",,,,,,G5_NQ
+3535591,Banh SALA nhan trung man 70g,199,CBNC,"7,500.000",,,,,,G5_NQ
+3535592,Banh GOCHIZ cake bo phomai140g,200,CBNC,"21,296.000",,,,G3,G4,G5_NQ
+3535961,Banh tet QUANG HUY 300g,225,CBNC,"28,000.000",,,,,,G5_NQ
+3535962,Banh tet thap cam 500g-QH,226,CBNC,"50,000.000",,,,,,G5_NQ
+3540008,Thit kho tieu chay 200g-PGP,80,CBNC,"44,500.000",,,,,,G5_NQ
+3540976,B.pia com dua sua MN 380g,354,CBNC,"82,800.000",,,G2,G3,G4,G5_NQ
+3540977,B.pia gao hrong y.m srieng360g,355,CBNC,"92,000.000",,,G2,G3,G4,G5_NQ
+3540978,B.pia T1 dx srieng2trungMN550g,356,CBNC,"108,000.000",,,,,,G5_NQ
+3541301,Banh trang muoi tom kho 60g-NT,143,CBNC,"12,000.000",,,,,,G5_NQ
+3544415,Ca nuc hap TCFood 250g,416,CBNC,"25,650.000",,G1,G2,G3,G4,G5_NQ
+3545107,Long chay kho 150g-PGP,81,CBNC,"37,800.000",,,,,,G5_NQ
+3545108,Xiu mai chay 200g-PGP,82,CBNC,"42,000.000",,,,,,G5_NQ
+3545109,Moc nam chay 300g-PGP,83,CBNC,"44,000.000",,,,,,G5_NQ
+3545597,Thach den tranchau280g-CaoBang,307,CBNC,"15,300.000",,G1,G2,G3,G4,G5_NQ
+3545951,Bi heo thit 6S 180g,341,CBNC,"39,000.000",,,,,G4,G5_NQ
+3546242,Banh pia kim sa s.tuoi 100g,364,CBNC,"13,050.000",,,G2,G3,G4,G5_NQ
+3546243,Banhpia Chbong Trmuoi pmai 90g,365,CBNC,"13,050.000",,,G2,G3,G4,G5_NQ
+3546244,Banh pia com dua sua 90g,366,CBNC,"14,500.000",,G1,G2,G3,G4,G5_NQ
+3546245,Banh pia glut hrong Well. 240g,367,CBNC,"32,000.000",,,,,,G5_NQ
+3546769,Bap rang bo vi phomai 40g-NT,144,CBNC,"12,500.000",,G1,G2,G3,G4,G5_NQ
+3548507,Thit ga kho gung 300g-6S,337,CBNC,"34,000.000",,,,,G4,G5_NQ
+3548508,Thit ga xao sa ot 300g-6S,338,CBNC,"34,000.000",,,,,G4,G5_NQ
+3548509,Kho qua don thit 400g-6S,339,CBNC,"42,000.000",,,,,G4,G5_NQ
+3548510,Dau hu don thit 400g-6S,340,CBNC,"42,000.000",,,,,G4,G5_NQ
+3548511,Hu tieu kho 300g-SAU THANH,8,CBNC,"18,700.000",,G1,G2,G3,G4,G5_NQ
+3551308,BanhKaro tr.tuoi chbong10x26g,333,CBNC,"38,800.000",,G1,G2,G3,G4,G5_NQ
+3551309,B.gio KITKOOL thcam tr.cut150g,378,CBNC,"7,200.000",,,,,,G5_NQ
+3551310,B.gioKITKOOL tomthit trcut150g,379,CBNC,"8,500.000",,,,,,G5_NQ
+3552251,Banh thuyen hat dduong100g-PGP,84,CBNC,"57,000.000",,,,,,G5_NQ
+3552252,Cui buoi nau che 80g-PGP,85,CBNC,"26,500.000",,,,,,G5_NQ
+3552254,Heo vien 300g-TNP,243,CBNC,"50,000.000",,,,,,G5_NQ
+3553587,Bun bo hue 500g-SAU THANH,3,CBNC,"8,200.000",,,,,,G5_NQ
+3553588,Banh canh 500g-SAU THANH,4,CBNC,"8,200.000",,,,,,G5_NQ
+3553738,Bap rang bo vi gung 40g-NT,145,CBNC,"12,500.000",,,,,,G5_NQ
+3554872,Changa r.xuong uop sate250g-6S,342,CBNC,"39,000.000",,,,,,G5_NQ
+3555413,Banh chung la dua 1kg-TNP,245,CBNC,"110,000.000",,,,,,G5_NQ
+3556065,Com chay hatsen ttrung200g-SGC,393,CBNC,"18,000.000",,,G2,G3,G4,G5_NQ
+3556066,Cha gio thu chay 250g-SGC,395,CBNC,"33,000.000",,,,G3,G4,G5_NQ
+3556067,Banh hanh phuc AnNhien120g-PGP,86,CBNC,"58,000.000",,,,,,G5_NQ
+3556068,Kho chay la chanh 100g-PGP,87,CBNC,"37,000.000",,,,,,G5_NQ
+3556069,Che troi nuoc ngonngon250g-LHP,390,CBNC,"11,000.000",,,,,,G5_NQ
+3557668,Banh dongtien hat dieu100g-PGP,88,CBNC,"34,000.000",,,,,,G5_NQ
+3557669,Cha nam chay 250g-PGP,89,CBNC,"31,500.000",,,,G3,G4,G5_NQ
+3557671,Daheosay cuhanh toigion100g-DD,303,CBNC,"52,000.000",,,,,,G5_NQ
+3557672,Banh gao tokbokki 500g-ST,9,CBNC,"21,900.000",,,G2,G3,G4,G5_NQ
+3558655,Vit nau chao 300g-6S,343,CBNC,"43,636.000",,,,,G4,G5_NQ
+3558656,Thit kho trung cut 300g-6S,344,CBNC,"40,909.000",,,,,G4,G5_NQ
+3558657,Nam heo nuong chao 300g-6S,345,CBNC,"68,182.000",,,,,G4,G5_NQ
+3558658,Nam heo nuong sate 300g-6S,346,CBNC,"68,182.000",,,,,G4,G5_NQ
+3559763,Bap rang bo vi toi ot 65g-NT,146,CBNC,"14,000.000",,,G2,G3,G4,G5_NQ
+3559764,Bap rang bo vi ca cao 65g-NT,147,CBNC,"14,000.000",,G1,G2,G3,G4,G5_NQ
+3560311,Banh gio chay 150g-SGC,394,CBNC,"8,000.000",,G1,G2,G3,G4,G5_NQ
+3560316,Cocktail trcay thapcam250g-LHP,392,CBNC,"13,000.000",,,,,,G5_NQ
+3560883,Banh trang thap cam 40g-NT,151,CBNC,"12,000.000",,,,,,G5_NQ
+3562559,Com chay cha bong chay 50g-TNP,250,CBNC,"20,000.000",,,,,,G5_NQ
+3562560,Comchay chabong trmuoi 50g-TNP,251,CBNC,"21,000.000",,,,,,G5_NQ
+3562561,Com chay kho ga phomai 50g-TNP,252,CBNC,"21,000.000",,,,,,G5_NQ
+3562562,Com chay chabong rbien 50g-TNP,253,CBNC,"21,000.000",,,,,,G5_NQ
+3562563,Com chay chabong gaolut50g-TNP,254,CBNC,"25,000.000",,,,,,G5_NQ
+3562564,Com chay cha bong heo 50g-TNP,255,CBNC,"19,000.000",,,,,,G5_NQ
+3562565,Com chay mam ruoc 50g-TNP,256,CBNC,"21,000.000",,,,,,G5_NQ
+3562566,BanhKaro trungtuoi chbong3x26g,334,CBNC,"15,000.000",,,,,,G5_NQ
+3563155,Banh com dua dac biet 180g-BM,203,CBNC,"22,273.000",,,G2,G3,G4,G5_NQ
+3563156,Sandochi banhminnhancam200g-BM,190,CBNC,"41,818.000",,,,G3,G4,G5_NQ
+3563157,Sandochi banhmins.rieng200g-BM,191,CBNC,"41,818.000",,G1,G2,G3,G4,G5_NQ
+3563579,Sam la han hoa cuc 330ml-MKX,325,CBNC,"11,000.000",,,G2,G3,G4,G5_NQ
+3563580,Bmi hoacuc ngan lop Fe'sta120g,335,CBNC,"15,120.000",,G1,G2,G3,G4,G5_NQ
+3564111,Trung ga luoc thtrung 500g-VTD,275,CBNC,"33,500.000",,,,G3,G4,G5_NQ
+3564112,Trung vit luoc thtrung550g-VTD,276,CBNC,"38,500.000",,,,G3,G4,G5_NQ
+3564113,Trung cut luoc V.Food 400g-VTD,277,CBNC,"47,000.000",,,,G3,G4,G5_NQ
+3564115,B.pia M+ dxanh saurieng MN360g,362,CBNC,"55,000.000",,,G2,G3,G4,G5_NQ
+3564116,Banh pia kim sa s.tuoi MN380g,363,CBNC,"77,000.000",,,,,,G5_NQ
+3564954,Chaca bientuoi ngchat 200g-VFF,400,CBNC,"23,320.000",,,,,,G5_NQ
+3564955,Chaca bien tuoi ngchat 1kg-VFF,401,CBNC,"116,600.000",,,,,,G5_NQ
+3565186,B.trang phoisuong trthong 130g,405,CBNC,"20,600.000",,G1,G2,G3,G4,G5_NQ
+3565187,B.trang tron phoisuong 130g-MM,406,CBNC,"16,100.000",,G1,G2,G3,G4,G5_NQ
+3565188,Banh trang cha gio 130g-MM,407,CBNC,"16,100.000",,G1,G2,G3,G4,G5_NQ
+3567253,Sua dau nanh Thai Son330ml-MKX,326,CBNC,"9,000.000",,,G2,G3,G4,G5_NQ
+3567376,Banh lava trung muoi 143g,90,CBNC,"33,000.000",,,,,,G5_NQ
+3567377,Banh lava ovaltine 143g,91,CBNC,"33,000.000",,,,,,G5_NQ
+3567653,Ca bac ma hap TC 250g,417,CBNC,"34,200.000",,G1,G2,G3,G4,G5_NQ
+3567654,Ca saba hap TC 250g,418,CBNC,"29,700.000",,G1,G2,G3,G4,G5_NQ
+3567790,Thit ga xienque tamuop400g-CPV,411,CBNC,"35,200.000",,,,G3,G4,G5_NQ
+3568745,Cha cathu chien ngchat200g-VFF,402,CBNC,"38,160.000",,,,,,G5_NQ
+3568746,Chacabien chien ngchat200g-VFF,403,CBNC,"27,500.000",,,,,,G5_NQ
+3568747,Nem nuong mat ong  200g-VFF,404,CBNC,"29,680.000",,,,,,G5_NQ
+3570193,Soi banh canh xat 500g-BK,40,CBNC,"9,900.000",,G1,G2,G3,G4,G5_NQ
+3570194,Banh hoi 300g-BK,41,CBNC,"8,600.000",,,G2,G3,G4,G5_NQ
+3570361,Banh lava trung muoi 71g,92,CBNC,"20,000.000",,,,G3,G4,G5_NQ
+3570362,Banh lava ovaltine 71g,93,CBNC,"20,000.000",,,,G3,G4,G5_NQ
+3570363,Lap xuong ho lo 250g-TNP,258,CBNC,"51,500.000",,,,,,G5_NQ
+3570364,Banh canh bot xat 500-SAUTHANH,10,CBNC,"9,900.000",,,,,,G5_NQ
+3570365,Banh pho 500g-SAUTHANH,11,CBNC,"8,200.000",,,,G3,G4,G5_NQ
+3571202,Xoi cuon pho mai 500g-T.Gia,212,CBNC,"67,500.000",,,,,,G5_NQ
+3571203,Xoi cuon xuc xich 500g-T.Gia,213,CBNC,"57,500.000",,,,,,G5_NQ
+3571204,Banh tet chuoi Tran Gia 600g,214,CBNC,"39,500.000",,,,,,G5_NQ
+3572545,Da heo gion vi mam toi 40g-HPK,414,CBNC,"14,500.000",,,,,,G5_NQ
+3572546,Da heo gion vi bo toi 40g-HPK,415,CBNC,"14,500.000",,,,,,G5_NQ
+3572643,Hat sen hap vi tunhien150g-SGC,396,CBNC,"39,000.000",,,,G3,G4,G5_NQ
+3572644,Hat sen hap vi thaoqua150g-SGC,397,CBNC,"39,000.000",,,,G3,G4,G5_NQ
+3572645,B.karotrungtuoi chbongdua6x26g,336,CBNC,"30,000.000",,G1,G2,G3,G4,G5_NQ
+3573561,Chedua dam laduakingpak260g-CB,308,CBNC,"15,000.000",,G1,G2,G3,G4,G5_NQ
+3573566,B.pia M+ yenmach comduaMN340g,368,CBNC,"55,000.000",,,,,,G5_NQ
+3573567,B.pia khmon saurieng D2 MN360g,369,CBNC,"66,000.000",,,,,,G5_NQ
+3573568,Banh phong tom 50g-FOCO,419,CBNC,"18,000.000",,,,G3,G4,G5_NQ
+3574377,Banh trang tron sate tom40g-MM,408,CBNC,"8,900.000",,G1,G2,G3,G4,G5_NQ
+3574378,Banh trang muoi toi xike45g-MM,409,CBNC,"7,800.000",,G1,G2,G3,G4,G5_NQ
+3574379,Banh trang tron cham 40g-MM,410,CBNC,"8,900.000",,G1,G2,G3,G4,G5_NQ
+3575165,Chuoi say me gung 500g-PGP,100,CBNC,"65,000.000",,,G2,G3,G4,G5_NQ
+3575673,Sua chua vi nguyenban 110ml-TL,421,CBNC,"8,075.000",,,G2,G3,G4,G5_NQ
+3575674,Sua chua vi dau 110ml-TL,422,CBNC,"10,030.000",,,G2,G3,G4,G5_NQ
+3575675,Sua chua vi chanh day 110ml-TL,423,CBNC,"10,030.000",,,G2,G3,G4,G5_NQ
+3575676,Suachua caramel trchau110ml-TL,424,CBNC,"10,030.000",,,,,,G5_NQ
+3575677,Sua chua vi viet quat 110ml-TL,425,CBNC,"10,030.000",,,G2,G3,G4,G5_NQ
+3575774,Chan ga rutxuong satac 250g-NT,426,CBNC,"35,500.000",,,G2,G3,G4,G5_NQ
+3575775,Chan ga rutxuong satac 450g-NT,427,CBNC,"49,500.000",,,,G3,G4,G5_NQ
+3575776,Changa rxuong xthai caynhe250g,428,CBNC,"36,500.000",,,G2,G3,G4,G5_NQ
+3575777,Changa rxuong xthaicaynong250g,429,CBNC,"36,500.000",,,G2,G3,G4,G5_NQ
+3575778,Changa rxuong xthaicaynong450g,430,CBNC,"51,500.000",,,,G3,G4,G5_NQ
+3576369,Gio song ga 200g-CPV,412,CBNC,"16,500.000",,,,G3,G4,G5_NQ
