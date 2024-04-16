@@ -66,7 +66,7 @@ def download_report(login_page,
         time.sleep(1)
     print('Downloaded successfully')
     try:
-        downloaded_files = glob.glob("C:/Users/kris/Downloads/*")
+        downloaded_files = glob.glob(download_dir + '\\*')
         report_file = max(downloaded_files, key=os.path.getctime)
         file_name = report_file[24:]
         shutil.copy(report_file, os.path.join(dir_to_save,file_name))
