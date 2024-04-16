@@ -61,3 +61,258 @@ console.warn: services.settings: security-state/cert-revocations sync interrupte
 console.warn: services.settings: security-state/onecrl sync interrupted by shutdown
 console.warn: services.settings: security-state/intermediates sync interrupted by shutdown
 console.error: (new NetworkError("Network error: TypeError: NetworkError: Network request failed", "resource://services-settings/RemoteSettingsClient.sys.mjs", 107))
+1713165509072	geckodriver	INFO	Listening on 127.0.0.1:52570
+1713165512108	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52571" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofile4WaQxa"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1713165512599	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1713165512707	Marionette	INFO	Listening on port 52583
+WebDriver BiDi listening on ws://127.0.0.1:52571
+Read port: 52583
+1713165512991	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52571/devtools/browser/bd300ad2-0f2f-4f2f-9797-1a9145dffd60
+JavaScript error: https://sgcdfportal.southeastasia.cloudapp.azure.com/themes/caro/js/main.js?version=0.1_2024-04-15_14:21:25, line 883: TypeError: document.getElementById(...) is null
+JavaScript error: https://sgcdfportal.southeastasia.cloudapp.azure.com/themes/caro/js/main.js?version=0.1_2024-04-15_14:21:25, line 1031: TypeError: $(...).val() is undefined
+JavaScript error: https://sgcdfportal.southeastasia.cloudapp.azure.com/themes/caro/js/jquery.min.js, line 2: TypeError: t is null
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sgcdfportal.southeastasia.cloudapp.azure.com."
+1713165520238	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://sgcdfportal.southeastasia.cloudapp.azure.com/themes/caro/js/main.js?version=0.1_2024-04-15_14:21:33, line 883: TypeError: document.getElementById(...) is null
+JavaScript error: https://sgcdfportal.southeastasia.cloudapp.azure.com/themes/caro/js/main.js?version=0.1_2024-04-15_14:21:33, line 1031: TypeError: $(...).val() is undefined
+JavaScript error: https://sgcdfportal.southeastasia.cloudapp.azure.com/themes/caro/js/jquery.min.js, line 2: TypeError: t is null
+1713165544668	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.error: ({})
+1713165547364	Marionette	INFO	Stopped listening on port 52583
+Dynamically enable window occlusion 1
+1713165815475	geckodriver	INFO	Listening on 127.0.0.1:52923
+1713165818539	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52924" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofilek2LZVc"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1713165819048	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1713165819165	Marionette	INFO	Listening on port 52934
+WebDriver BiDi listening on ws://127.0.0.1:52924
+Read port: 52934
+1713165819437	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52924/devtools/browser/66f64ec7-f923-47a1-adaa-670c9d63108a
+JavaScript error: https://sgcdfportal.southeastasia.cloudapp.azure.com/themes/caro/js/main.js?version=0.1_2024-04-15_14:26:32, line 883: TypeError: document.getElementById(...) is null
+JavaScript error: https://sgcdfportal.southeastasia.cloudapp.azure.com/themes/caro/js/main.js?version=0.1_2024-04-15_14:26:32, line 1031: TypeError: $(...).val() is undefined
+JavaScript error: https://sgcdfportal.southeastasia.cloudapp.azure.com/themes/caro/js/jquery.min.js, line 2: TypeError: t is null
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sgcdfportal.southeastasia.cloudapp.azure.com."
+1713165826788	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://sgcdfportal.southeastasia.cloudapp.azure.com/themes/caro/js/main.js?version=0.1_2024-04-15_14:26:36, line 883: TypeError: document.getElementById(...) is null
+JavaScript error: https://sgcdfportal.southeastasia.cloudapp.azure.com/themes/caro/js/main.js?version=0.1_2024-04-15_14:26:36, line 1031: TypeError: $(...).val() is undefined
+JavaScript error: https://sgcdfportal.southeastasia.cloudapp.azure.com/themes/caro/js/jquery.min.js, line 2: TypeError: t is null
+JavaScript error: https://sgcdfportal.southeastasia.cloudapp.azure.com/themes/caro/js/main.js?version=0.1_2024-04-15_14:26:40, line 883: TypeError: document.getElementById(...) is null
+JavaScript error: https://sgcdfportal.southeastasia.cloudapp.azure.com/themes/caro/js/main.js?version=0.1_2024-04-15_14:26:40, line 1031: TypeError: $(...).val() is undefined
+JavaScript error: https://sgcdfportal.southeastasia.cloudapp.azure.com/themes/caro/js/jquery.min.js, line 2: TypeError: t is null
+1713165851200	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.error: ({})
+1713165854275	Marionette	INFO	Stopped listening on port 52934
+Dynamically enable window occlusion 1
+console.error: services.settings: 
+  Message: NetworkError: Network error: TypeError: NetworkError: Network request failed
+  Stack:
+    APIError@resource://services-settings/RemoteSettingsClient.sys.mjs:107:1
+NetworkError@resource://services-settings/RemoteSettingsClient.sys.mjs:111:5
+_adjustedError@resource://services-settings/RemoteSettingsClient.sys.mjs:911:14
+maybeSync@resource://services-settings/RemoteSettingsClient.sys.mjs:816:38
+
+console.error: (new NetworkError("Network error: TypeError: NetworkError: Network request failed", "resource://services-settings/RemoteSettingsClient.sys.mjs", 107))
+1713165889533	geckodriver	INFO	Listening on 127.0.0.1:53017
+1713165892601	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53018" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofile2g3sQx"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1713165893076	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1713165893190	Marionette	INFO	Listening on port 53029
+WebDriver BiDi listening on ws://127.0.0.1:53018
+Read port: 53029
+1713165893520	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53018/devtools/browser/b2564612-b824-480b-8a9e-1e255ef0efb4
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sgcdfportal.southeastasia.cloudapp.azure.com."
+JavaScript error: https://sgcdfportal.southeastasia.cloudapp.azure.com/themes/caro/js/main.js?version=0.1_2024-04-15_14:27:46, line 883: TypeError: document.getElementById(...) is null
+1713165901794	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://sgcdfportal.southeastasia.cloudapp.azure.com/themes/caro/js/main.js?version=0.1_2024-04-15_14:27:55, line 883: TypeError: document.getElementById(...) is null
+JavaScript error: https://sgcdfportal.southeastasia.cloudapp.azure.com/themes/caro/js/main.js?version=0.1_2024-04-15_14:27:55, line 1031: TypeError: $(...).val() is undefined
+JavaScript error: https://sgcdfportal.southeastasia.cloudapp.azure.com/themes/caro/js/jquery.min.js, line 2: TypeError: t is null
+1713165923678	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.error: ({})
+1713165929158	Marionette	INFO	Stopped listening on port 53029
+Dynamically enable window occlusion 1
+1713166562197	geckodriver	INFO	Listening on 127.0.0.1:53504
+1713166565270	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53505" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofilei2RyVK"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1713166565757	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1713166565866	Marionette	INFO	Listening on port 53513
+WebDriver BiDi listening on ws://127.0.0.1:53505
+Read port: 53513
+1713166566138	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53505/devtools/browser/039c7267-f8f3-4c32-a5d6-1ec779b5c1aa
+JavaScript error: https://sgcdfportal.southeastasia.cloudapp.azure.com/themes/caro/js/main.js?version=0.1_2024-04-15_14:38:58, line 883: TypeError: document.getElementById(...) is null
+JavaScript error: https://sgcdfportal.southeastasia.cloudapp.azure.com/themes/caro/js/main.js?version=0.1_2024-04-15_14:38:58, line 1031: TypeError: $(...).val() is undefined
+JavaScript error: https://sgcdfportal.southeastasia.cloudapp.azure.com/themes/caro/js/jquery.min.js, line 2: TypeError: t is null
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sgcdfportal.southeastasia.cloudapp.azure.com."
+1713166572994	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://sgcdfportal.southeastasia.cloudapp.azure.com/themes/caro/js/main.js?version=0.1_2024-04-15_14:39:02, line 883: TypeError: document.getElementById(...) is null
+JavaScript error: https://sgcdfportal.southeastasia.cloudapp.azure.com/themes/caro/js/main.js?version=0.1_2024-04-15_14:39:02, line 1031: TypeError: $(...).val() is undefined
+JavaScript error: https://sgcdfportal.southeastasia.cloudapp.azure.com/themes/caro/js/jquery.min.js, line 2: TypeError: t is null
+JavaScript error: https://sgcdfportal.southeastasia.cloudapp.azure.com/themes/caro/js/main.js?version=0.1_2024-04-15_14:39:06, line 883: TypeError: document.getElementById(...) is null
+JavaScript error: https://sgcdfportal.southeastasia.cloudapp.azure.com/themes/caro/js/main.js?version=0.1_2024-04-15_14:39:06, line 1031: TypeError: $(...).val() is undefined
+JavaScript error: https://sgcdfportal.southeastasia.cloudapp.azure.com/themes/caro/js/jquery.min.js, line 2: TypeError: t is null
+1713166595883	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.error: ({})
+1713166600166	Marionette	INFO	Stopped listening on port 53513
+Dynamically enable window occlusion 1
+1713166807353	geckodriver	INFO	Listening on 127.0.0.1:53684
+1713166810425	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53685" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofilep90mpv"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1713166810918	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1713166811026	Marionette	INFO	Listening on port 53694
+WebDriver BiDi listening on ws://127.0.0.1:53685
+Read port: 53694
+1713166811299	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53685/devtools/browser/b92d50f4-9abd-4dc0-a758-0b5c8adb49c0
+JavaScript error: https://sgcdfportal.southeastasia.cloudapp.azure.com/themes/caro/js/main.js?version=0.1_2024-04-15_14:43:03, line 883: TypeError: document.getElementById(...) is null
+JavaScript error: https://sgcdfportal.southeastasia.cloudapp.azure.com/themes/caro/js/main.js?version=0.1_2024-04-15_14:43:03, line 1031: TypeError: $(...).val() is undefined
+JavaScript error: https://sgcdfportal.southeastasia.cloudapp.azure.com/themes/caro/js/jquery.min.js, line 2: TypeError: t is null
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sgcdfportal.southeastasia.cloudapp.azure.com."
+1713166818239	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://sgcdfportal.southeastasia.cloudapp.azure.com/themes/caro/js/main.js?version=0.1_2024-04-15_14:43:11, line 883: TypeError: document.getElementById(...) is null
+JavaScript error: https://sgcdfportal.southeastasia.cloudapp.azure.com/themes/caro/js/main.js?version=0.1_2024-04-15_14:43:11, line 1031: TypeError: $(...).val() is undefined
+JavaScript error: https://sgcdfportal.southeastasia.cloudapp.azure.com/themes/caro/js/jquery.min.js, line 2: TypeError: t is null
+1713166841181	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.error: ({})
+1713166845563	Marionette	INFO	Stopped listening on port 53694
+Dynamically enable window occlusion 1
+1713167218768	geckodriver	INFO	Listening on 127.0.0.1:53928
+1713167221840	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53929" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofilez8ebR7"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1713167222293	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1713167222401	Marionette	INFO	Listening on port 53938
+WebDriver BiDi listening on ws://127.0.0.1:53929
+Read port: 53938
+1713167222741	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Fallback WR to SW-WR + D3D11
+[GFX1-]: Fallback SW-WR + D3D11 to SW-WR
+[GFX1-]: Fallback remains SW-WR
+[GFX1-]: Failed to initialize GPU process
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://127.0.0.1:53929/devtools/browser/b0e26973-b760-44b4-8d00-7e1cf42e6c9a
+JavaScript error: https://sgcdfportal.southeastasia.cloudapp.azure.com/themes/caro/js/main.js?version=0.1_2024-04-15_14:49:54, line 883: TypeError: document.getElementById(...) is null
+JavaScript error: https://sgcdfportal.southeastasia.cloudapp.azure.com/themes/caro/js/main.js?version=0.1_2024-04-15_14:49:54, line 1031: TypeError: $(...).val() is undefined
+JavaScript error: https://sgcdfportal.southeastasia.cloudapp.azure.com/themes/caro/js/jquery.min.js, line 2: TypeError: t is null
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sgcdfportal.southeastasia.cloudapp.azure.com."
+1713167229160	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://sgcdfportal.southeastasia.cloudapp.azure.com/themes/caro/js/main.js?version=0.1_2024-04-15_14:49:59, line 883: TypeError: document.getElementById(...) is null
+JavaScript error: https://sgcdfportal.southeastasia.cloudapp.azure.com/themes/caro/js/main.js?version=0.1_2024-04-15_14:49:59, line 1031: TypeError: $(...).val() is undefined
+JavaScript error: https://sgcdfportal.southeastasia.cloudapp.azure.com/themes/caro/js/jquery.min.js, line 2: TypeError: t is null
+JavaScript error: https://sgcdfportal.southeastasia.cloudapp.azure.com/themes/caro/js/main.js?version=0.1_2024-04-15_14:50:02, line 883: TypeError: document.getElementById(...) is null
+JavaScript error: https://sgcdfportal.southeastasia.cloudapp.azure.com/themes/caro/js/main.js?version=0.1_2024-04-15_14:50:02, line 1031: TypeError: $(...).val() is undefined
+JavaScript error: https://sgcdfportal.southeastasia.cloudapp.azure.com/themes/caro/js/jquery.min.js, line 2: TypeError: t is null
+1713167254077	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.error: ({})
+1713167256428	Marionette	INFO	Stopped listening on port 53938
+Dynamically enable window occlusion 1
+console.warn: services.settings: security-state/cert-revocations sync interrupted by shutdown
+console.warn: services.settings: security-state/onecrl sync interrupted by shutdown
+console.warn: services.settings: security-state/intermediates sync interrupted by shutdown
+1713240903040	geckodriver	INFO	Listening on 127.0.0.1:54526
+1713240906100	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54527" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofileDzqSAM"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1713240906352	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1713240906415	Marionette	INFO	Listening on port 54534
+WebDriver BiDi listening on ws://127.0.0.1:54527
+Read port: 54534
+1713240906548	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Fallback WR to SW-WR + D3D11
+[GFX1-]: Fallback SW-WR + D3D11 to SW-WR
+[GFX1-]: Fallback remains SW-WR
+[GFX1-]: Failed to initialize GPU process
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://127.0.0.1:54527/devtools/browser/f93a7aa3-fd8f-4e13-8ce1-8a034a1f3b24
+JavaScript error: https://sgcdfportal.southeastasia.cloudapp.azure.com/themes/caro/js/main.js?version=0.1_2024-04-16_11:17:58, line 883: TypeError: document.getElementById(...) is null
+JavaScript error: https://sgcdfportal.southeastasia.cloudapp.azure.com/themes/caro/js/main.js?version=0.1_2024-04-16_11:17:58, line 1031: TypeError: $(...).val() is undefined
+JavaScript error: https://sgcdfportal.southeastasia.cloudapp.azure.com/themes/caro/js/jquery.min.js, line 2: TypeError: t is null
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sgcdfportal.southeastasia.cloudapp.azure.com."
+JavaScript error: https://sgcdfportal.southeastasia.cloudapp.azure.com/themes/caro/js/main.js?version=0.1_2024-04-16_11:18:02, line 883: TypeError: document.getElementById(...) is null
+JavaScript error: https://sgcdfportal.southeastasia.cloudapp.azure.com/themes/caro/js/main.js?version=0.1_2024-04-16_11:18:02, line 1031: TypeError: $(...).val() is undefined
+JavaScript error: https://sgcdfportal.southeastasia.cloudapp.azure.com/themes/caro/js/jquery.min.js, line 2: TypeError: t is null
+JavaScript error: https://sgcdfportal.southeastasia.cloudapp.azure.com/themes/caro/js/main.js?version=0.1_2024-04-16_11:18:05, line 883: TypeError: document.getElementById(...) is null
+JavaScript error: https://sgcdfportal.southeastasia.cloudapp.azure.com/themes/caro/js/main.js?version=0.1_2024-04-16_11:18:05, line 1031: TypeError: $(...).val() is undefined
+JavaScript error: https://sgcdfportal.southeastasia.cloudapp.azure.com/themes/caro/js/jquery.min.js, line 2: TypeError: t is null
+1713240937522	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.error: ({})
+1713240940158	Marionette	INFO	Stopped listening on port 54534
+Dynamically enable window occlusion 1
+console.error: services.settings: 
+  Message: NetworkError: Network error: TypeError: NetworkError: Network request failed
+  Stack:
+    APIError@resource://services-settings/RemoteSettingsClient.sys.mjs:107:1
+NetworkError@resource://services-settings/RemoteSettingsClient.sys.mjs:111:5
+_adjustedError@resource://services-settings/RemoteSettingsClient.sys.mjs:911:14
+maybeSync@resource://services-settings/RemoteSettingsClient.sys.mjs:816:38
+
+console.error: (new NetworkError("Network error: TypeError: NetworkError: Network request failed", "resource://services-settings/RemoteSettingsClient.sys.mjs", 107))
+1713244382688	geckodriver	INFO	Listening on 127.0.0.1:54789
+1713244385750	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54790" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofiledcYsw2"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1713244386227	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1713244386337	Marionette	INFO	Listening on port 54798
+WebDriver BiDi listening on ws://127.0.0.1:54790
+Read port: 54798
+1713244386609	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54790/devtools/browser/de616f25-5392-49ec-bcf7-7575412d84be
+JavaScript error: https://sgcdfportal.southeastasia.cloudapp.azure.com/themes/caro/js/main.js?version=0.1_2024-04-16_12:15:59, line 883: TypeError: document.getElementById(...) is null
+JavaScript error: https://sgcdfportal.southeastasia.cloudapp.azure.com/themes/caro/js/main.js?version=0.1_2024-04-16_12:15:59, line 1031: TypeError: $(...).val() is undefined
+JavaScript error: https://sgcdfportal.southeastasia.cloudapp.azure.com/themes/caro/js/jquery.min.js, line 2: TypeError: t is null
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sgcdfportal.southeastasia.cloudapp.azure.com."
+1713244394668	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://sgcdfportal.southeastasia.cloudapp.azure.com/themes/caro/js/main.js?version=0.1_2024-04-16_12:16:04, line 883: TypeError: document.getElementById(...) is null
+JavaScript error: https://sgcdfportal.southeastasia.cloudapp.azure.com/themes/caro/js/main.js?version=0.1_2024-04-16_12:16:04, line 1031: TypeError: $(...).val() is undefined
+JavaScript error: https://sgcdfportal.southeastasia.cloudapp.azure.com/themes/caro/js/jquery.min.js, line 2: TypeError: t is null
+JavaScript error: https://sgcdfportal.southeastasia.cloudapp.azure.com/themes/caro/js/main.js?version=0.1_2024-04-16_12:16:08, line 883: TypeError: document.getElementById(...) is null
+JavaScript error: https://sgcdfportal.southeastasia.cloudapp.azure.com/themes/caro/js/main.js?version=0.1_2024-04-16_12:16:08, line 1031: TypeError: $(...).val() is undefined
+JavaScript error: https://sgcdfportal.southeastasia.cloudapp.azure.com/themes/caro/js/jquery.min.js, line 2: TypeError: t is null
+1713244418256	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.error: ({})
+1713244426169	Marionette	INFO	Stopped listening on port 54798
+Dynamically enable window occlusion 1
+1713244505190	geckodriver	INFO	Listening on 127.0.0.1:54883
+1713244508264	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54884" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofileL71lc3"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1713244508690	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1713244508797	Marionette	INFO	Listening on port 54891
+WebDriver BiDi listening on ws://127.0.0.1:54884
+Read port: 54891
+1713244509021	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Fallback WR to SW-WR + D3D11
+[GFX1-]: Fallback SW-WR + D3D11 to SW-WR
+[GFX1-]: Fallback remains SW-WR
+[GFX1-]: Failed to initialize GPU process
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://127.0.0.1:54884/devtools/browser/ad81dd96-0ed2-4e1a-8dae-9ff8667eede0
+JavaScript error: https://sgcdfportal.southeastasia.cloudapp.azure.com/themes/caro/js/main.js?version=0.1_2024-04-16_12:18:03, line 883: TypeError: document.getElementById(...) is null
+JavaScript error: https://sgcdfportal.southeastasia.cloudapp.azure.com/themes/caro/js/main.js?version=0.1_2024-04-16_12:18:03, line 1031: TypeError: $(...).val() is undefined
+JavaScript error: https://sgcdfportal.southeastasia.cloudapp.azure.com/themes/caro/js/jquery.min.js, line 2: TypeError: t is null
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sgcdfportal.southeastasia.cloudapp.azure.com."
+1713244517075	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://sgcdfportal.southeastasia.cloudapp.azure.com/themes/caro/js/main.js?version=0.1_2024-04-16_12:18:10, line 883: TypeError: document.getElementById(...) is null
+JavaScript error: https://sgcdfportal.southeastasia.cloudapp.azure.com/themes/caro/js/main.js?version=0.1_2024-04-16_12:18:10, line 1031: TypeError: $(...).val() is undefined
+JavaScript error: https://sgcdfportal.southeastasia.cloudapp.azure.com/themes/caro/js/jquery.min.js, line 2: TypeError: t is null
+1713244538719	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.error: ({})
+1713244548413	Marionette	INFO	Stopped listening on port 54891
+Dynamically enable window occlusion 1
