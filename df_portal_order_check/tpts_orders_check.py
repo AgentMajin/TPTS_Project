@@ -1,10 +1,15 @@
-# Import 
-import pandas as pd, numpy as np
-import time, shutil, os, glob, xlwings as xw, argparse
+import pandas as pd
+# import numpy as np
+import time
+import shutil
+import os
+import glob
+import xlwings as xw
+import argparse
 from pathlib import Path
-from datetime import date, timedelta
+from datetime import date, timedelta, datetime
 from selenium import webdriver
-from selenium.common.exceptions import NoSuchElementException, StaleElementReferenceException
+from selenium.common.exceptions import NoSuchElementException
 from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.firefox.options import Options
@@ -21,7 +26,8 @@ args = parser.parse_args()
 # Log file
 def log_file(log_content):
     today = date.today().strftime(format='%d_%m_%y')
-    with open(today + '_log_file.txt', 'a') as f:
+    logfile_name = today + '_log_file.txt'
+    with open(os.path.join(os.getcwd(), 'logfiles',logfile_name), 'a') as f:
         f.writelines(log_content)
         f.write('\n')
 
@@ -78,7 +84,7 @@ def download_report(login_page,
         # file_name = report_file[24:]
         shutil.copy(report_file, os.path.join(dir_to_save,xls_filename))
         log_file(os.path.join(dir_to_save,xls_filename))
-    except:
+    except KeyError:
         log_file('Failed to copy downloaded report to destination directory')
         DRIVER.quit()
         return
@@ -92,7 +98,7 @@ def convert_xls(input_path, output_path):
         try:
             app = xw.App(visible=False)
             wb = app.books.open(input_path)
-        except:
+        except KeyError:
             log_file('Cannot open file')
         # Save the file as xlsx
         wb.save(output_path)
@@ -101,19 +107,20 @@ def convert_xls(input_path, output_path):
         wb.close()
         app.quit()
         return True
-    except:
+    except KeyError:
         return False
     
 # Rewrite the header
-""""
-This function is used to transfrom the original dataframe with 
-inapproriate columns name and structure.
 
-Input: raw df read from excel files. See excel files to explore the structure
-Output: df with columns that has been renamed, and
-
-"""
 def clean_df(df):
+    """"
+    This function is used to transfrom the original dataframe with 
+    inapproriate columns name and structure.
+
+    Input: raw df read from excel files. See excel files to explore the structure
+    Output: df with columns that has been renamed, and
+
+    """
     col_rename = df.loc[0].to_list()[:8]
     for i, col in enumerate(df.columns):
         if i == 8:
@@ -131,7 +138,9 @@ def order_list(store,df):
 
 # Số SKU mỗi store đặt
 def store_group(df):
-    nSKU_by_Store = df.groupby(by='Store')['Order_Qty'].count().sort_values(ascending=False).reset_index()
+    nSKU_by_Store = df.groupby(by='Store')['Order_Qty'].count()\
+                                                        .sort_values(ascending=False)\
+                                                        .reset_index()
     stores_ordered_today = nSKU_by_Store[nSKU_by_Store['Order_Qty']>0].rename(columns={'Order_Qty': 'Số lượng SKU đã đặt'})
     stores_has_no_order = nSKU_by_Store[nSKU_by_Store['Order_Qty']==0].rename(columns={'Order_Qty': 'Số lượng SKU đã đặt'})
     return stores_ordered_today, stores_has_no_order
@@ -185,18 +194,18 @@ def main(check_date='',
 
     # Get the path to the downloaded XLS file
     xls_file_path = os.path.join(os.getcwd(), 'daily_xls', xls_filename)
-    log_file(f'xls file path: {xls_file_path}')
+    # log_file(f'xls file path: {xls_file_path}')
 
     # Generate the path to the intended output with XLSX extension
     xlsx_file_path = xls_file_path.replace('xls', 'xlsx')
-    log_file(f'xlsx file path: {xlsx_file_path}')
+    # log_file(f'xlsx file path: {xlsx_file_path}')
 
     # Check if xls file exist, and download if the check_date is blank, because Portal only save data of tomorrow's order.
-    if check_date == '' and not (os.path.isfile(xls_file_path)):
+    if not (os.path.isfile(xls_file_path)):
         download_report(login_page = "https://sgcdfportal.southeastasia.cloudapp.azure.com/",
                         xls_filename = xls_filename,
                         download_dir = str(Path.home() / "Downloads"),
-                        report_page = f"https://sgcdfportal.southeastasia.cloudapp.azure.com/order/freshfoods?category=che-bien-nau-chin&ordered_day={(date.today() + timedelta(1)).strftime(format='%d/%m/%y')}&transport_method=tat-ca",
+                        report_page = f"https://sgcdfportal.southeastasia.cloudapp.azure.com/order/freshfoods?category=che-bien-nau-chin&ordered_day={(datetime.strptime(date_string,'%d_%m_%Y')).strftime(format='%d/%m/%y')}&transport_method=tat-ca",
                         dir_to_save = os.path.join(os.getcwd(), 'daily_xls'))
     else:
         log_file('Report file existed')

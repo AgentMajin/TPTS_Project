@@ -1,0 +1,9 @@
+Default Date: Tomorrow - Created
+xls file path: D:\SGC\TPTS_Project\df_portal_order_check\daily_xls\DFP_FreshFood_Order_23_04_2024.xls
+xlsx file path: D:\SGC\TPTS_Project\df_portal_order_check\daily_xlsx\DFP_FreshFood_Order_23_04_2024.xlsx
+Downloaded successfully
+D:\SGC\TPTS_Project\df_portal_order_check\daily_xls\DFP_FreshFood_Order_23_04_2024.xls
+Successfully download and save report files to destination directory
+Successfully convert xls file. Start analyzing now.
+Successfuly perform task: order_store
+Successfuly perform task: no_order_store

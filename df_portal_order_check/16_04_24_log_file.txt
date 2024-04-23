@@ -1,6 +1,0 @@
-Default Date: Tomorrow - Created
-xls file path: D:\P.Truong\Checking_Data\TPTS_Project\df_portal_order_check\daily_xls\DFP_FreshFood_Order_17_04_2024.xls
-xlsx file path: D:\P.Truong\Checking_Data\TPTS_Project\df_portal_order_check\daily_xlsx\DFP_FreshFood_Order_17_04_2024.xlsx
-Report file existed
-Cannot open file
-Fail to convert xls file

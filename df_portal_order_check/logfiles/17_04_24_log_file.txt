@@ -1,0 +1,90 @@
+Default Date: Tomorrow - Created
+xls file path: D:\SGC\TPTS_Project\df_portal_order_check\daily_xls\DFP_FreshFood_Order_18_04_2024.xls
+xlsx file path: D:\SGC\TPTS_Project\df_portal_order_check\daily_xlsx\DFP_FreshFood_Order_18_04_2024.xlsx
+Downloaded successfully
+D:\SGC\TPTS_Project\df_portal_order_check\daily_xls\DFP_FreshFood_Order_18_04_2024.xls
+Successfully download and save report files to destination directory
+Successfully convert xls file. Start analyzing now.
+Successfully get order list of 287
+Used input date: 19_04_2024
+xls file path: D:\SGC\TPTS_Project\df_portal_order_check\daily_xls\DFP_FreshFood_Order_19_04_2024.xls
+xlsx file path: D:\SGC\TPTS_Project\df_portal_order_check\daily_xlsx\DFP_FreshFood_Order_19_04_2024.xlsx
+Report file existed
+Cannot open file
+Fail to convert xls file
+Used input date: 19_04_2024
+xls file path: D:\SGC\TPTS_Project\df_portal_order_check\daily_xls\DFP_FreshFood_Order_19_04_2024.xls
+xlsx file path: D:\SGC\TPTS_Project\df_portal_order_check\daily_xlsx\DFP_FreshFood_Order_19_04_2024.xlsx
+Report file existed
+Cannot open file
+Fail to convert xls file
+Used input date: 19_04_2024
+xls file path: D:\SGC\TPTS_Project\df_portal_order_check\daily_xls\DFP_FreshFood_Order_19_04_2024.xls
+xlsx file path: D:\SGC\TPTS_Project\df_portal_order_check\daily_xlsx\DFP_FreshFood_Order_19_04_2024.xlsx
+Default Date: Tomorrow - Created
+xls file path: D:\SGC\TPTS_Project\df_portal_order_check\daily_xls\DFP_FreshFood_Order_18_04_2024.xls
+xlsx file path: D:\SGC\TPTS_Project\df_portal_order_check\daily_xlsx\DFP_FreshFood_Order_18_04_2024.xlsx
+Report file existed
+Successfully convert xls file. Start analyzing now.
+Used input date: 19_04_2024
+xls file path: D:\SGC\TPTS_Project\df_portal_order_check\daily_xls\DFP_FreshFood_Order_19_04_2024.xls
+xlsx file path: D:\SGC\TPTS_Project\df_portal_order_check\daily_xlsx\DFP_FreshFood_Order_19_04_2024.xlsx
+Used input date: 19_04_2024
+xls file path: D:\SGC\TPTS_Project\df_portal_order_check\daily_xls\DFP_FreshFood_Order_19_04_2024.xls
+xlsx file path: D:\SGC\TPTS_Project\df_portal_order_check\daily_xlsx\DFP_FreshFood_Order_19_04_2024.xlsx
+Used input date: 19_04_2024
+xls file path: D:\SGC\TPTS_Project\df_portal_order_check\daily_xls\DFP_FreshFood_Order_19_04_2024.xls
+xlsx file path: D:\SGC\TPTS_Project\df_portal_order_check\daily_xlsx\DFP_FreshFood_Order_19_04_2024.xlsx
+Default Date: Tomorrow - Created
+xls file path: D:\SGC\TPTS_Project\df_portal_order_check\daily_xls\DFP_FreshFood_Order_18_04_2024.xls
+xlsx file path: D:\SGC\TPTS_Project\df_portal_order_check\daily_xlsx\DFP_FreshFood_Order_18_04_2024.xlsx
+Report file existed
+Used input date: 19_04_2024
+xls file path: D:\SGC\TPTS_Project\df_portal_order_check\daily_xls\DFP_FreshFood_Order_19_04_2024.xls
+xlsx file path: D:\SGC\TPTS_Project\df_portal_order_check\daily_xlsx\DFP_FreshFood_Order_19_04_2024.xlsx
+Successfully convert xls file. Start analyzing now.
+Used input date: 19_04_2024
+xls file path: D:\SGC\TPTS_Project\df_portal_order_check\daily_xls\DFP_FreshFood_Order_19_04_2024.xls
+xlsx file path: D:\SGC\TPTS_Project\df_portal_order_check\daily_xlsx\DFP_FreshFood_Order_19_04_2024.xlsx
+Downloaded successfully
+Downloaded successfully
+D:\SGC\TPTS_Project\df_portal_order_check\daily_xls\DFP_FreshFood_Order_19_04_2024.xls
+D:\SGC\TPTS_Project\df_portal_order_check\daily_xls\DFP_FreshFood_Order_19_04_2024.xls
+Successfully download and save report files to destination directory
+Successfully download and save report files to destination directory
+Successfully convert xls file. Start analyzing now.
+Successfully get order list of 287
+Successfully convert xls file. Start analyzing now.
+Successfully get order list of 287
+Used input date: 20_04_2024
+xls file path: D:\SGC\TPTS_Project\df_portal_order_check\daily_xls\DFP_FreshFood_Order_20_04_2024.xls
+xlsx file path: D:\SGC\TPTS_Project\df_portal_order_check\daily_xlsx\DFP_FreshFood_Order_20_04_2024.xlsx
+Downloaded successfully
+D:\SGC\TPTS_Project\df_portal_order_check\daily_xls\DFP_FreshFood_Order_20_04_2024.xls
+Successfully download and save report files to destination directory
+Successfully convert xls file. Start analyzing now.
+Successfully get order list of 287
+Default Date: Tomorrow - Created
+xls file path: D:\SGC\TPTS_Project\df_portal_order_check\daily_xls\DFP_FreshFood_Order_18_04_2024.xls
+xlsx file path: D:\SGC\TPTS_Project\df_portal_order_check\daily_xlsx\DFP_FreshFood_Order_18_04_2024.xlsx
+Default Date: Tomorrow - Created
+xls file path: D:\SGC\TPTS_Project\df_portal_order_check\daily_xls\DFP_FreshFood_Order_18_04_2024.xls
+xlsx file path: D:\SGC\TPTS_Project\df_portal_order_check\daily_xlsx\DFP_FreshFood_Order_18_04_2024.xlsx
+Default Date: Tomorrow - Created
+xls file path: D:\SGC\TPTS_Project\df_portal_order_check\daily_xls\DFP_FreshFood_Order_18_04_2024.xls
+xlsx file path: D:\SGC\TPTS_Project\df_portal_order_check\daily_xlsx\DFP_FreshFood_Order_18_04_2024.xlsx
+Downloaded successfully
+D:\SGC\TPTS_Project\df_portal_order_check\daily_xls\DFP_FreshFood_Order_18_04_2024.xls
+Successfully download and save report files to destination directory
+Successfully convert xls file. Start analyzing now.
+Successfuly perform task: order_store
+Successfuly perform task: no_order_store
+Used input date: 19_04_2024
+xls file path: D:\SGC\TPTS_Project\df_portal_order_check\daily_xls\DFP_FreshFood_Order_19_04_2024.xls
+xlsx file path: D:\SGC\TPTS_Project\df_portal_order_check\daily_xlsx\DFP_FreshFood_Order_19_04_2024.xlsx
+Downloaded successfully
+D:\SGC\TPTS_Project\df_portal_order_check\daily_xls\DFP_FreshFood_Order_19_04_2024.xls
+Successfully download and save report files to destination directory
+Successfully convert xls file. Start analyzing now.
+Successfuly perform task: order_store
+Successfuly perform task: no_order_store

@@ -1,0 +1,4 @@
+Default Date: Tomorrow - Created
+xls file path: D:\SGC\TPTS_Project\df_portal_order_check\daily_xls\DFP_FreshFood_Order_19_04_2024.xls
+xlsx file path: D:\SGC\TPTS_Project\df_portal_order_check\daily_xlsx\DFP_FreshFood_Order_19_04_2024.xlsx
+Report file existed
