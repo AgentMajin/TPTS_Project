@@ -14,24 +14,28 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.firefox.options import Options
 
-
 # Define arguments
 parser = argparse.ArgumentParser()
 parser.add_argument('--check_date', type=str, default='', help='Order\'s date to check, format= dd_mm_yy')
-parser.add_argument('--order_store', action='store_true', help='True to export list of store with order on checking date')
-parser.add_argument('--no_order_store',action='store_true', help='True to export list of store without order on checking date')
-parser.add_argument('--store_list', nargs='+', type=int, help='List of store to check order list on checking date' )
+parser.add_argument('--order_store', action='store_true',
+                    help='True to export list of store with order on checking date')
+parser.add_argument('--no_order_store', action='store_true',
+                    help='True to export list of store without order on checking date')
+parser.add_argument('--store_list', nargs='+', type=int, help='List of store to check order list on checking date')
 args = parser.parse_args()
+
 
 # Log file
 def log_file(log_content):
     today = date.today().strftime(format='%d_%m_%y')
     logfile_name = today + '_log_file.txt'
-    with open(os.path.join(os.getcwd(), 'logfiles',logfile_name), 'a') as f:
+    with open(os.path.join(os.getcwd(), 'logfiles', logfile_name), 'a') as f:
         f.writelines(log_content)
         f.write('\n')
 
+
 # Function to download report files from Portal
+# noinspection PyTypeChecker
 def download_report(login_page,
                     report_page,
                     xls_filename,
@@ -40,7 +44,7 @@ def download_report(login_page,
     # Delete file in Download dir if exist a file with the same file name
     if os.path.isfile(os.path.join(download_dir, xls_filename)):
         os.remove(os.path.join(download_dir, xls_filename))
-    
+
     # Config options for the browser
     options = Options()
     options.set_preference("browser.download.folderList", 2)
@@ -52,14 +56,14 @@ def download_report(login_page,
     # Navigate to login_page and log in
     DRIVER.get(login_page)
     try:
-        user_field = DRIVER.find_element(By.ID,"inputUserName")
-        password_field = DRIVER.find_element(By.ID,"inputPassword")
+        user_field = DRIVER.find_element(By.ID, "inputUserName")
+        password_field = DRIVER.find_element(By.ID, "inputPassword")
     except NoSuchElementException:
         log_file('Failed to Login! Cannot locate user or password field')
         return
     user_field.send_keys('truong-vp')
     password_field.send_keys('DFp2023')
-    password_field.send_keys(Keys.RETURN)   
+    password_field.send_keys(Keys.RETURN)
 
     time.sleep(3)
     #  Navigate to report_page and download file
@@ -67,14 +71,17 @@ def download_report(login_page,
 
     time.sleep(5)
     try:
-        download_button = DRIVER.find_element(By.ID,"dataTable3_wrapper")\
-                                .find_element(By.CLASS_NAME,"dt-buttons")\
-                                .find_element(By.ID,'btnExportFFS')
-    except NoSuchElementException:
+        download_button = DRIVER.find_element(By.ID, "dataTable3_wrapper") \
+            .find_element(By.CLASS_NAME, "dt-buttons") \
+            .find_element(By.CLASS_NAME, 'dt-button btn btn-primary btn-dfp d-block float-left mr-1')
+    except Exception:
         log_file('Fail to download report! Cannot locate download button!')
         DRIVER.quit()
         return
-    download_button.click()
+    try:
+        download_button.click()
+    except Exception:
+        log_file("Click button failed")
     while not os.path.exists(f"{download_dir}/{xls_filename}"):
         time.sleep(1)
     log_file('Downloaded successfully')
@@ -82,8 +89,8 @@ def download_report(login_page,
         downloaded_files = glob.glob(download_dir + '\\*')
         report_file = max(downloaded_files, key=os.path.getctime)
         # file_name = report_file[24:]
-        shutil.copy(report_file, os.path.join(dir_to_save,xls_filename))
-        log_file(os.path.join(dir_to_save,xls_filename))
+        shutil.copy(report_file, os.path.join(dir_to_save, xls_filename))
+        log_file(os.path.join(dir_to_save, xls_filename))
     except KeyError:
         log_file('Failed to copy downloaded report to destination directory')
         DRIVER.quit()
@@ -92,32 +99,32 @@ def download_report(login_page,
     DRIVER.quit()
     return
 
+
 # Read xls file then convert it into xlsx file
 def convert_xls(input_path, output_path):
     try:
-        try:
-            app = xw.App(visible=False)
-            wb = app.books.open(input_path)
-        except KeyError:
-            log_file('Cannot open file')
+        app = xw.App(visible=False)
+        wb = app.books.open(input_path)
         # Save the file as xlsx
         wb.save(output_path)
-
         # Close the workbook and quit Excel
         wb.close()
         app.quit()
         return True
+
     except KeyError:
+        log_file('Cannot open file')
         return False
-    
+
+
 # Rewrite the header
 
 def clean_df(df):
-    """"
-    This function is used to transfrom the original dataframe with 
-    inapproriate columns name and structure.
+    """
+    This function is used to transform the original dataframe with
+    inappropriate columns name and structure.
 
-    Input: raw df read from excel files. See excel files to explore the structure
+    Input: raw df read from Excel files. See Excel files to explore the structure
     Output: df with columns that has been renamed, and
 
     """
@@ -125,32 +132,37 @@ def clean_df(df):
     for i, col in enumerate(df.columns):
         if i == 8:
             break
-        df.rename(columns={col: col_rename[i]},inplace=True)
+        df.rename(columns={col: col_rename[i]}, inplace=True)
     df = df.drop(index=0)
     df_melt = pd.melt(df, id_vars=df.columns[0:8], value_vars=df.columns[8:],
-                  var_name = 'Store', value_name='Order_Qty')
+                      var_name='Store', value_name='Order_Qty')
     return df_melt
 
+
 # Function to get order list of an input store
-def order_list(store,df):
-    return df[(df['Store'] == store) & \
+def order_list(store, df):
+    return df[(df['Store'] == store) &
               (~df['Order_Qty'].isna())]
+
 
 # Số SKU mỗi store đặt
 def store_group(df):
-    nSKU_by_Store = df.groupby(by='Store')['Order_Qty'].count()\
-                                                        .sort_values(ascending=False)\
-                                                        .reset_index()
-    stores_ordered_today = nSKU_by_Store[nSKU_by_Store['Order_Qty']>0].rename(columns={'Order_Qty': 'Số lượng SKU đã đặt'})
-    stores_has_no_order = nSKU_by_Store[nSKU_by_Store['Order_Qty']==0].rename(columns={'Order_Qty': 'Số lượng SKU đã đặt'})
+    nSKU_by_Store = df.groupby(by='Store')['Order_Qty'].count() \
+        .sort_values(ascending=False) \
+        .reset_index()
+    stores_ordered_today = nSKU_by_Store[nSKU_by_Store['Order_Qty'] > 0].rename(
+        columns={'Order_Qty': 'Số lượng SKU đã đặt'})
+    stores_has_no_order = nSKU_by_Store[nSKU_by_Store['Order_Qty'] == 0].rename(
+        columns={'Order_Qty': 'Số lượng SKU đã đặt'})
     return stores_ordered_today, stores_has_no_order
+
 
 # Function of exporting a df to csv file
 def export_df(df, filename):
-    # today = datetime.now().strftime(format='%d-%m')
     df.to_excel('output_files/' + filename + '.xlsx', index=False)
 
-# Function to get date with apporiate format
+
+# Function to get date with appropriate format
 def get_date(check_date, ):
     if check_date == '':
         # If no specific date is provided, use tomorrow's date for file naming
@@ -162,12 +174,14 @@ def get_date(check_date, ):
         log_file(f'Used input date: {check_date}')
     return date_string
 
-def main(check_date='', 
-         order_store=False, 
-         no_order_store=False, 
-         store_list=[]):
+
+# noinspection PyBroadException
+def main(check_date='',
+         order_store=False,
+         no_order_store=False,
+         store_list=None):
     """
-    This is the main fucntion of the script. 
+    This is the main function of the script.
 
     It includes following tasks:
         - Get list of stores with order on a specific date.
@@ -181,12 +195,14 @@ def main(check_date='',
         - store_list: List of store to check ordered SKUs on checking date.
 
     Returns:
-        - If order_store: Export an excel file to /output_files/date_store_with_order.xlsx
-        - If no_order_store: Export an excel file to /output_files/date_no_store_with_order.xlsx
-        - For each store in store_list: Export an excel file /output_files/date_store.xlsx
+        - If order_store: Export an Excel file to /output_files/date_store_with_order.xlsx
+        - If no_order_store: Export an Excel file to /output_files/date_no_store_with_order.xlsx
+        - For each store in store_list: Export an Excel file /output_files/date_store.xlsx
     """
 
-    # Get date with approriate format
+    # Get date with appropriate format
+    if store_list is None:
+        store_list = []
     date_string = get_date(check_date)
 
     # Specify the Excel file name with the determined date
@@ -194,19 +210,22 @@ def main(check_date='',
 
     # Get the path to the downloaded XLS file
     xls_file_path = os.path.join(os.getcwd(), 'daily_xls', xls_filename)
-    # log_file(f'xls file path: {xls_file_path}')
 
     # Generate the path to the intended output with XLSX extension
     xlsx_file_path = xls_file_path.replace('xls', 'xlsx')
-    # log_file(f'xlsx file path: {xlsx_file_path}')
 
-    # Check if xls file exist, and download if the check_date is blank, because Portal only save data of tomorrow's order.
+    # Check if xls file exist, and download if the check_date is blank,
+    # because Portal only save data of tomorrow's order.
     if not (os.path.isfile(xls_file_path)):
-        download_report(login_page = "https://sgcdfportal.southeastasia.cloudapp.azure.com/",
-                        xls_filename = xls_filename,
-                        download_dir = str(Path.home() / "Downloads"),
-                        report_page = f"https://sgcdfportal.southeastasia.cloudapp.azure.com/order/freshfoods?category=che-bien-nau-chin&ordered_day={(datetime.strptime(date_string,'%d_%m_%Y')).strftime(format='%d/%m/%y')}&transport_method=tat-ca",
-                        dir_to_save = os.path.join(os.getcwd(), 'daily_xls'))
+        download_report(login_page="https://sgcdfportal.southeastasia.cloudapp.azure.com/",
+                        xls_filename=xls_filename,
+                        download_dir=str(Path.home() / "Downloads"),
+                        report_page=f"https://sgcdfportal.southeastasia.cloudapp.azure.com/order/freshfoods?category"
+                                    f"=che-bien-nau-chin&"
+                                    f"ordered_day="
+                                    f"{(datetime.strptime(date_string, '%d_%m_%Y')).strftime(format='%d/%m/%Y')}\
+                                    &transport_method=tat-ca",
+                        dir_to_save=os.path.join(os.getcwd(), 'daily_xls'))
     else:
         log_file('Report file existed')
 
@@ -214,7 +233,7 @@ def main(check_date='',
     if not convert_xls(input_path=xls_file_path, output_path=xlsx_file_path):
         log_file('Fail to convert xls file')
         return
-    
+
     # If .xls file has been successfully converted, clean and perform tasks
     else:
         log_file('Successfully convert xls file. Start analyzing now.')
@@ -228,8 +247,8 @@ def main(check_date='',
                 store_with_orders, store_without_orders = store_group(df)
                 # Export DataFrame of stores with orders
                 export_df(store_with_orders, date_string + '_store_có_đặt')
-                log_file('Successfuly perform task: order_store')
-            except:
+                log_file('Successfully perform task: order_store')
+            except Exception:
                 log_file('Failed to perform task: order_store')
         if no_order_store:
             try:
@@ -237,8 +256,8 @@ def main(check_date='',
                 store_with_orders, store_without_orders = store_group(df)
                 # Export DataFrame of stores without orders
                 export_df(store_without_orders, date_string + '_store_không_đặt')
-                log_file('Successfuly perform task: no_order_store')
-            except:
+                log_file('Successfully perform task: no_order_store')
+            except Exception:
                 log_file('Failed to perform task: no_order_store')
         if store_list:  # Check if store_list is not empty
             # Loop over each store in the list
@@ -249,8 +268,9 @@ def main(check_date='',
                     # Export DataFrame of orders for the current store
                     export_df(order_by_store, date_string + '_' + str(store))
                     log_file(f"Successfully get order list of {store}")
-                except:
+                except Exception:
                     log_file(f'Failed to get store list of {store}')
+
 
 if __name__ == "__main__":
     main(check_date=args.check_date,
